@@ -1,0 +1,353 @@
+roaster_ID,roaster_name,roaster_city,roaster_country_id
+R1,94 Fresh Coffee,Kaohsiung,ctry15
+R2,A.R.C.,Hong Kong,ctry34
+R3,AHRIRE Roasting,Pu'Er Yunnan Province,ctry34
+R4,Allegro Coffee,Thornton,ctry37
+R5,Alterra Coffee Roasters,Milwaukee,ctry37
+R6,Amavida Coffee Roasters,Santa Rosa Beach,ctry37
+R7,Ancora Coffee Roasters,Madison,ctry37
+R8,Angeles Roastery,Hong Kong,ctry34
+R9,Another Beans Coffee Roasters,Seoul,ctry38
+R10,Argyle Coffee Roasters,Fort Lauderdale,ctry37
+R11,Atom Coffee Roasters,Douliou City,ctry15
+R12,Atomic Cafe Coffee Roasters,Salem,ctry37
+R13,BEI Coffee Roasters,Hong Kong,ctry34
+R14,BLK & Bold,Des Moines,ctry37
+R15,Bacca Cafe,Tainan,ctry15
+R16,Bar Nine,Los Angeles,ctry37
+R17,Bard Coffee,Portland,ctry37
+R18,Bargain Cafe,Taitung,ctry15
+R19,Barismo,Arlington,ctry37
+R20,Barrington Coffee Roasting,Lee,ctry37
+R21,Barrington Coffee Roasting Co.,Lee,ctry37
+R22,Batdorf & Bronson,Olympia,ctry39
+R23,BeanFruit Coffee Co.,Jackson,ctry37
+R24,Big Creek Coffee Roasters,Hamilton,ctry40
+R25,Big Island Coffee Roasters,Mountain View,ctry37
+R26,Big Nose Cafe,Hsinchu City,ctry15
+R27,Big Shoulders Coffee,Chicago,ctry37
+R28,Bird Rock Coffee Roasters,San Diego,ctry37
+R29,Black Coffee In Black Jar,Taichung,ctry15
+R30,Black Coffee in Black Jar,Taichung,ctry15
+R31,Blue Bottle Coffee,Oakland,ctry37
+R32,Blues Brew Coffee,Taipei,ctry15
+R33,Bona Kafo Roastery,Kaohsiung,ctry15
+R34,Bonfire Coffee Company,Carbondale,ctry37
+R35,Boon Boona Coffee,Renton,ctry37
+R36,Branch Street Coffee Roasters,Youngstown,ctry37
+R37,Brioso Coffee,Columbus,ctry37
+R38,Buon Caffe,Taipei,ctry15
+R39,Cadence Cold Brew Coffee,Madison,ctry37
+R40,Cafe Del Mundo,Anchorage,ctry37
+R41,Cafe Douceur,Tainan,ctry15
+R42,Cafe Est,Taipei,ctry15
+R43,Cafe Grumpy,Brooklyn,ctry37
+R44,Cafe Kreyol,Manassas,ctry37
+R45,Cafe Red Bean Shop,Taipei,ctry15
+R46,Cafe Unido,Washington,ctry37
+R47,Cafe Virtuoso,San Diego,ctry37
+R48,Cafe de Impression,Kaohsiung,ctry15
+R49,CafeTaster,Taipei,ctry15
+R50,Caffe Luxxe,Santa Monica,ctry37
+R51,Café Grumpy,Brooklyn,ctry37
+R52,Café de Impression,Kaohsiung,ctry15
+R53,Cambria Coffee,Cambria,ctry37
+R54,Campos Coffee,Newtown,ctry41
+R54,Campos Coffee,Sydney,ctry42
+R55,Canterbury Coffee,Richmond,ctry37
+R55,Canterbury Coffee,British Columbia,ctry40
+R56,Caoban Coffee,Taipei,ctry15
+R57,Caribou Coffee,Minneapolis,ctry37
+R58,Ceremony Coffee Roasters,Annapolis,ctry37
+R59,ChacolaTAY,Taichung,ctry15
+R60,Cherry Smile,Taipei,ctry15
+R61,Cherry Smile Specialty Coffee,Taipei,ctry15
+R62,Chocolate Fish Coffee Roasters,Sacramento,ctry37
+R63,Chromatic Coffee,San Jose,ctry37
+R64,Cimarron Coffee Roasters,Montrose,ctry37
+R65,Coastal Peaks Coffee,San Luis Obispo,ctry37
+R66,Coava Coffee Roasters,Portland,ctry37
+R67,CofFeeling,Kaohsiung,ctry15
+R68,Coffea Roasterie,Sioux Falls,ctry37
+R69,Coffee By Design,Portland,ctry37
+R70,Coffee Cycle,San Diego,ctry37
+R71,Coffee Dusk Roasters,Daejeon,ctry38
+R72,Coffee Factorial,San Diego,ctry37
+R73,Coffee Please,Taipei,ctry15
+R74,Coffee by Design,Portland,ctry37
+R75,Comestible Master Company,Taichung,ctry15
+R76,Compelling & Rich,Los Angeles,ctry37
+R77,Conscious Cup Coffee Roasters,Crystal Lake,ctry37
+R78,Corvus Coffee,Denver,ctry37
+R79,Corvus Coffee Roasters,Denver,ctry37
+R80,Counter Culture Coffee,Durham,ctry37
+R81,Cozy House Coffee,Taipei,ctry15
+R82,Creation Food Co.,Taipei,ctry15
+R83,Crescendo Coffee Roasters,Yongin-Si,ctry38
+R84,Crimson Cup Coffee & Tea,Columbus,ctry37
+R85,DOMA Coffee Roasting Company,Post Falls,ctry37
+R86,Daktari Coffee,Burlington,ctry37
+R87,David's Nose,Taipei,ctry15
+R88,Desolate Cafe,Nantou,ctry15
+R89,Difference Coffee,London,ctry41
+R90,Direct Coffee,Hsinchu,ctry15
+R91,DoDo Kaffa,Taipei,ctry15
+R92,Dory Coffee Roasters,Taipei,ctry15
+R93,Dou Zhai Coffee & Roast,Taoyuan,ctry15
+R94,Dragonfly Coffee Roasters,Henderson,ctry37
+R95,Drink Coffee Do Stuff,Truckee,ctry37
+R96,Duluth Coffee Company,Duluth,ctry37
+R97,Durango Coffee Company,Durango,ctry10
+R98,Dávila Kafe,Washington,ctry37
+R99,EK Roast Studio,Pingtung,ctry15
+R100,El Gran Cafe,Antigua,ctry43
+R101,El Gran Café,Antigua,ctry43
+R102,Equator Coffees,San Rafael,ctry37
+R103,Equator Coffees & Teas,San Rafael,ctry37
+R104,Equiano Coffee,Eugene,ctry37
+R105,Espresso Republic,Chino,ctry37
+R106,Euphora Coffee,Taipei,ctry15
+R107,Evie's Cafe,Chia-Yi,ctry15
+R108,Evie’s Cafe,Chia-Yi,ctry15
+R109,Felala Coffee Lab,Taipei,ctry15
+R110,Finca Las Nieves,San Juan Lachao,ctry10
+R110,Finca Las Nieves,Oaxaca,ctry10
+R111,Finca Tasta,Llayla,ctry44
+R111,Finca Tasta,atipo Province,ctry44
+R112,Flight Coffee Co.,Bedford,ctry37
+R113,Folly Coffee Roasters,Silver Lake,ctry37
+R114,Four Barrel Coffee,San Francisco,ctry37
+R115,Fratello Coffee Roasters,Calgary,ctry40
+R115,Fratello Coffee Roasters,Alberta,ctry40
+R116,Fumi Coffee,Hsinchu,ctry15
+R117,Fumi Coffee Company,Hsinchu,ctry15
+R118,Future Factory,Taipei,ctry15
+R119,GK Coffee,Yilan,ctry34
+R120,Gavagai,Kaohsiung,ctry15
+R121,Geisha Coffee Roaster,Longwood,ctry37
+R122,Genesis Coffee Lab,Big Lake,ctry37
+R123,George Howell Coffee Company,Acton,ctry41
+R124,Ghost Town Coffee Roasters,Bozeman,ctry37
+R125,Gimme! Coffee,Ithaca,ctry37
+R126,Giv COFFEE,Torrington,ctry37
+R127,Giv Coffee,Torrington,ctry37
+R128,"Good Chance Biotechnology, Ltd.",Taichung,ctry15
+R129,Good Folks Coffee,Louisville,ctry37
+R130,Gracenote Coffee Roasters,Boston,ctry37
+R131,Greater Goods Coffee Roasters,Austin,ctry37
+R132,Green Mountain Coffee,Waterbury,ctry37
+R133,Green Stone Coffee,Taipei,ctry15
+R134,GreenAlives,Taipei,ctry15
+R135,Greybox Coffee,Shanghai,ctry34
+R136,Hala Tree Kona Coffee,Captain Cook,ctry37
+R137,Hatch Coffee,Markham,ctry40
+R137,Hatch Coffee,Ontario,ctry40
+R138,Highwire Coffee Roasters,Emeryville,ctry37
+R139,Ho Soo Tsai,Kaohsiung,ctry15
+R140,Home in Harmony,Taipei,ctry15
+R141,Hula Daddy,Holulaloa,ctry44
+R142,Hula Daddy Kona Coffee,Holualoa,ctry37
+R143,Illuminista Coffee Roasters,Lake,ctry37
+R144,Indaba Coffee Roasters,Spokane,ctry37
+R145,Intelligentsia Coffee,Chicago,ctry37
+R146,Interpretation Coffee,Chia-Yi,ctry15
+R147,JBC Coffee Roasters,Madison,ctry37
+R148,JH Roaster,Taipei,ctry15
+R149,JYL Cafe,Changhua,ctry15
+R150,Jackrabbit Java,Thermopolis,ctry37
+R151,Jaunt Coffee Roasters,San Diego,ctry37
+R152,Joe Bean Roasters,Rochester,ctry37
+R153,Joe Van Gogh Coffee,Hillsborough,ctry37
+R154,Kafe Coffee Roastery,Zhubei,ctry15
+R155,Kaffetre,Changhua County,ctry15
+R156,Kakalove Cafe,Chia-Yi,ctry15
+R157,Kakalove Café,Chia-Yi,ctry15
+R158,Kaldi's Coffee Roasting,St. Louis,ctry37
+R159,Kasasagi Coffee Roasters,Taipei,ctry15
+R160,Kean Coffee,Newport Beach,ctry37
+R161,Klatch Coffee,Los Angeles,ctry37
+R162,Knockbox Coffee,Hong Kong,ctry34
+R163,Kona Farm Direct,Holualoa,ctry37
+R164,Kuma Coffee,Seattle,ctry37
+R165,LECO Coffee,Kaohsiung,ctry15
+R166,La Golondrina by Counter Culture Coffee,Durham,ctry37
+R167,Lab 146,Kaohsiung,ctry15
+R168,Las Chicas Del Café,London,ctry41
+R168,Las Chicas Del Café,Ontario,ctry40
+R169,Le Brewlife,Taichung,ctry15
+R170,Lexington Coffee Roasters,Lexington,ctry37
+R171,Lina Premium Coffee,Bogota,ctry1
+R172,MJ Bear Coffee,Taipei,ctry15
+R173,MK Coffee Roasters,Taipei,ctry15
+R174,Magnolia Coffee,Charlotte,ctry37
+R175,ManLao River Coffee Company,Pu’Er,ctry34
+R175,ManLao River Coffee Company,Yunnan Province,ctry34
+R176,Marcheur Roaster,Taipei,ctry15
+R177,Merge Coffee Company,Harrisonburg,ctry37
+R178,Metropolis Coffee,Chicago,ctry37
+R179,Mi's Cafe,Kaohsiung,ctry15
+R180,Miranda Farms,Ka'u,ctry45
+R181,Modern Times,San Diego,ctry37
+R182,Modern Times Coffee,San Diego,ctry37
+R183,Mojo Coffee Roasters,New Orleans,ctry37
+R184,Monarch Coffee,Holualoa,ctry37
+R185,MoonMoon Coffee,Taipei,ctry15
+R186,Moore Coffee,Ventura,ctry37
+R187,Mostra Coffee,San Diego,ctry37
+R188,Mother Pigeons,Jakarta,ctry17
+R189,Mr. Espresso,Oakland,ctry37
+R190,Mudhouse Coffee Roasters,Charlottesville,ctry37
+R191,Mute Roaster,Macao,ctry34
+R192,NINETYs Roastery,Hong Kong,ctry34
+R193,Namusairo Coffee,Seoul,ctry38
+R194,Noble Coffee Roasting,Ashland,ctry37
+R195,Noelia Coffee,Paju City (Gyeonggi-do),ctry38
+R196,Normandy Coffee Thai Cuisine,Kaohsiung,ctry15
+R197,Northbound Coffee Roasters,Mount Shasta,ctry37
+R198,Nostalgia Coffee Roasters,San Diego,ctry37
+R199,Notch Coffee,Vancouver,ctry40
+R199,Notch Coffee,British Columbia,ctry40
+R200,Novo Coffee,Denver,ctry37
+R201,OQ Coffee Co.,Highland Park,ctry37
+R202,Oak & Bond Coffee Company,Charlotte,ctry37
+R203,Oceana Coffee,Tequesta,ctry37
+R204,Old Soul Co.,Sacramento,ctry37
+R205,Old World Coffee Lab,Reno,ctry37
+R206,Olympia Coffee Roasting,Olympia,ctry39
+R207,Omine Coffee,Taipei,ctry15
+R208,One Fresh Cup,Taipei,ctry15
+R209,Origin Coffee Roasters,Kihei,ctry37
+R209,Origin Coffee Roasters,Maui,ctry37
+R210,PERC Coffee Roasters,Savannah,ctry37
+R211,PT's Coffee Roasting,Topeka,ctry37
+R212,PT's Coffee Roasting Co.,Topeka,ctry37
+R213,PT’s Coffee Roasting Co.,Topeka,ctry37
+R214,Papa Lin's Coffee Roasting,Yorktown Heights,ctry37
+R215,Paradise Roasters,Hilo,ctry37
+R216,Park Avenue Coffee,St. Louis,ctry37
+R217,Peach Coffee Roasters,Johns Creek,ctry37
+R218,Peacock Coffee Roaster,Taipei,ctry15
+R219,Per'la Specialty Roasters,Miami,ctry37
+R220,Per’la Specialty Roasters,Miami,ctry37
+R221,Plat Coffee Roastery,Hong Kong,ctry34
+R222,Pop Coffee Works,Toronto,ctry40
+R222,Pop Coffee Works,Ontario,ctry40
+R223,Port of Mokha,San Jose,ctry37
+R224,Portrait Coffee,Atlanta,ctry37
+R225,Prairie Lily Coffee,Lloydminster,ctry40
+R225,Prairie Lily Coffee,Saskatchewan,ctry40
+R226,Press Coffee,Phoenix,ctry37
+R227,Press Coffee Roasters,Phoenix,ctry37
+R228,Pro Aroma Enterprise Coffee,Taichung,ctry15
+R229,Propeller Coffee,Toronto,ctry40
+R229,Propeller Coffee,Ontario,ctry40
+R230,Quartet Kaffe,Taipei,ctry15
+R231,Queen Coffee,Taipei,ctry15
+R232,R Miguel,Anoka,ctry37
+R233,RD Cafe,Hsinchu,ctry15
+R234,RND & Red Rooster Coffee Roaster,Roanoke,ctry37
+R234,RND & Red Rooster Coffee Roaster,Virginia and Floyd,ctry37
+R235,RamsHead Coffee Roasters,Bozeman,ctry37
+R236,Ramshead Coffee Roasters,Bozeman,ctry37
+R237,Red Rock Roasters,Albuquerque,ctry37
+R238,Red Rooster Coffee Roaster,Floyd,ctry37
+R239,Regent Coffee,Glendale,ctry37
+R240,Return Coffee Roastery,Kowloon,ctry34
+R240,Return Coffee Roastery,Hong Kong,ctry34
+R241,Reunion Island Coffee,Oakville,ctry40
+R241,Reunion Island Coffee,Ontario,ctry40
+R242,Revel Coffee,Billings,ctry37
+R243,Roadmap CoffeeWorks,Lexington,ctry37
+R244,Roadmap Coffeeworks,Kiambu County,ctry2
+R245,Roast House,Spokane,ctry37
+R246,Roasters Note,Changhua County,ctry15
+R247,Roasting Room,Suzhou,ctry34
+R248,Rusty's Hawaiian,Pahala,ctry37
+R249,Rusty's Hawaiian Coffee,Pahala,ctry37
+R250,Rusty’s Hawaiian,Pahala,ctry37
+R251,SO Roasters,,ctry44
+R252,SOT Coffee Roaster,Osaka,ctry46
+R253,Sacred Grounds Organic Coffee Roasters,Arcata,ctry37
+R254,Samlin Coffee,Taipei,ctry15
+R255,San Francisco Bay Coffee,Lincoln,ctry37
+R256,San Francisco Bay Coffee Company,Lincoln,ctry37
+R257,Santos Coffee,Minxiong,ctry15
+R257,Santos Coffee,Chia-Yi,ctry15
+R258,Satur Specialty Coffee,Tainan,ctry15
+R259,Seasons Coffee Roasters,Sacramento,ctry37
+R260,"Seeker Co, Ltd.",Taipei,ctry15
+R261,"Shanghai Creation Trading Co, Ltd.",Shanghai,ctry34
+R262,Sightglass Coffee,San Francisco,ctry37
+R263,Simon Hsieh Aroma Roast Coffees,Taoyuan,ctry15
+R264,Simon Hsieh's Aroma Roast Coffees,Taoyuan,ctry15
+R265,Simon Hsieh’s Aroma Roast Coffees,Taoyuan,ctry15
+R266,Singsun Coffee,Hsinchu,ctry15
+R267,SkyTop Coffee,Manlius,ctry37
+R268,Slingshot Coffee,Raleigh,ctry37
+R269,Small Eyes Cafe,Yilan,ctry34
+R270,Small Eyes Café,Yilan,ctry34
+R271,Social Coffee & Tea Company,Richmond Hill,ctry40
+R271,Social Coffee & Tea Company,Ontario,ctry40
+R272,Souvenir Coffee,Berkeley,ctry37
+R273,Speckled Ax,Portland,ctry37
+R274,St1 Cafe/Work Room,Tainan,ctry15
+R275,States Coffee,Martinez,ctry37
+R276,States Coffee & Mercantile,Martinez,ctry37
+R277,Stauf's Coffee Roasters,Columbus,ctry37
+R278,Steady State Roasting,Carlsbad,ctry37
+R279,Steady State Roasting Company,Carlsbad,ctry37
+R280,Stereo Coffee Roasters,Toronto,ctry40
+R280,Stereo Coffee Roasters,Ontario,ctry40
+R281,Strongtree Heirloom Organic Coffees,Hudson,ctry37
+R282,Stumptown Coffee Roasters,Portland,ctry37
+R283,Sweet Bloom Coffee Roasters,Denver,ctry37
+R284,SÖT Coffee Roaster,Osaka,ctry46
+R285,T.S.E. Custom Roastery,Taipei,ctry15
+R286,Taokas Coffee,Zhubei City,ctry15
+R287,Taster's Coffee,Taipei,ctry15
+R288,Taster’s Coffee,Taipei,ctry15
+R289,Te Aro Roasted,Toronto,ctry40
+R289,Te Aro Roasted,Ontario,ctry40
+R290,Temple Coffee,Sacramento,ctry37
+R291,Temple Coffee Roasters,Sacramento,ctry37
+R292,Temple Coffee and Tea,Sacramento,ctry37
+R293,Terroir Coffee,Acton,ctry41
+R294,Terroir Select Coffees,Acton,ctry41
+R295,Thanksgiving Coffee,Fort Bragg,ctry37
+R296,Thanksgiving Coffee Company,Fort Bragg,ctry37
+R297,The Angry Roaster,Toronto,ctry40
+R298,The Coffee Academics,Hong Kong,ctry34
+R299,The Curve Coffee Roasting Co.,Taichung,ctry15
+R300,The Roasterie,Kansas City,ctry37
+R301,The Supreme Bean,North Hollywood,ctry37
+R302,The WestBean Coffee Roasers,San Diego,ctry37
+R303,The WestBean Coffee Roasters,San Diego,ctry37
+R304,Theory Coffee Roasters,Redding,ctry37
+R305,Thirty-Thirty Coffee Co.,Peoria,ctry37
+R306,Three Keys Coffee,Houston,ctry37
+R307,Tipico Coffee,Buffalo,ctry37
+R308,Tony's Coffees & Teas,Bellingham,ctry37
+R309,Tony's Coffees and Teas,Bellingham,ctry37
+R310,Topeca Coffee Roasters,Tulsa,ctry37
+R311,Torreo Coffee Roasters,Philadelphia,ctry37
+R312,Turning Point Coffee,San Francisco,ctry37
+R313,Turnstile Coffee Roasters,Belmar,ctry37
+R314,VERYTIME,Taoyuan,ctry15
+R315,Velton's Coffee,Everett,ctry37
+R316,Vennel Coffee,Taipei,ctry15
+R317,Vermont Artisan Coffee & Tea,Waterbury Center,ctry37
+R318,Very Famous International,Taichung,ctry15
+R319,Victrola Coffee Roasters,Seattle,ctry37
+R320,Vigilante Coffee,Washington,ctry37
+R321,Volcanica Coffee,Suwanee,ctry37
+R322,Warm Air Kafe,Taoyuan,ctry15
+R323,Water Avenue Coffee,Portland,ctry37
+R324,Water Avenue Coffee Company,Portland,ctry37
+R325,Wei Chuan Foods Corporation,Taipei,ctry15
+R326,Wild Goose Coffee Roasters,Redlands,ctry37
+R327,Willoughby's Coffee & Tea,Branford,ctry37
+R328,Wonderstate Coffee,Viroqua,ctry37
+R329,Wood-Fire Roasted Coffee,Reno,ctry37
+R330,Yellow Brick Coffee,Tucson,ctry37
+R331,modcup,Jersey City,ctry37
+R332,modcup coffee,Jersey City,ctry37

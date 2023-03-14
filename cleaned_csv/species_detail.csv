@@ -1,0 +1,60 @@
+species_name,plant_stature,leaf_colour,bean_size,altitude_low_lat,altitude_medium_lat,altitude_high_lat,quality_at_high_altitude,yield_potential,CLR_resistant,CBD_resistant,nematodes_resistant,nutrition_require,species_id
+Anacafe 14,Dwarf/Compact,Green,Very Large,1200,900,700,Good,High,Resistant,Susceptible,Susceptible,High,S1
+Batian,Tall,Green or Bronze,Very Large,1000,700,400,Very Good,High,Tolerant,Resistant,Susceptible,Medium,S2
+Bourbon,Tall,Green,Average,1600,1300,1000,Very Good,Medium,Susceptible,Susceptible,Susceptible,Medium,S3
+Bourbon Mayaguez 71,Tall,Bronze,Large,1200,900,700,Good,Medium,Susceptible,Susceptible,Unknown,Medium,S4
+Bourbon Mayaguez 139,Tall,Bronze,Large,1200–1600,900–1300,700–1000,Very Good,High,Susceptible,Susceptible,Unknown,Medium,S5
+Casiopea,Dwarf/Compact,Bronze,Large,1600,1300,1000,Exceptional,High,Susceptible,Susceptible,Susceptible,High,S6
+Catimor 129 Cat129,Dwarf/Compact,Green,Large,1000–1600,700–1300,400–1000,Good,Very High,Resistant,Resistant,Susceptible,High,S7
+Catisic,Dwarf/Compact,Bronze,Average,1000–1600,700–1300,400–1000,Very Low,High,Resistant,Susceptible,Susceptible,High,S8
+Catuai,Dwarf/Compact,Green,Average,1600,1300,1000,Good,Good,Susceptible,Susceptible,Susceptible,High,S9
+Caturra,Dwarf/Compact,Green,Average,1600,1300,1000,Good,Good,Susceptible,Susceptible,Susceptible,High,S10
+Centroamericano,Dwarf/Compact,Green,Large,1000,700,400,Very Good,Very High,Resistant,Tolerant,Susceptible,Very High,S11
+Costa Rica 95,Dwarf/Compact,Bronze,Average,1000–1600,700–1300,400–1000,Low,High,Susceptible,Susceptible,Susceptible,High,S12
+Cuscatleco,Dwarf/Compact,Green,Large,1000–1600,700–1300,400–1000,Good,Good,Resistant,Unknown,Resistant,High,S13
+Evaluna,Dwarf/Compact,Light Bronze,Large,1600,1300,1000,Very Good,High,Susceptible,Tolerant,Susceptible,High,S14
+Fronton,Dwarf/Compact,Green or Bronze,Average,1000–1600,700–1300,400–1000,Good,Good,Resistant,Unknown,Unknown,High,S15
+Geisha,Tall,Green or Bronze,Average,1600,1300,1000,Exceptional,Medium,Tolerant,Susceptible,Susceptible,Medium,S16
+H3,Dwarf/Compact,Green,Large,1600,1300,1000,Very Good,High,Susceptible,Susceptible,Susceptible,High,S17
+Harrar Rwanda Harar,Tall,Dark Bronze,Average,1200,900,700,Very Good,High,Susceptible,Susceptible,Unknown,Medium,S18
+IAPAR 59,Dwarf/Compact,Light Bronze,Average,1000–1600,700–1300,400–1000,Low,Good,Resistant,Susceptible,Resistant,High,S19
+IHCAFE 90,Dwarf/Compact,Dark Bronze,Average,1000–1600,700–1300,400–1000,Very Low,High,Susceptible,Susceptible,Susceptible,Very High,S20
+Jackson 2/1257,Tall,Bronze,Large,1200,900,700,Good,High,Susceptible,Susceptible,Unknown,Medium,S21
+Java,Tall,Bronze,Large,1600,1300,1000,Very Good,Medium,Tolerant,Tolerant,Susceptible,Low,S22
+K7,Tall,Light Bronze,Large,1000–1600,700–1300,400–1000,Good,High,Tolerant,Tolerant,Susceptible,Medium,S23
+KP423,Tall,Light Bronze,Average,1200–1600,900–1300,700–1000,Low,High,Tolerant,Susceptible,Susceptible,Medium,S24
+Lempira,Dwarf/Compact,Bronze,Average,1000–1600,700–1300,400–1000,Low,High,Susceptible,Susceptible,Susceptible,High,S25
+Limani,Dwarf/Compact,Bronze,Average,1000–1600,700–1300,400–1000,Good,Good,Resistant,Unknown,Unknown,High,S26
+Maragogipe,Tall,Bronze,Very Large,1600,1300,1000,Very Good,Low,Susceptible,Susceptible,Susceptible,Low,S27
+Marsellesa,Dwarf/Compact,Green,Average,1000–1600,700–1300,400–1000,Good,High,Resistant,Tolerant,Susceptible,High,S28
+Mibirizi,Tall,Green or Bronze,Large,1600,1300,1000,Exceptional,Good,Susceptible,Susceptible,Unknown,Low,S29
+Milenio,Dwarf/Compact,Green,Large,1200,900,700,Very Good,Very High,Resistant,Tolerant,Susceptible,Unknown,S30
+Mundo Maya,Dwarf/Compact,Bronze,Large,1200,900,700,Very Good,High,Resistant,Tolerant,Resistant,High,S31
+Mundo Novo,Tall,Green or Bronze,Average,1600,1300,1000,Good,High,Susceptible,Susceptible,Susceptible,High,S32
+Nayarita,Dwarf/Compact,Dark Bronze,Large,1600,1300,1000,Very Good,High,Susceptible,Tolerant,Susceptible,High,S33
+Nemaya,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Resistant,Not Applicable,Not Applicable,,,S34
+Nyasaland,Tall,Light Bronze,Average,1200,900,700,Good,Good,Susceptible,Susceptible,Unknown,Low,S35
+Obata Rojo,Dwarf/Compact,Green,Large,1000–1600,700–1300,400–1000,Good,High,Resistant,Unknown,Unknown,High,S36
+Oro Azteca,Dwarf/Compact,Green,Average,1000–1600,700–1300,400–1000,Good,High,Resistant,Susceptible,Susceptible,High,S37
+Pacamara,Dwarf/Compact,Green or Bronze,Very Large,1600,1300,1000,Exceptional,Good,Susceptible,Susceptible,Susceptible,Medium,S38
+Pacas,Dwarf/Compact,Green,Average,1600,1300,1000,Good,Good,Susceptible,Susceptible,Susceptible,Medium,S39
+Pache,Dwarf/Compact,Bronze,Large,1600,1300,1000,Good,Medium,Susceptible,Susceptible,Susceptible,Medium,S40
+Parainema,Dwarf/Compact,Green,Large,1000–1600,700–1300,400–1000,Good,Good,Resistant,Tolerant,Resistant,High,S41
+Pop3303/21,Tall,Bronze,Average,1200,900,700,Good,High,Resistant,Tolerant,Unknown,High,S42
+RAB C15,Tall,Green or Bronze,Large,1200,900,700,Very Good,Very High,Resistant,Resistant,Unknown,High,S43
+Ruiru 11,Dwarf/Compact,Green or Bronze,Large,1000,700,400,Good,Very High,Tolerant,Resistant,Susceptible,High,S44
+SL14,Tall,Light Bronze,Average,1200,900,700,Good,High,Susceptible,Susceptible,Susceptible,Low,S45
+SL28,Tall,Green,Large,1200,900,700,Exceptional,Very High,Susceptible,Susceptible,Susceptible,Low,S46
+SL34,Tall,Dark Bronze,Large,1200,900,700,Exceptional,High,Susceptible,Susceptible,Susceptible,Medium,S47
+Starmaya,Dwarf/Compact,Green,Large,1200–1600,900–1300,700–1000,Very Good,High,Resistant,Unknown,Unknown,Medium,S48
+T5175,Dwarf/Compact,Dark Bronze,Average,1000–1600,700–1300,400–1000,Very Low,High,Resistant,Susceptible,Susceptible,Very High,S49
+T5296,Dwarf/Compact,Green,Large,1000–1600,700–1300,400–1000,Good,Good,Resistant,Tolerant,Unknown,High,S50
+T8667,Dwarf/Compact,Bronze,Average,1000–1600,700–1300,400–1000,Low,High,Resistant,Susceptible,Susceptible,High,S51
+Tekisic,Tall,Green,Average,1600,1300,1000,Very Good,Medium,Susceptible,Susceptible,Susceptible,Medium,S52
+Typica,Tall,Bronze,Large,1600,1300,1000,Very Good,Low,Susceptible,Susceptible,Susceptible,Medium,S53
+Venecia,Dwarf/Compact,Green,Large,1200,900,700,Good,Good,Susceptible,Susceptible,Susceptible,High,S54
+Villa Sarchi,Dwarf/Compact,Green,Below Average,1600,1300,1000,Good,Good,Susceptible,Susceptible,Susceptible,High,S55
+S795,Not Applicable,Not Applicable,Large,1000-1600,700-1300,400-1000,Very Good,Medium,Resistant,Susceptible,Susceptible,Not Applicable,S56
+Wush Wush,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,S57
+Heirloom,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,S58
+Landrace,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,S59

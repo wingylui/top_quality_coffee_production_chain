@@ -1,0 +1,1598 @@
+coffee_ID,coffee_name,review_date,coffee_rating,agtron_WB,agtron_AG,aroma,acidity,body,flavor,aftertaste,roast_lv_id,roaster_ID,price_per_kg_USD
+C1,Colombia Pink Bourbon,March 2023,95,64.0,82.0,9.0,9.0,9.0,9.0,9.0,RL2,R331,120.0
+C2,Kenya Kiambu Mandela Estate AA Washed Process,March 2023,94,60.0,77.0,9.0,9.0,9.0,9.0,8.0,RL5,R38,50.793650793650784
+C3,Costa Rica Volcán Azul Geisha Yeast-Washed,March 2023,94,62.0,80.0,9.0,9.0,9.0,9.0,8.0,RL2,R154,115.2
+C4,Ethiopia Yirgacheffe Adame G1 Natural,March 2023,94,63.0,79.0,9.0,9.0,9.0,9.0,8.0,RL2,R56,80.02645502645501
+C5,Kenya Gichathaini,February 2023,94,64.0,82.0,9.0,9.0,9.0,9.0,8.0,RL2,R290,73.48834474852288
+C6,Guatemala Retiro del Quisaya Natural Process,February 2023,94,59.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R97,55.704165319380344
+C7,Ethiopia Sidama Karamo Anaerobic Natural,February 2023,94,62.0,79.0,9.0,9.0,9.0,9.0,8.0,RL5,R235,102.88368264793205
+C8,Colombia Geiner Montano,February 2023,94,62.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R290,72.01857785355243
+C9,Kabiufa Papua New Guinea,February 2023,94,58.0,77.0,9.0,9.0,9.0,8.0,9.0,RL5,R147,58.79067579881831
+C10,Ka‘u Red Catuai Peaberry,February 2023,94,59.0,74.0,9.0,9.0,9.0,9.0,8.0,RL5,R215,264.55026455026456
+C11,Ethiopia Kayon Mountain,February 2023,94,64.0,82.0,9.0,9.0,9.0,9.0,8.0,RL2,R243,61.58323289926217
+C12,Panama Finca Las Nubes Geisha Microlot,February 2023,94,60.0,77.0,9.0,9.0,9.0,9.0,8.0,RL5,R317,66.13756613756614
+C13,Guatemala El Milagro Bourbon Especial,January 2023,95,60.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R212,82.30694611834564
+C14,Costa Rica William Mora,January 2023,94,65.0,84.0,9.0,9.0,9.0,9.0,8.0,RL2,R226,82.30694611834564
+C15,Ethiopia Duromina Agaro Gera,January 2023,94,62.0,81.0,9.0,9.0,9.0,9.0,8.0,RL2,R197,49.97207442899556
+C16,Winter 2022 Allocation Colombia,January 2023,94,62.0,80.0,9.0,9.0,9.0,9.0,8.0,RL2,R226,293.9447383891828
+C17,Laura’s Reserve SL34,January 2023,96,60.0,80.0,9.0,9.0,9.0,10.0,9.0,RL5,R142,308.4215167548501
+C18,El Salvador 2022 COE#17 El Mirador Washed Gesha,January 2023,96,58.0,78.0,9.0,9.0,9.0,9.0,10.0,RL5,R156,145.5026455026455
+C19,Panama ABU Washed Gesha Lot GW57,January 2023,95,64.0,84.0,9.0,9.0,9.0,9.0,9.0,RL2,R156,291.005291005291
+C20,Guatemala Natural El General Bistro Lot Espresso,January 2023,94,58.0,76.0,9.0,9.0,9.0,8.0,9.0,RL5,R156,42.195767195767196
+C21,Ethiopia 2022 COE#25 Natural Tadesse 74112,January 2023,94,65.0,84.0,9.0,9.0,9.0,9.0,8.0,RL2,R156,130.95238095238093
+C22,Ethiopia Washed Sidama Rumudamo,January 2023,94,64.0,86.0,9.0,9.0,9.0,9.0,8.0,RL2,R156,56.74603174603174
+C23,Lemon Sugar Wash,January 2023,95,59.0,77.0,9.0,9.0,9.0,9.0,9.0,RL5,R133,80.66666666666666
+C24,Kenya Kiambu AA,January 2023,95,60.0,76.0,9.0,9.0,9.0,9.0,9.0,RL5,R148,95.33333333333333
+C25,Colombia Geisha Allium,January 2023,94,62.0,84.0,9.0,9.0,9.0,9.0,8.0,RL2,R198,286.59611992945327
+C26,Wilton Benitez Orange Bourbon,January 2023,96,60.0,82.0,9.0,9.0,10.0,10.0,8.0,RL2,R147,83.7742504409171
+C27,Kayon Mountain Ethiopia,January 2023,94,58.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R147,52.91160821893648
+C28,Ethiopia Kochere Arefasa Washed G1,January 2023,94,62.0,80.0,9.0,9.0,9.0,9.0,8.0,RL2,R88,72.68722466960352
+C29,Colombia Granja Paraíso Java P14,December 2022,95,64.0,82.0,9.0,9.0,9.0,9.0,9.0,RL2,R215,440.9171075837742
+C30,El Salvador Finca El Retiro Sudan Rume Natural,December 2022,94,62.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R146,69.56521739130434
+C31,Ethiopia Hayissa Olocho Lot 6,December 2022,94,61.0,82.0,9.0,9.0,9.0,9.0,8.0,RL2,R210,95.23809523809523
+C32,Nyeri Hill Kenya,December 2022,94,58.0,80.0,9.0,9.0,9.0,9.0,8.0,RL5,R147,64.66974337870015
+C33,Ethiopia COE #8 Sidama Arbegona Muluneh Tute Galcho 74158 Natural,December 2022,95,63.0,82.0,9.0,9.0,9.0,9.0,9.0,RL2,R269,280.5
+C34,Chelbessa Ethiopia,December 2022,94,60.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R147,58.79067579881831
+C35,Ka’u Tropical Punch,December 2022,94,60.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R215,220.4585537918871
+C36,Ethiopia Gesha Village Illubabor Forest Lot 22/043 (Single-Terroir) Natural Process,December 2022,94,64.0,84.0,9.0,9.0,8.0,9.0,9.0,RL2,R38,98.7
+C37,Ethiopia Gera Genji Challa,December 2022,94,59.0,77.0,9.0,9.0,9.0,9.0,8.0,RL5,R187,82.30694611834564
+C38,Kenya Gotomboya Peaberry,December 2022,94,59.0,77.0,9.0,9.0,8.0,9.0,9.0,RL5,R187,79.36741232840473
+C39,Panama Hartmann Estate Chicho Gallo Amaro Gayo Natural BOP#1,December 2022,94,60.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R38,181.2
+C40,Kenya Ichamama,December 2022,94,59.0,77.0,9.0,9.0,9.0,9.0,8.0,RL5,R187,82.30694611834564
+C41,Ethiopia Uchoro Nansebo Washed,December 2022,95,60.0,82.0,9.0,9.0,9.0,9.0,9.0,RL2,R238,79.36741232840473
+C42,Nekisse Phantom Roasting,December 2022,95,64.0,83.0,9.0,9.0,9.0,9.0,9.0,RL2,R13,550.3333333333334
+C43,Colombia Finca Samboni Gesha Anaerobic Natural,December 2022,94,62.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R238,88.18601369822746
+C44,Kambera Inari Roasting,December 2022,94,62.0,80.0,9.0,9.0,9.0,9.0,8.0,RL2,R13,448.73333333333335
+C45,Colombia Don Correa Gesha,December 2022,94,62.0,80.0,9.0,9.0,9.0,9.0,8.0,RL2,R243,96.85763837855318
+C46,Ethiopia BergWu Maker Series Yirgacheffe Wuri G1 Lot MW21/02,December 2022,94,62.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R8,81.30000000000001
+C47,Mexico Finca Santa Cruz COE#1b,December 2022,94,64.0,84.0,9.0,9.0,9.0,9.0,8.0,RL2,R191,632.5
+C48,Wilton Benitez Geisha,November 2022,95,59.0,81.0,9.0,9.0,9.0,9.0,9.0,RL5,R147,110.22927689594356
+C49,Colombia Cerro Azul Geisha,November 2022,95,62.0,80.0,9.0,9.0,9.0,9.0,9.0,RL2,R28,260.14109347442684
+C50,Yirgacheffe Mengesha Natural,November 2022,94,60.0,77.0,9.0,9.0,9.0,9.0,8.0,RL5,R239,60.26044269378877
+C51,Panama Geisha Finca Debra Symbiosis,November 2022,94,62.0,80.0,9.0,9.0,9.0,9.0,8.0,RL2,R304,396.8253968253968
+C52,Panama Geisha Finca Debra Echo,November 2022,94,64.0,80.0,9.0,9.0,9.0,9.0,8.0,RL2,R304,200.0
+C53,Ethiopia Hamasho Washed,November 2022,95,62.0,81.0,9.0,9.0,9.0,9.0,9.0,RL2,R215,73.48834474852288
+C54,Ethiopia Idido Anaerobic Natural,November 2022,95,61.0,80.0,9.0,9.0,9.0,9.0,9.0,RL5,R215,117.57789535567314
+C55,Mexico Cup of Excellence #7,November 2022,94,62.0,80.0,9.0,9.0,9.0,9.0,8.0,RL2,R267,117.58135159763663
+C56,Ethiopia Reko Yirgacheffe,November 2022,94,60.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R290,69.0790440636115
+C57,Double-Anaerobic Fermentation Tamiru Tadesse,November 2022,94,62.0,80.0,9.0,9.0,9.0,9.0,8.0,RL2,R122,141.09347442680775
+C58,Ethiopia Chelbesa Danche Yirgacheffe,November 2022,94,60.0,77.0,9.0,9.0,9.0,9.0,8.0,RL5,R151,70.54881095858197
+C59,Ethiopia Honey Process Tamiru Tadesse,November 2022,94,64.0,83.0,9.0,9.0,9.0,9.0,8.0,RL2,R122,123.45679012345678
+C60,Ethiopia Halo Beriti,November 2022,96,60.0,77.0,9.0,9.0,9.0,10.0,9.0,RL5,R243,61.58323289926217
+C61,Narsha Gesha,November 2022,96,63.0,81.0,9.0,9.0,9.0,10.0,9.0,RL2,R78,175.0
+C62,Ethiopia Washed Guji Uraga Welichu,November 2022,96,58.0,78.0,9.0,9.0,9.0,10.0,9.0,RL5,R156,54.58553791887125
+C63,Don Roger & Isabel’s Natural Fruit Symphony,November 2022,94,60.0,77.0,9.0,9.0,9.0,9.0,8.0,RL5,R152,108.57142857142857
+C64,Kenya Gitare AA TOP,November 2022,95,62.0,80.0,9.0,9.0,9.0,9.0,9.0,RL2,R156,49.47089947089947
+C65,Yemen Natural Sana’a Manakhah Ja’adi,November 2022,95,58.0,77.0,9.0,9.0,9.0,9.0,9.0,RL5,R156,261.90476190476187
+C66,Ethiopia Bench Maji Gesha Special Natural Lot 03,November 2022,95,64.0,81.0,9.0,9.0,9.0,9.0,9.0,RL2,R156,58.201058201058196
+C67,Ethiopia Yirgacheffe Kochere Debo Premium Lot Washed Process,November 2022,94,62.0,80.0,9.0,9.0,9.0,9.0,8.0,RL2,R38,66.7989417989418
+C68,Ethiopia Natural Yirgacheffe Burtukaana Danche,November 2022,94,60.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R156,50.925925925925924
+C69,Ethiopia Hateso Guji Washed,November 2022,94,59.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R235,58.79067579881831
+C70,Guatemala El Injerto Pacamara,November 2022,94,58.0,74.0,9.0,9.0,9.0,9.0,8.0,RL5,R102,129.33568489124045
+C71,Colombia Finca Samboni Gesha Anaerobic Natural,November 2022,95,62.0,80.0,9.0,9.0,9.0,9.0,9.0,RL2,R174,132.2790205473412
+C72,Colombia Tres Dragones,November 2022,94,64.0,84.0,9.0,9.0,9.0,9.0,8.0,RL2,R28,81.12874779541445
+C73,Rwanda Cyesha Natural,November 2022,94,58.0,74.0,9.0,9.0,9.0,9.0,8.0,RL5,R174,76.4278785384638
+C74,Espresso No. 3,November 2022,94,54.0,78.0,9.0,9.0,9.0,8.0,9.0,RL5,R100,58.79067579881831
+C75,Finca Santa Isabel,November 2022,94,58.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R100,38.2139392692319
+C76,Colombia Castillo Fruit Maceration Series (Passionfruit),October 2022,95,58.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R332,110.22927689594356
+C77,Colombia Castillo Fruit Maceration Series (Strawberry),October 2022,94,61.0,78.0,9.0,8.0,9.0,9.0,9.0,RL5,R332,110.22927689594356
+C78,Colombia Castillo Fruit Maceration Series (Peach),October 2022,94,60.0,77.0,9.0,9.0,9.0,9.0,8.0,RL5,R332,110.22927689594356
+C79,Full Moon Espresso,October 2022,95,48.0,64.0,9.0,9.0,9.0,8.0,10.0,RL3,R159,90.75
+C80,Ethiopia Sidama Tamiru Tadesse Anaerobic Natural Special Auction Lot,October 2022,95,62.0,80.0,9.0,9.0,9.0,9.0,9.0,RL2,R106,88.18342151675485
+C81,Colombia La Esperanza 100% Geisha Hanashaku,October 2022,94,65.0,81.0,9.0,9.0,9.0,9.0,8.0,RL2,R314,145.5026455026455
+C82,Kona Extra Fancy,October 2022,95,58.0,74.0,9.0,9.0,9.0,9.0,9.0,RL5,R256,135.1891589993827
+C83,Costa Rica Las Lajas Perla Negra,October 2022,94,57.0,76.0,9.0,9.0,9.0,9.0,9.0,RL5,R97,55.704165319380344
+C84,Ecuador COE 1st place Arashi Typica Mejorado Washed,October 2022,96,62.0,80.0,9.0,9.0,9.0,10.0,9.0,RL2,R119,1319.9999999999998
+C85,Ethiopia Getu Kurume Natural,October 2022,95,64.0,86.0,9.0,9.0,9.0,9.0,9.0,RL2,R117,66.93121693121692
+C86,Fruit of the Goddess Espresso Blend,October 2022,94,52.0,70.0,9.0,9.0,9.0,8.0,9.0,RL5,R81,39.97797356828193
+C87,Papua New Guinea Wahgi Valley Sigri Estate Peaberry,October 2022,94,57.0,77.0,9.0,9.0,9.0,9.0,8.0,RL5,R81,79.95594713656386
+C88,Kenya Nyeri Asali Peaberry,October 2022,95,60.0,77.0,9.0,9.0,9.0,9.0,9.0,RL5,R81,72.68722466960352
+C89,Ethiopia Gera Estate Anaerobic Natural,October 2022,95,60.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R174,64.66974337870015
+C90,Colombia Cauca Finca El Paraiso Double-Anaerobic Flor Lychee,October 2022,95,60.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R149,85.8
+C91,Memories of Autumn,October 2022,94,64.0,82.0,9.0,9.0,9.0,9.0,8.0,RL2,R18,58.06878306878307
+C92,Costa Rica Cerro Dragon Geisha Honey,October 2022,94,59.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R235,88.18601369822746
+C93,Guatemala Washed El Injerto EI05 Mocca,October 2022,96,61.0,81.0,9.0,9.0,9.0,10.0,9.0,RL2,R156,349.20634920634916
+C94,Taiwan Natural Alishan Zhuo-Wu Geisha,October 2022,95,60.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R156,396.0
+C95,Ethiopia Natural Guji Uraga Tome 74110 Lot K06,October 2022,95,63.0,85.0,9.0,9.0,9.0,9.0,9.0,RL2,R156,47.31040564373898
+C96,Kenya Gathaithi AA,October 2022,94,58.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R64,56.0
+C97,Ethiopia Guji Uraga Tobutu Tuta G1 Experimental LOT 181NA2021,October 2022,95,72.0,90.0,10.0,9.0,9.0,9.0,8.0,RL2,R252,125.0
+C98,Colombia Jardines del Eden Pink Bourbon Wine Yeast Honey,October 2022,94,64.0,86.0,9.0,9.0,9.0,9.0,8.0,RL2,R297,88.08
+C99,Colombia Cerro Azul Enano,October 2022,94,60.0,77.0,9.0,9.0,9.0,9.0,8.0,RL5,R102,76.4278785384638
+C100,Peru Incahuasi,October 2022,94,58.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R226,76.4278785384638
+C101,Reina de la Asuncion Ecuador,October 2022,94,58.0,74.0,9.0,9.0,9.0,9.0,8.0,RL5,R147,58.79067579881831
+C102,Ethiopia Guji Uraga More Floral Kudume Washed,October 2022,95,65.0,82.0,9.0,9.0,9.0,9.0,9.0,RL2,R119,90.75
+C103,Ethiopia Guji Uraga More Floral Kudume Natural,October 2022,94,62.0,77.0,9.0,9.0,9.0,9.0,8.0,RL5,R119,90.75
+C104,Kenya Nyeri Hill,October 2022,94,60.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R243,64.5227666892031
+C105,Kenya AA TOP Nairobi Rose,September 2022,94,60.0,77.0,9.0,9.0,9.0,9.0,8.0,RL5,R87,58.201058201058196
+C106,Kahiko,September 2022,96,56.0,74.0,9.0,9.0,9.0,10.0,9.0,RL5,R142,211.41975308641975
+C107,Kenya Ndumberi Peaberry,September 2022,94,58.0,77.0,9.0,9.0,9.0,9.0,8.0,RL5,R187,68.02892489102774
+C108,Taiwan Alishan Espresso Pacamara Natural,September 2022,94,48.0,67.0,9.0,9.0,9.0,8.0,9.0,RL3,R263,330.0
+C109,Ethiopia Gera Reserve Anaerobic Natural,September 2022,94,62.0,84.0,9.0,9.0,8.0,9.0,9.0,RL2,R36,68.78306878306879
+C110,Kenya Ngaita Peaberry,September 2022,94,60.0,77.0,9.0,9.0,8.0,9.0,9.0,RL5,R187,68.02892489102774
+C111,Kenya AB,September 2022,94,64.0,84.0,9.0,9.0,9.0,9.0,8.0,RL2,R92,107.60869565217392
+C112,Kona Noir,September 2022,94,62.0,80.0,9.0,9.0,9.0,9.0,8.0,RL2,R25,255.73192239858906
+C113,Kona Red Bourbon,September 2022,94,60.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R25,172.8395061728395
+C114,Kenya Washed Nyeri Hill Farm AA Top,September 2022,96,60.0,77.0,9.0,9.0,9.0,10.0,9.0,RL5,R156,56.74603174603174
+C115,Ethiopia Nano Genji,September 2022,95,62.0,80.0,9.0,9.0,9.0,9.0,9.0,RL2,R290,74.95811164349334
+C116,Ethiopia Natural Sidama Abebe 74110,September 2022,95,62.0,80.0,9.0,9.0,9.0,9.0,9.0,RL2,R156,87.30158730158729
+C117,Ethiopia Natural Guji TAMIRU 74158 Kakalove Lot,September 2022,95,64.0,84.0,9.0,9.0,9.0,9.0,9.0,RL2,R156,101.85185185185185
+C118,Rwanda Sholi Natural Single-Origin Espresso,September 2022,94,56.0,72.0,9.0,9.0,9.0,8.0,9.0,RL5,R290,64.66974337870015
+C119,Guatemala Washed Finca El General Lot SummerEnd Espresso,September 2022,94,56.0,74.0,9.0,9.0,9.0,8.0,9.0,RL5,R156,34.920634920634924
+C120,Guatemala Washed Acatenango Finca El General Pacamara Espresso,September 2022,94,58.0,78.0,9.0,9.0,9.0,8.0,9.0,RL5,R156,50.925925925925924
+C121,Finca Cerro Azul Aces Lot,September 2022,94,61.0,79.0,9.0,9.0,9.0,9.0,8.0,RL5,R242,142.1957671957672
+C122,Gachatha Kenya,September 2022,96,59.0,77.0,9.0,9.0,9.0,10.0,9.0,RL5,R147,70.54881095858197
+C123,Geisha Spirit,September 2022,94,58.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R44,116.11158470266615
+C124,Colombia Sudan Rume,September 2022,95,64.0,82.0,9.0,9.0,9.0,9.0,9.0,RL2,R198,352.7336860670194
+C125,El Duende Peru,September 2022,94,58.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R147,49.97207442899556
+C126,Ethiopia Yirgacheffe G1 Idido Natural,September 2022,95,65.0,85.0,9.0,9.0,9.0,9.0,9.0,RL2,R119,90.75
+C127,Colombia Pink Bourbon Filadelfia,September 2022,95,64.0,82.0,9.0,9.0,9.0,9.0,9.0,RL2,R28,91.71075837742504
+C128,Ethiopia Kayon Mountain,September 2022,94,60.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R330,58.79067579881831
+C129,Kenya,August 2022,95,62.0,77.0,9.0,9.0,9.0,9.0,9.0,RL5,R49,87.22466960352423
+C130,Karen J Kona Red Bourbon,August 2022,96,58.0,78.0,10.0,9.0,8.0,10.0,9.0,RL5,R142,242.28395061728395
+C131,Ethiopia Worka Sakaro,August 2022,95,60.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R238,64.66974337870015
+C132,Colombia Geisha,August 2022,94,58.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R151,105.82010582010581
+C133,Colombia Don Ruiz Anaerobic,August 2022,95,60.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R243,83.77671301331608
+C134,Colombia FUDAM Nariño,August 2022,94,62.0,80.0,9.0,9.0,9.0,9.0,8.0,RL2,R243,54.381375113906934
+C135,Ethiopia Durato Bombe,August 2022,95,68.0,92.0,10.0,8.0,9.0,9.0,9.0,RL2,R220,70.54881095858197
+C136,Pantan Musara Sumatra,August 2022,94,58.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R147,61.73020958875922
+C137,Sumatra Takengon Gayo Natural,August 2022,94,62.0,80.0,9.0,9.0,9.0,9.0,8.0,RL2,R69,47.3996340307326
+C138,Nano Genji #7,July 2022,95,58.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R147,55.85114200887739
+C139,Panama Auromar Camilina Geisha Natural,July 2022,95,60.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R94,440.9171075837742
+C140,Tio Conejo Colombia,July 2022,94,58.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R147,79.36507936507937
+C141,Panama Auromar Ironman Geisha Washed Process,July 2022,94,60.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R94,440.9171075837742
+C142,Cruz Loma,July 2022,94,57.0,75.0,9.0,9.0,9.0,9.0,8.0,RL5,R147,110.22927689594356
+C143,Panama Elida Washed Gesha,July 2022,95,64.0,84.0,9.0,9.0,9.0,9.0,9.0,RL2,R332,400.0
+C144,El Salvador Finca La Esperanza,July 2022,94,62.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R146,60.869565217391305
+C145,Panama Hacienda La Esmeralda Super Mario Geisha Yeast Washed,July 2022,95,60.0,77.0,9.0,9.0,9.0,9.0,9.0,RL5,R230,687.5
+C146,Quartet Kaffe Blend No.10,July 2022,94,56.0,72.0,9.0,9.0,9.0,8.0,9.0,RL5,R230,82.5
+C147,Ethiopia Anasora Extended Natural Special Lot,July 2022,94,60.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R230,145.2
+C148,Ethiopia Honey Yirgacheffe Idido G1,July 2022,95,60.0,80.0,9.0,9.0,9.0,9.0,9.0,RL5,R156,50.925925925925924
+C149,Taiwan Natural Alishan Ching-Ye Farm,July 2022,94,58.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R156,160.05291005291002
+C150,Hawaii Ka‘ū Bourbon Anaerobic Natural,July 2022,95,57.0,74.0,9.0,9.0,9.0,9.0,9.0,RL5,R215,264.55026455026456
+C151,Chelchele Ethiopia,July 2022,94,58.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R147,55.85114200887739
+C152,Colombia Antioquia Magico,July 2022,94,62.0,80.0,9.0,9.0,9.0,9.0,8.0,RL2,R215,111.69900058788949
+C153,Costa Rica Hacienda La Minita,July 2022,94,57.0,73.0,9.0,9.0,9.0,9.0,8.0,RL5,R235,51.441841323966024
+C154,El Salvador Aida Batlle La Florida Natural,July 2022,95,56.0,74.0,9.0,9.0,9.0,9.0,9.0,RL5,R186,54.82230518239807
+C155,Colombia Geisha Cordillera,July 2022,95,58.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R198,286.59611992945327
+C156,Ethiopia Raro Boda,July 2022,94,56.0,74.0,9.0,9.0,9.0,9.0,8.0,RL5,R28,64.66974337870015
+C157,Costa Rica Bounty Gesha,July 2022,94,60.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R21,115.96460801316911
+C158,Panama Static Gesha Natural,July 2022,95,58.0,77.0,9.0,9.0,9.0,9.0,9.0,RL5,R212,132.2790205473412
+C159,Panama La Mula Geisha Washed,July 2022,95,60.0,82.0,9.0,9.0,9.0,9.0,9.0,RL2,R119,990.0
+C160,Esmeralda Estate Panama Geisha,July 2022,94,0.0,0.0,9.0,9.0,9.0,8.0,9.0,,R89,
+C161,Costa Rica San Gabriel SL28 Anaerobic Natural,July 2022,94,58.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R119,99.0
+C162,Burundi Kibingo Intenso,June 2022,94,57.0,74.0,9.0,9.0,8.0,9.0,9.0,RL5,R239,61.73020958875922
+C163,Ecuador Peñaherrera AAA,June 2022,95,58.0,76.0,9.0,9.0,9.0,9.0,9.0,RL5,R28,73.48834474852288
+C164,Panama Hacienda La Esmeralda Porton 5N49 Gesha Natural,June 2022,95,60.0,77.0,9.0,9.0,9.0,10.0,8.0,RL5,R212,286.59611992945327
+C165,Kona SL34 Champagne Natural Uluwehi Farm,June 2022,95,58.0,76.0,9.0,9.0,9.0,9.0,9.0,RL5,R215,264.55026455026456
+C166,Ethiopia Yirgacheffe Adado,June 2022,94,60.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R177,55.82174667097798
+C167,Tanzania Mbeya Mimba,June 2022,95,58.0,76.0,9.0,9.0,9.0,9.0,9.0,RL5,R243,55.116258561392165
+C168,Costa Rica La Chumeca,June 2022,94,60.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R243,67.60927716864106
+C169,Gesha Spirits,June 2022,95,60.0,77.0,9.0,9.0,9.0,10.0,8.0,RL5,R187,157.13186249358645
+C170,Kenya Nyeri Hill Farm AA TOP,June 2022,94,59.0,79.0,9.0,9.0,9.0,9.0,8.0,RL5,R38,50.793650793650784
+C171,Costa Rica Las Montañas Honey,June 2022,94,60.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R150,41.15347305917282
+C172,Colombia Finca La Guaca Ají,June 2022,94,62.0,80.0,9.0,9.0,9.0,9.0,8.0,RL2,R102,114.63844797178132
+C173,Kenya Washed Kiambu Uklili AB Espresso,June 2022,96,54.0,72.0,9.0,9.0,9.0,9.0,10.0,RL5,R156,58.201058201058196
+C174,Karatina Kenya,June 2022,95,58.0,76.0,9.0,9.0,9.0,9.0,9.0,RL5,R147,67.60927716864106
+C175,Karamo Ethiopia,June 2022,94,60.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R147,55.85114200887739
+C176,Ethiopia Natural Shakisso Mormora 74112,June 2022,95,54.0,76.0,9.0,9.0,9.0,9.0,9.0,RL5,R156,47.31040564373898
+C177,Ethiopia Washed Shakisso Mormora 74112,June 2022,95,58.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R156,47.31040564373898
+C178,Tang Bohu Espresso Blend,June 2022,95,45.0,70.0,9.0,9.0,9.0,9.0,9.0,RL3,R263,94.57671957671957
+C179,Colombia Quindio Anaerobic Natural,June 2022,94,60.0,78.0,9.0,8.0,9.0,9.0,9.0,RL5,R215,88.18601369822746
+C180,Colombia Tres Dragones Natural,June 2022,94,58.0,76.0,9.0,9.0,9.0,8.0,9.0,RL5,R212,73.48834474852288
+C181,Colombia Finca Jardines del Eden Ice Fermentation Natural,June 2022,94,58.0,74.0,9.0,9.0,9.0,8.0,9.0,RL5,R119,165.0
+C182,Honduras Natural San Vicente Belarmino Contreras Pacas,June 2022,94,58.0,78.0,9.0,9.0,9.0,8.0,9.0,RL5,R156,40.035273368606695
+C183,Chasing Horizon Natural Espresso,June 2022,95,48.0,64.0,9.0,9.0,9.0,8.0,10.0,RL3,R263,116.40211640211639
+C184,Supernatural,June 2022,95,56.0,74.0,9.0,9.0,10.0,8.0,9.0,RL5,R20,54.23439842440988
+C185,Ethiopia Alemaza Natural SOE,June 2022,95,58.0,77.0,9.0,9.0,9.0,9.0,9.0,RL5,R109,52.38095238095238
+C186,Kona Natural Espresso,June 2022,95,57.0,77.0,9.0,9.0,9.0,9.0,9.0,RL5,R142,277.5573192239859
+C187,Colombia Tres Dragones,June 2022,95,60.0,76.0,9.0,9.0,9.0,9.0,9.0,RL5,R332,79.36507936507937
+C188,Colombia Pink Bourbon,June 2022,94,60.0,77.0,9.0,9.0,9.0,9.0,8.0,RL5,R215,111.69900058788949
+C189,Peru Gesha,May 2022,94,60.0,77.0,9.0,9.0,9.0,9.0,8.0,RL5,R267,88.18601369822746
+C190,Ecuador Loja Hacienda La Papaya Bourbon Sidra 168hr Anaerobic Natural,May 2022,95,64.0,84.0,10.0,9.0,9.0,9.0,8.0,RL2,R287,96.3716814159292
+C191,Panama Finca Deborah Afterglow Geisha Natural,May 2022,95,62.0,80.0,9.0,9.0,9.0,9.0,9.0,RL2,R191,602.3809523809523
+C192,Colombia Exótico De Altura,May 2022,94,54.0,74.0,9.0,8.0,9.0,9.0,9.0,RL5,R202,52.91160821893648
+C193,Ethiopia Dawencho 74110 Natural Espresso,May 2022,94,58.0,77.0,9.0,9.0,9.0,8.0,9.0,RL5,R230,204.6
+C194,Kenya Nyeri Yerihar AA Top Lot 21/01,May 2022,94,57.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R11,67.5
+C195,Colombia Wush Wush Dynamic Natural,May 2022,95,75.0,93.0,9.0,9.0,9.0,9.0,9.0,RL2,R284,165.0
+C196,Rwanda Gatare,May 2022,94,58.0,80.0,9.0,9.0,9.0,9.0,8.0,RL5,R198,64.66974337870015
+C197,Costa Rica Naranjo Danilo Salazar Arias,May 2022,94,60.0,77.0,9.0,9.0,9.0,9.0,8.0,RL5,R74,67.60927716864106
+C198,Ethiopia Guji Shakiso G1 Honey,May 2022,94,59.0,77.0,9.0,9.0,9.0,9.0,8.0,RL5,R314,58.201058201058196
+C199,Yemen Haraaz Red Mahal Aqeeq ul Station Natural,May 2022,97,58.0,76.0,10.0,9.0,9.0,10.0,9.0,RL5,R212,154.320987654321
+C200,Brazil Fazenda Samambaia Natural Fermentation Arara,May 2022,95,58.0,76.0,9.0,9.0,9.0,9.0,9.0,RL5,R156,87.30158730158729
+C201,Costa Rica Canet Musician Series Bach Raisin Honey,May 2022,94,60.0,77.0,9.0,8.0,9.0,9.0,9.0,RL5,R45,79.95594713656386
+C202,Peru Amazonas Los Santos Geisha Natural,May 2022,95,64.0,80.0,9.0,9.0,9.0,10.0,8.0,RL2,R45,138.1057268722467
+C203,Ethiopia Odola Washed,May 2022,95,60.0,82.0,9.0,9.0,9.0,10.0,8.0,RL2,R236,55.704165319380344
+C204,Minanga Village Sulawesi,May 2022,94,54.0,72.0,9.0,8.0,9.0,9.0,9.0,RL5,R147,70.54881095858197
+C205,Ka‘ū Tropical Punch Washed,May 2022,94,58.0,74.0,9.0,9.0,9.0,9.0,8.0,RL5,R215,220.4585537918871
+C206,Kenya Peaberry Top Hill Farm Espresso,May 2022,95,45.0,58.0,9.0,9.0,9.0,9.0,9.0,RL3,R119,90.75
+C207,Ethiopia Belayneh Bariso Natural,May 2022,95,58.0,76.0,9.0,9.0,9.0,9.0,9.0,RL5,R236,57.32090890384785
+C208,Yemen Al Mashtal Al Burhani,May 2022,95,58.0,74.0,9.0,9.0,9.0,9.0,9.0,RL5,R215,264.55026455026456
+C209,Ka‘ū Lactic Natural,May 2022,95,60.0,77.0,9.0,9.0,9.0,9.0,9.0,RL5,R215,264.55026455026456
+C210,Colombia Finca El Paraiso Castillo Red Plum,May 2022,94,62.0,80.0,9.0,9.0,9.0,9.0,9.0,RL2,R215,141.09347442680775
+C211,Ethiopia Guji Uraga Tebe Burku Natural,April 2022,94,58.0,74.0,9.0,9.0,9.0,9.0,8.0,RL5,R81,50.881057268722465
+C212,British Style Espresso Blend,April 2022,95,50.0,64.0,9.0,9.0,9.0,9.0,9.0,RL3,R81,72.68722466960352
+C213,Costa Rica Brunca Rivense Las Moras Black Honey,April 2022,94,62.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R81,58.14977973568282
+C214,Ethiopia Yirgacheffe Hama Washed,April 2022,94,62.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R81,50.881057268722465
+C215,Peru Washed Santa Monica Gesha,April 2022,96,58.0,77.0,9.0,9.0,9.0,10.0,9.0,RL5,R156,203.7037037037037
+C216,Taiwan Washed Alishan Ching-Ye Farm SL34,April 2022,94,56.0,74.0,9.0,9.0,9.0,9.0,8.0,RL5,R156,116.40211640211639
+C217,Ethiopia Guji Odo Shakiso,April 2022,94,60.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R177,52.88221288103706
+C218,Ethiopia Sidamo Karamo,April 2022,95,62.0,80.0,9.0,9.0,9.0,9.0,9.0,RL2,R151,76.4278785384638
+C219,Gigesa Ethiopia,April 2022,94,56.0,74.0,9.0,9.0,9.0,9.0,8.0,RL5,R147,55.85114200887739
+C220,Oahu Triple-Bourbon “Sparkling” Yeast Ferment,April 2022,94,54.0,74.0,9.0,9.0,9.0,9.0,8.0,RL5,R248,149.91181657848324
+C221,Colombia Ibague Tolima,April 2022,94,64.0,80.0,9.0,9.0,9.0,9.0,8.0,RL2,R151,76.4278785384638
+C222,Kenya Karatu,April 2022,94,60.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R244,69.0790440636115
+C223,Ecuador Taza Dorada Finca Cruz Loma,April 2022,96,60.0,77.0,9.0,9.0,9.0,10.0,9.0,RL5,R215,1234.567901234568
+C224,Kona Bourbon Champagne Natural Uluwehi Farm,April 2022,95,57.0,74.0,9.0,9.0,9.0,9.0,9.0,RL5,R215,264.55026455026456
+C225,Panama Hacienda La Esmeralda Geisha Washed,April 2022,95,46.0,60.0,9.0,9.0,9.0,9.0,9.0,RL3,R119,264.0
+C226,Peru Garden of Eden Farcent Geisha Anaerobic Washed,April 2022,94,62.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R119,231.0
+C227,Pointu Laurina,April 2022,95,46.0,60.0,9.0,9.0,9.0,9.0,9.0,RL3,R142,290.7848324514991
+C228,Ecuador Finca Cruz Loma,April 2022,95,40.0,54.0,9.0,9.0,9.0,9.0,9.0,RL4,R263,1188.0
+C229,Aged Sumatra Semiga,April 2022,94,40.0,50.0,9.0,9.0,9.0,9.0,8.0,RL4,R215,88.18601369822746
+C230,Indonesia Sumatra Kerinci Valley,April 2022,94,47.0,60.0,9.0,9.0,9.0,9.0,8.0,RL3,R187,72.01857785355243
+C231,Ka’u Classic Dark,April 2022,94,47.0,61.0,9.0,9.0,9.0,9.0,8.0,RL3,R248,100.52910052910053
+C232,Sumatra Boru Batak,April 2022,95,57.0,79.0,9.0,9.0,9.0,10.0,8.0,RL5,R28,61.72839506172839
+C233,Barokah Honey Sumatra,March 2022,95,58.0,80.0,9.0,9.0,9.0,9.0,9.0,RL5,R147,55.85114200887739
+C234,Colombia Finca La Primavera Sidra,March 2022,96,64.0,82.0,9.0,9.0,9.0,10.0,9.0,RL2,R215,141.09762191716393
+C235,Ethiopia Natural Guji Dasaya SP,March 2022,95,58.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R156,50.925925925925924
+C236,Ethiopia Anaerobic Shantawene,March 2022,94,58.0,80.0,9.0,9.0,9.0,9.0,8.0,RL5,R267,58.79067579881831
+C237,Ethiopia Bensa Asefa Qonqana,March 2022,94,64.0,86.0,9.0,9.0,9.0,9.0,8.0,RL2,R151,76.4278785384638
+C238,Ethiopia Durato Bombe,March 2022,94,58.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R174,55.85114200887739
+C239,Ethiopia Washed Shantawene,March 2022,94,60.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R267,58.79067579881831
+C240,Indonesia Sumatra Natural Aceh Musara SC19,March 2022,94,62.0,80.0,9.0,9.0,9.0,9.0,8.0,RL2,R156,50.925925925925924
+C241,Kenya Washed Kabingara AA,March 2022,94,57.0,77.0,9.0,9.0,9.0,9.0,8.0,RL5,R156,52.38095238095238
+C242,Kenya Nyeri Jungle Estate Red Cherry SLD Anaerobic Natural,March 2022,95,57.0,77.0,9.0,9.0,9.0,9.0,9.0,RL5,R316,109.03083700440529
+C243,Lugmapata Ecuador,March 2022,95,60.0,80.0,9.0,9.0,9.0,9.0,9.0,RL5,R147,79.36507936507937
+C244,Red Sunset by Andres Cardona,March 2022,94,55.0,73.0,9.0,9.0,9.0,9.0,8.0,RL5,R198,70.54881095858197
+C245,Macarena Colombia,March 2022,94,60.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R147,79.36507936507937
+C246,Haraaz Red Yemen,March 2022,94,58.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R147,110.22927689594356
+C247,El Salvador Anarquia Pacamara,March 2022,94,60.0,82.0,9.0,9.0,9.0,9.0,8.0,RL2,R307,64.66974337870015
+C248,Colombia Sidra Natural Signature Selection,March 2022,96,62.0,80.0,9.0,9.0,9.0,10.0,9.0,RL2,R28,405.64373897707236
+C249,Colombia Finca El Paraiso Geisha Letty,February 2022,97,64.0,84.0,10.0,9.0,9.0,10.0,9.0,RL2,R215,352.7336860670194
+C250,Monarch Estate Pacamara,February 2022,94,60.0,80.0,9.0,9.0,9.0,9.0,8.0,RL5,R184,361.1111111111111
+C251,Uluwehi Farm Kona SL34 Yeast-Fermentation Washed Peaberry,February 2022,94,56.0,72.0,9.0,9.0,9.0,9.0,8.0,RL5,R215,352.7336860670194
+C252,Ka’u IPA Natural,February 2022,95,58.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R215,220.4585537918871
+C253,Ecuador Finca Lugmapata Mejorado,February 2022,95,64.0,80.0,9.0,9.0,9.0,9.0,9.0,RL2,R215,105.82010582010582
+C254,Shakiso Natural,February 2022,94,58.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R147,55.85114200887739
+C255,Cerro Azul Geisha Honey Process,February 2022,94,58.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R147,158.73015873015873
+C256,La Esmeralda Diamond Mountain Washed Coffee,February 2022,94,60.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R258,68.93333333333334
+C257,Karen J Kona Red Bourbon Natural Anaerobic,February 2022,95,56.0,76.0,9.0,9.0,9.0,9.0,9.0,RL5,R142,220.23809523809524
+C258,El Salvador Finca Mileydi Pacamara,February 2022,95,60.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R238,73.45894941062348
+C259,El Salvador Las Veraneras Red Bourbon,February 2022,94,58.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R238,55.82174667097798
+C260,Costa Rica Brunca Rivense La Guaca Passion Honey,February 2022,94,58.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R140,58.14977973568282
+C261,Hunkute by Nordic Approach,February 2022,94,64.0,88.0,9.0,9.0,9.0,9.0,8.0,RL2,R45,72.68722466960352
+C262,Schweik’s Blend,February 2022,94,62.0,80.0,9.0,9.0,9.0,9.0,8.0,RL2,R178,39.47324218093863
+C263,Whiskey Dreams Moka Java,February 2022,94,58.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R204,52.91160821893648
+C264,Black Level Blend,February 2022,94,57.0,74.0,9.0,9.0,9.0,9.0,8.0,RL5,R274,107.80000000000001
+C265,Karindundu Kenya,February 2022,94,58.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R147,64.66974337870015
+C266,Colombia Geisha Natural,February 2022,94,60.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R44,154.1005291005291
+C267,Pacas Estate El Salvador Natural,February 2022,94,54.0,72.0,9.0,9.0,9.0,9.0,8.0,RL5,R44,47.003145301155236
+C268,Hunapu Natural Guatemala,January 2022,94,56.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R147,55.85114200887739
+C269,Ethiopia Natural Sidama TAMIRU 74158,January 2022,96,60.0,78.0,9.0,9.0,9.0,10.0,9.0,RL5,R156,116.40211640211639
+C270,Bedhatu Jibicho Natural,January 2022,95,60.0,76.0,9.0,9.0,9.0,9.0,9.0,RL5,R147,58.79067579881831
+C271,Ethiopia Natural Guji DoReMi,January 2022,95,57.0,77.0,9.0,9.0,9.0,9.0,9.0,RL5,R156,30.55555555555555
+C272,Sabana Redonda SL28 Costa Rica,January 2022,94,58.0,80.0,9.0,9.0,9.0,9.0,8.0,RL5,R147,79.36507936507937
+C273,Ethiopia Bench Maji Gesha Village Dimma Illubabor Forest A6 Natural,January 2022,95,64.0,82.0,9.0,9.0,9.0,9.0,9.0,RL2,R287,138.76106194690266
+C274,Sumatra Siamang Forest,January 2022,94,54.0,72.0,9.0,9.0,9.0,9.0,8.0,RL5,R215,73.48834474852288
+C275,Yemen Jabal Nabi Special Reserve,January 2022,94,57.0,73.0,9.0,9.0,9.0,9.0,8.0,RL5,R235,123.01587301587301
+C276,Kenya Gakuyuini AA,January 2022,94,58.0,76.0,9.0,9.0,8.0,9.0,9.0,RL5,R235,49.82509773949852
+C277,Hacienda Esmeralda Ethiopian Accessions,January 2022,95,62.0,80.0,9.0,9.0,9.0,9.0,9.0,RL2,R332,110.22927689594356
+C278,Gelena Geisha,January 2022,94,60.0,78.0,9.0,8.0,9.0,9.0,9.0,RL5,R79,55.85114200887739
+C279,Ethiopia Anaerobic Natural,January 2022,94,59.0,77.0,9.0,9.0,9.0,9.0,8.0,RL5,R332,110.22927689594356
+C280,Rainy Day Espresso Blend,January 2022,94,54.0,72.0,9.0,9.0,9.0,8.0,9.0,RL5,R322,50.217391304347835
+C281,Ethiopia Tamiru Tadesse Tesema Anaerobic Natural,January 2022,95,62.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R119,
+C282,Ethiopia Aphrodite Washed Espresso,January 2022,96,44.0,60.0,9.0,9.0,9.0,10.0,9.0,RL3,R263,123.67724867724868
+C283,Kona Tropical Punch Washed,January 2022,94,60.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R215,220.4585537918871
+C284,Ka’u Bourbon Champagne Natural,January 2022,94,58.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R215,264.55026455026456
+C285,Cerro Azul Geisha,December 2021,95,58.0,80.0,9.0,9.0,9.0,9.0,9.0,RL5,R147,132.27513227513228
+C286,Panama Mama Cata Geisha Champagne Natural,December 2021,95,64.0,88.0,9.0,9.0,9.0,9.0,9.0,RL2,R215,440.9171075837742
+C287,Ethiopia Yirgacheffe Worka Sakaro,December 2021,95,57.0,79.0,9.0,9.0,9.0,9.0,9.0,RL5,R215,73.48834474852288
+C288,El Socorro Maracaturra,December 2021,95,60.0,74.0,9.0,9.0,9.0,9.0,9.0,RL5,R28,76.4278785384638
+C289,Guatemala Acatenango Gesha,December 2021,94,62.0,80.0,9.0,9.0,9.0,9.0,8.0,RL2,R151,105.82010582010581
+C290,Kenya Kirinyaga,December 2021,94,60.0,80.0,9.0,9.0,9.0,9.0,8.0,RL5,R108,58.2023413214577
+C291,Hacienda La Esmeralda Montañas 71AS,December 2021,96,59.0,77.0,9.0,9.0,9.0,10.0,9.0,RL5,R89,1113.3333333333333
+C292,Kenya Nyeri Gatomboya,December 2021,94,57.0,77.0,9.0,9.0,9.0,9.0,8.0,RL5,R275,52.910052910052904
+C293,Ethiopia Bench Maji Natural Gesha,December 2021,94,62.0,80.0,9.0,9.0,9.0,9.0,8.0,RL2,R314,80.02645502645501
+C294,Panama Hacienda La Esmeralda Gesha,December 2021,94,64.0,84.0,9.0,9.0,9.0,9.0,8.0,RL2,R332,293.9447383891828
+C295,Natural Ka’u Maragogipe,December 2021,94,62.0,78.0,9.0,8.0,9.0,9.0,9.0,RL5,R25,167.5485008818342
+C296,Costa Rica Volcan Azul San Isidro Red Honey,December 2021,95,58.0,76.0,9.0,9.0,9.0,9.0,9.0,RL5,R213,64.66974337870015
+C297,Ethiopia Demeka Becha,December 2021,96,60.0,78.0,9.0,9.0,9.0,10.0,9.0,RL5,R238,64.64034804080073
+C298,Sweet Holiday Blend,December 2021,94,58.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R238,61.700814250859814
+C299,Ethiopia Washed Sidama Bensa Bombe,December 2021,94,60.0,82.0,9.0,9.0,9.0,9.0,8.0,RL2,R156,54.58553791887125
+C300,Panama Abu Geisha Lot 6,December 2021,95,58.0,80.0,9.0,9.0,9.0,9.0,9.0,RL5,R327,220.46503424556866
+C301,Panama Finca Mi Finquita Geisha Afrodita Natural,December 2021,96,59.0,81.0,9.0,9.0,9.0,10.0,9.0,RL5,R156,363.7566137566137
+C302,Panama El Burro Estate Natural Gesha,December 2021,95,58.0,77.0,9.0,9.0,9.0,9.0,9.0,RL5,R156,407.4074074074074
+C303,Panama La Viuda Natural Geisha 4 Hermanos,December 2021,94,60.0,84.0,9.0,9.0,9.0,9.0,8.0,RL2,R156,291.005291005291
+C304,Colombia Huila Finca Monteblanco Rodrigo Sanchez,November 2021,94,58.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R221,
+C305,Ninety Plus Panama Gesha Estate MS Joseph Brodsky 2307,November 2021,95,58.0,82.0,9.0,9.0,9.0,9.0,9.0,RL5,R221,4000.0
+C306,Espresso,November 2021,94,56.0,80.0,9.0,9.0,9.0,8.0,9.0,RL5,R142,277.5573192239859
+C307,Kenya Kainamui AB,November 2021,94,58.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R70,66.0
+C308,Kona Mocca®,November 2021,95,57.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R142,396.6049382716049
+C309,Ethiopia Olonso Qeka,November 2021,94,58.0,80.0,9.0,9.0,9.0,9.0,8.0,RL5,R304,116.66666666666667
+C310,Ethiopia Wate Mini Natural Espresso,November 2021,94,58.0,80.0,9.0,9.0,9.0,8.0,9.0,RL5,R285,50.881057268722465
+C311,Ethiopia Sidama Bensa Farmer Tamiru 74158 Natural,November 2021,96,64.0,82.0,9.0,9.0,9.0,10.0,9.0,RL2,R288,167.37213403880068
+C312,BNT Espresso Blend,November 2021,94,56.0,72.0,9.0,9.0,9.0,8.0,9.0,RL5,R88,50.881057268722465
+C313,Holiday Coffee,November 2021,96,58.0,80.0,9.0,9.0,9.0,10.0,9.0,RL5,R142,220.23809523809524
+C314,Mama Cata Mokkita,November 2021,97,57.0,79.0,10.0,9.0,9.0,10.0,9.0,RL5,R215,1322.7513227513227
+C315,Ethiopia Tamiru Tadesse Anaerobic,November 2021,96,62.0,80.0,9.0,9.0,9.0,10.0,9.0,RL2,R122,1278.6596119929452
+C316,Ethiopia Tamiru Tadesse Natural,November 2021,95,64.0,80.0,9.0,9.0,9.0,9.0,9.0,RL2,R122,233.68606701940033
+C317,Puna Arakawa Estate Lactic Natural,November 2021,95,60.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R215,264.55026455026456
+C318,100% Kona Bourbon Pointu Laurina,November 2021,95,56.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R142,277.5573192239859
+C319,Colombia Java El Eden,November 2021,94,58.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R97,58.64369910932126
+C320,Ethiopia Shantawene Natural,November 2021,95,60.0,76.0,9.0,9.0,9.0,9.0,9.0,RL5,R198,64.66974337870015
+C321,Ethiopia Buno Dambi Uddo,November 2021,94,65.0,83.0,9.0,9.0,9.0,9.0,8.0,RL2,R151,73.48834474852288
+C322,Ethiopia Worka Sakaro Anaerobic Natural,November 2021,94,56.0,64.0,9.0,9.0,9.0,9.0,8.0,RL3,R237,47.032540639054645
+C323,Ethiopia Durato Bombe Natural,November 2021,94,64.0,80.0,9.0,9.0,9.0,9.0,8.0,RL2,R203,64.66974337870015
+C324,SÖT Coffee Roaster Colombia Wush Wush Dynamic Natural,November 2021,96,76.0,92.0,10.0,9.0,9.0,10.0,8.0,RL2,R252,2419.2
+C325,Colombia Trujillo Experimental Process,November 2021,94,57.0,77.0,9.0,9.0,9.0,9.0,8.0,RL5,R198,73.48834474852288
+C326,Colombia La Siria Geisha,November 2021,96,60.0,78.0,9.0,9.0,9.0,10.0,9.0,RL5,R28,837.742504409171
+C327,Guatemala Santa Felisa Wild Yeast Natural Gesha,November 2021,96,62.0,88.0,9.0,9.0,9.0,10.0,9.0,RL2,R156,109.1710758377425
+C328,Colombia Granja La Esperanza Las Margaritas Gesha Honey,November 2021,95,62.0,80.0,9.0,9.0,9.0,9.0,9.0,RL2,R212,264.55026455026456
+C329,Tanzania Acacia Hills Gesha Peaberry,November 2021,95,62.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R63,705.4673721340389
+C330,Colombia La Palma Y El Tucán Gesha Natural,November 2021,94,56.0,72.0,9.0,9.0,9.0,9.0,8.0,RL5,R102,352.7336860670194
+C331,Peru Yanesha Geisha Washed Anaerobic,November 2021,94,59.0,77.0,9.0,9.0,9.0,9.0,8.0,RL5,R119,264.0
+C332,Guatemala Geisha,November 2021,94,62.0,80.0,9.0,9.0,9.0,9.0,8.0,RL2,R207,165.0
+C333,Costa Rica La Rejolla Washed Geisha,November 2021,94,58.0,80.0,9.0,9.0,9.0,9.0,8.0,RL5,R327,110.2096607068057
+C334,Bekele Heto Natural Ethiopia,November 2021,95,58.0,80.0,9.0,9.0,9.0,9.0,9.0,RL5,R147,55.85114200887739
+C335,El Salvador El Matazano Pacamara,November 2021,95,60.0,77.0,9.0,9.0,9.0,9.0,9.0,RL5,R28,61.73020958875922
+C336,Ethiopia Guji Mormora Organic Natural,November 2021,94,62.0,80.0,9.0,9.0,9.0,9.0,8.0,RL2,R235,55.704165319380344
+C337,Chelbesa Ethiopia,November 2021,95,58.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R147,79.36507936507937
+C338,Colombia La Riviera Sudan Rume,November 2021,94,58.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R235,105.73192239858906
+C339,Alaka Ethiopia,November 2021,94,62.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R147,52.91160821893648
+C340,Ethiopia Guji Uraga Tebe Burka Natural G1,November 2021,94,64.0,82.0,9.0,9.0,9.0,9.0,8.0,RL2,R254,72.6
+C341,Sweet Kenya J36 Espresso,November 2021,95,52.0,76.0,9.0,9.0,9.0,9.0,9.0,RL5,R133,110.0
+C342,Acatenango Santa Felisa Wild Yeast Natural Sudan Rume Full Moon Lot 4,October 2021,94,60.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R156,87.30158730158729
+C343,Guatemala Finca El General Slow Dry 6,October 2021,94,58.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R156,54.58553791887125
+C344,Ethiopia Yirgacheffe Washed Banko Gotiti 3,October 2021,94,58.0,80.0,9.0,9.0,9.0,9.0,8.0,RL5,R156,40.035273368606695
+C345,Ethiopia Natural Yirgacheffe Adado Feysa Dira,October 2021,94,58.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R156,40.74074074074074
+C346,Guatemala Finca El General SummerEnd Espresso,October 2021,94,52.0,72.0,9.0,9.0,9.0,8.0,9.0,RL5,R156,32.760141093474424
+C347,Guatemala El Injerto Natural Legendary Gesha 7,October 2021,95,62.0,80.0,9.0,9.0,9.0,9.0,9.0,RL2,R156,174.60317460317458
+C348,Kenya Gachatha Nyeri AA,October 2021,96,60.0,76.0,9.0,9.0,9.0,10.0,9.0,RL5,R238,66.11011493577118
+C349,Ethiopia Super Wush,October 2021,95,62.0,80.0,9.0,9.0,9.0,9.0,9.0,RL2,R27,76.4278785384638
+C350,Ethiopia Worka Sakaro Anaerobic Natural,October 2021,94,59.0,77.0,9.0,9.0,9.0,9.0,8.0,RL5,R238,57.291513565948435
+C351,Kenya Athena AB Espresso,October 2021,94,46.0,60.0,9.0,9.0,9.0,8.0,9.0,RL3,R263,123.67724867724868
+C352,Colombia La Esperanza Anaerobic,October 2021,94,54.0,74.0,9.0,9.0,9.0,9.0,8.0,RL5,R27,123.46041917751845
+C353,Ethiopia Gogogu Bekaka #1,October 2021,94,64.0,86.0,9.0,9.0,9.0,9.0,8.0,RL2,R27,73.48834474852288
+C354,Kenya Gichathaini,October 2021,95,60.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R243,73.34136805902584
+C355,Elida Estate ASD Natural Catuai 15,October 2021,94,57.0,75.0,9.0,9.0,9.0,9.0,8.0,RL5,R94,88.18601369822746
+C356,Ethiopia Kochere Hama Jet Washing Station,October 2021,94,64.0,84.0,9.0,9.0,9.0,9.0,8.0,RL2,R73,58.14977973568282
+C357,Elida Estate Dragonfly Catuai Lot 13,October 2021,94,55.0,71.0,10.0,9.0,9.0,9.0,7.0,RL5,R94,66.1395102736706
+C358,Yemen Lot 106,October 2021,96,0.0,0.0,9.0,9.0,9.0,10.0,9.0,,R223,396.8253968253968
+C359,Yemen Sheba Auction Lot 1: Wadi Al Mahjr,October 2021,95,56.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R106,145.5026455026455
+C360,Yemen Al Wadi,October 2021,94,0.0,0.0,9.0,8.0,9.0,9.0,9.0,,R223,282.1869488536155
+C361,Yemen Port of Mokha Al-Jabal,October 2021,94,58.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R63,211.56966490299823
+C362,Colombia La Esperanza Potosí Anaerobic Process,October 2021,94,57.0,73.0,9.0,9.0,9.0,9.0,8.0,RL5,R97,55.704165319380344
+C363,Panama Hacienda La Esmeralda Ethiopia Accessions,October 2021,95,62.0,82.0,9.0,9.0,9.0,9.0,9.0,RL2,R215,220.0176366843033
+C364,Guji Hamasho Washed,October 2021,94,56.0,82.0,9.0,9.0,9.0,9.0,8.0,RL5,R215,73.34136805902584
+C365,Kona Red Wine Process,October 2021,94,56.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R215,220.0176366843033
+C366,Candelilla Geisha Natural,September 2021,95,62.0,80.0,9.0,9.0,9.0,9.0,9.0,RL2,R147,94.79717813051145
+C367,Kiamugumo Kenya,September 2021,95,58.0,80.0,9.0,9.0,9.0,9.0,9.0,RL5,R147,61.73020958875922
+C368,Ethiopia Sidama Ardi,September 2021,95,64.0,86.0,9.0,9.0,9.0,9.0,9.0,RL2,R102,55.85114200887739
+C369,Colombia Gesha,September 2021,94,60.0,77.0,9.0,9.0,9.0,9.0,8.0,RL5,R267,79.36741232840473
+C370,Ethiopia Kayon Mountain Washed,September 2021,94,60.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R243,58.64369910932126
+C371,Ethiopia Gedeb Worka Wuri,September 2021,95,62.0,80.0,9.0,9.0,9.0,9.0,9.0,RL2,R151,76.4278785384638
+C372,Mama Cata Mokkita,September 2021,95,54.0,72.0,9.0,9.0,9.0,9.0,9.0,RL5,R46,235.16270319527325
+C373,Kenya Karatina,September 2021,94,56.0,74.0,9.0,9.0,9.0,9.0,8.0,RL5,R291,69.0790440636115
+C374,La Reforma El Salvador Natural,September 2021,94,58.0,77.0,9.0,9.0,9.0,9.0,8.0,RL5,R147,60.26044269378877
+C375,Panama Geisha,September 2021,94,62.0,82.0,9.0,9.0,9.0,9.0,8.0,RL2,R169,234.96
+C376,Guatemala COE-NW#2 Sierra Roja Geisha Washed,September 2021,96,60.0,80.0,9.0,10.0,9.0,9.0,9.0,RL5,R119,198.0
+C377,Guatemala La Voz,September 2021,94,58.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R198,61.73020958875922
+C378,Cafe Granja La Esperanza Sudan Rume,September 2021,94,59.0,77.0,9.0,9.0,9.0,9.0,8.0,RL5,R221,176.36684303350972
+C379,Ethiopia Guji Laayoo Natural,August 2021,95,64.0,84.0,9.0,9.0,9.0,9.0,9.0,RL2,R215,73.34136805902584
+C380,Colombia Cafe Granja La Esperanza Sidra Natural,August 2021,95,58.0,80.0,9.0,9.0,9.0,9.0,9.0,RL5,R332,257.1428571428571
+C381,Kenya Gatomboya,August 2021,94,56.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R95,70.54881095858197
+C382,Nicaragua La Bendicion Yellow Maracaturra Natural,August 2021,94,64.0,86.0,9.0,9.0,9.0,9.0,8.0,RL2,R215,87.88947677836568
+C383,Kona Lactic Washed,August 2021,94,60.0,76.0,9.0,8.0,9.0,9.0,9.0,RL5,R215,220.0176366843033
+C384,Kenya Kamwangi,August 2021,95,58.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R28,70.54881095858197
+C385,Ethiopia Bench Maji Gesha Village Oma Geisha 1931 Lot 55 Natural,August 2021,94,64.0,86.0,9.0,9.0,9.0,9.0,8.0,RL2,R288,220.53097345132744
+C386,Ethiopia Guji Natural Euphora Special Lot,August 2021,94,59.0,79.0,9.0,9.0,9.0,9.0,8.0,RL5,R106,46.56084656084656
+C387,Sudan Rume,August 2021,95,57.0,74.0,9.0,9.0,9.0,9.0,9.0,RL5,R147,132.27513227513228
+C388,Testi Ayla Double Ethiopia,August 2021,97,64.0,86.0,9.0,10.0,9.0,10.0,9.0,RL2,R20,161.52738175725332
+C389,Primavera Colombia Espresso,August 2021,94,58.0,78.0,9.0,9.0,9.0,8.0,9.0,RL5,R147,55.85114200887739
+C390,Espresso Blend,August 2021,94,51.0,64.0,9.0,9.0,9.0,8.0,9.0,RL3,R231,66.0
+C391,Classic MK Blend,August 2021,94,36.0,48.0,9.0,9.0,9.0,8.0,9.0,RL4,R173,66.0
+C392,Chocolate Lover’s Espresso,August 2021,94,39.0,53.0,9.0,9.0,9.0,8.0,9.0,RL4,R73,44.00000000000001
+C393,Golden Parrot Blend,August 2021,95,50.0,67.0,9.0,9.0,9.0,9.0,9.0,RL3,R156,30.55555555555555
+C394,Bull Demon King,August 2021,96,35.0,48.0,9.0,9.0,9.0,9.0,10.0,RL4,R263,80.02645502645501
+C395,Tanzania Gesha Peaberry,August 2021,95,62.0,80.0,9.0,9.0,9.0,9.0,9.0,RL2,R215,660.9347442680777
+C396,Ethiopia Natural Guji D Minor 21/01,August 2021,95,64.0,84.0,9.0,9.0,9.0,9.0,9.0,RL2,R156,54.58553791887125
+C397,Ethiopia Hambela Yellow Honey James Selection,August 2021,95,62.0,80.0,9.0,9.0,9.0,9.0,9.0,RL2,R156,59.65608465608465
+C398,Costa Rica Black Honey,August 2021,94,58.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R156,40.035273368606695
+C399,Ethiopia Guji Hambela Kudume Yellow Honey,August 2021,94,58.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R73,92.39999999999999
+C400,Ethiopia Sidamo Bensa Mirado Natural,August 2021,94,64.0,80.0,9.0,9.0,9.0,9.0,8.0,RL2,R165,72.68722466960352
+C401,Costa Rica La Florida Red Honey Espresso,August 2021,95,54.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R156,43.650793650793645
+C402,Ethiopia Yirgacheffe Botabaa Washed G1 21/01,August 2021,94,60.0,80.0,9.0,9.0,9.0,9.0,8.0,RL5,R156,42.195767195767196
+C403,Yemen Mocca Matari,August 2021,94,60.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R99,98.8546255506608
+C404,Mojave Vault Series Geisha Natural,July 2021,94,64.0,84.0,9.0,9.0,9.0,9.0,8.0,RL2,R94,220.23809523809524
+C405,Ethiopia Buku Abela,July 2021,94,60.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R140,50.881057268722465
+C406,Colombia Finca Santa Maria,July 2021,95,58.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R267,52.91160821893648
+C407,Yemen Mocha Haimi,July 2021,94,63.0,83.0,9.0,9.0,9.0,9.0,8.0,RL2,R94,154.320987654321
+C408,Costa Rica Hacienda Tobosi Villalobos Anaerobic Natural,July 2021,94,62.0,80.0,9.0,9.0,9.0,9.0,8.0,RL2,R119,99.0
+C409,Colombia Wush Wush,July 2021,94,56.0,64.0,9.0,9.0,9.0,9.0,8.0,RL3,R267,79.36741232840473
+C410,Brazil Gauriroba Natural,July 2021,94,82.0,104.0,9.0,9.0,9.0,9.0,8.0,RL2,R252,4291.2
+C411,Rwanda “Silverback Returns”,July 2021,94,42.0,58.0,9.0,9.0,9.0,8.0,9.0,RL4,R263,116.40211640211639
+C412,Brazil Ipanema Golden Edition C26 Lychee,July 2021,94,0.0,0.0,9.0,9.0,9.0,8.0,9.0,,R119,41.24999999999999
+C413,Ethiopia Mormora Cold Brew,July 2021,94,0.0,0.0,9.0,9.0,9.0,8.0,9.0,,R245,16.167435844675037
+C414,Gigesa Natural,July 2021,95,58.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R147,52.91160821893648
+C415,El Jocote Natural,July 2021,95,60.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R147,70.54673721340387
+C416,Panama Finca Santa Teresa Summer Gesha,July 2021,94,60.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R27,255.73943972485964
+C417,Baby Dragons,July 2021,94,60.0,77.0,9.0,9.0,9.0,9.0,8.0,RL5,R198,82.30694611834564
+C418,Kona Maragogype Peaberry Natural,June 2021,95,58.0,80.0,9.0,9.0,9.0,9.0,9.0,RL5,R250,220.4585537918871
+C419,Ecuador San José de Minas Double-Anaerobic,June 2021,94,62.0,80.0,9.0,9.0,9.0,9.0,8.0,RL2,R217,132.2790205473412
+C420,La Perla Chiquita Ecuador,June 2021,95,56.0,76.0,9.0,9.0,9.0,9.0,9.0,RL5,R147,61.73020958875922
+C421,Las Flores Colombia,June 2021,94,58.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R147,58.79067579881831
+C422,Nicaragua Yellow Pacamara Natural,June 2021,94,62.0,80.0,9.0,9.0,9.0,9.0,8.0,RL2,R215,264.10934744268076
+C423,Ethiopia West Arsi Nensebo Natural G1,June 2021,95,52.0,70.0,9.0,9.0,9.0,9.0,9.0,RL5,R228,70.54881095858197
+C424,Ethiopia Sidama Bona Sweet Natural,June 2021,94,62.0,80.0,9.0,9.0,9.0,9.0,8.0,RL2,R228,58.79067579881831
+C425,Congo Square,June 2021,94,56.0,74.0,9.0,9.0,9.0,9.0,8.0,RL5,R306,58.79067579881831
+C426,Rwanda Rulindo Tumba,June 2021,94,60.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R24,49.97207442899556
+C427,Tanzania Sambewe,June 2021,94,58.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R243,49.82509773949852
+C428,Rwanda Kinini Village Natural,June 2021,94,58.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R212,63.199976483729685
+C429,Tanzania Peaberry,June 2021,94,53.0,71.0,9.0,9.0,9.0,9.0,8.0,RL5,R321,39.66136819594788
+C430,Tanzania Ngila Estate SL28,June 2021,95,60.0,84.0,9.0,9.0,9.0,9.0,9.0,RL2,R215,73.34136805902584
+C431,Ethiopia Washed Sidama Nafasha 74158 21/01,June 2021,96,60.0,78.0,9.0,9.0,9.0,10.0,9.0,RL5,R156,42.195767195767196
+C432,Ethiopia Tibe Haro Uraga,June 2021,95,58.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R238,60.23104735588935
+C433,Taiwan Natural Alishan TFU’YA Kakalove Lot,June 2021,95,58.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R156,203.7037037037037
+C434,Ethiopia Natural Guji Blue Donkey 21/01,June 2021,95,60.0,82.0,9.0,9.0,9.0,9.0,9.0,RL2,R156,47.31040564373898
+C435,Kenya Nyeri Gachatha Washed AB,June 2021,94,58.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R156,47.31040564373898
+C436,Ethiopia Yirgacheffe G1 Mulugeta Tsige,June 2021,95,60.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R119,82.5
+C437,Kenya AA Top Gathambi Station,June 2021,94,58.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R119,90.75
+C438,Ethiopia Guji Gerba Station G1 Natural Espresso,June 2021,94,56.0,76.0,9.0,9.0,9.0,8.0,9.0,RL5,R119,74.25
+C439,Ethiopia Keramo Village,June 2021,94,60.0,77.0,9.0,9.0,9.0,9.0,8.0,RL5,R304,100.0
+C440,Ethiopia Uraga Washed G1,May 2021,94,58.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R235,52.76463152943943
+C441,Kenya Karindudu AA,May 2021,95,56.0,76.0,9.0,9.0,9.0,9.0,9.0,RL5,R27,64.66974337870015
+C442,Colombia Cardona Natural,May 2021,94,62.0,80.0,9.0,9.0,9.0,9.0,8.0,RL2,R198,73.48834474852288
+C443,Ethiopia Guji Anaerobic,May 2021,94,57.0,73.0,9.0,9.0,9.0,9.0,8.0,RL5,R27,73.48834474852288
+C444,Maypop,May 2021,94,56.0,72.0,9.0,9.0,9.0,9.0,8.0,RL5,R171,73.45894941062348
+C445,La Soledad Colombia,May 2021,94,58.0,80.0,9.0,9.0,9.0,9.0,8.0,RL5,R147,79.36507936507937
+C446,Colombia Huila Acevedo El Paraiso,May 2021,94,57.0,77.0,9.0,9.0,9.0,9.0,8.0,RL5,R27,73.48834474852288
+C447,Love of Desolate,May 2021,96,58.0,80.0,9.0,9.0,9.0,10.0,9.0,RL5,R88,72.68722466960352
+C448,Blend No.7 Berrichee,May 2021,95,54.0,74.0,9.0,9.0,9.0,9.0,9.0,RL5,R230,69.3
+C449,Ethiopia Niguse Gemeda Mude Natural,May 2021,94,60.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R88,130.83700440528634
+C450,La Estrella Carbonic Geisha Reserve,May 2021,95,59.0,77.0,9.0,9.0,9.0,9.0,9.0,RL5,R79,200.0
+C451,Ethiopia Guji Wush Wush Anaerobic Natural,May 2021,95,57.0,77.0,9.0,9.0,9.0,9.0,9.0,RL5,R73,81.40969162995596
+C452,Ethiopia Guji Wush Wush,May 2021,95,58.0,77.0,9.0,9.0,9.0,9.0,9.0,RL5,R215,73.34136805902584
+C453,Tres Dragones Colombia,May 2021,94,60.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R28,73.48834474852288
+C454,Panama Elida Estate Catuaí Natural ASD,May 2021,94,58.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R327,72.7308803104125
+C455,Ethiopia Yirgacheffe Israel Degfa Natural Gr.1,May 2021,94,56.0,76.0,9.0,9.0,9.0,8.0,9.0,RL5,R67,65.41850220264317
+C456,Panama Elida Estate Washed,May 2021,96,59.0,77.0,9.0,9.0,9.0,10.0,9.0,RL5,R332,400.0
+C457,Bourbon Barrel Aged Ethiopia Cold Brew,May 2021,94,0.0,0.0,9.0,8.0,9.0,9.0,9.0,,R239,29.333333333333332
+C458,Kona Maragogype Natural,April 2021,94,58.0,82.0,9.0,9.0,9.0,9.0,8.0,RL5,R215,264.10934744268076
+C459,Kenya Washed Nakuru Gachombe Factory AB,April 2021,95,56.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R156,30.55555555555555
+C460,Ethiopia Natural Guji Hambella Wate Peaberry,April 2021,95,62.0,84.0,9.0,9.0,9.0,9.0,9.0,RL2,R156,54.58553791887125
+C461,Ethiopia Guji Shakiso Dambi Udo Natural Anaerobic,April 2021,94,59.0,77.0,9.0,9.0,9.0,9.0,8.0,RL5,R73,52.800000000000004
+C462,Ethiopia Natural Guji,April 2021,94,56.0,76.0,9.0,9.0,9.0,8.0,9.0,RL5,R156,30.55555555555555
+C463,Costa Rica Yellow Honey Kinka Bear Lot 20-02,April 2021,94,52.0,70.0,9.0,9.0,9.0,8.0,9.0,RL5,R156,36.37566137566137
+C464,Ethiopia Guji Shakiso Dambi Udo Honey,April 2021,94,62.0,80.0,9.0,9.0,9.0,9.0,8.0,RL2,R73,51.333333333333336
+C465,Kenya Washed Nyeri Gichathaini Factory AB,April 2021,94,60.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R156,56.74603174603174
+C466,Colombia Pink Bourbon Honey,April 2021,95,60.0,80.0,9.0,9.0,9.0,9.0,9.0,RL5,R28,85.24647990828655
+C467,Kona SL34 Sweet Spot,April 2021,94,58.0,80.0,9.0,9.0,9.0,9.0,8.0,RL5,R163,251.70068027210885
+C468,Haraaz Red,April 2021,95,58.0,82.0,9.0,9.0,9.0,9.0,9.0,RL5,R147,77.1604938271605
+C469,Panama Elida Green-Tip Geisha La Torre ASD,April 2021,95,62.0,84.0,9.0,9.0,9.0,9.0,9.0,RL2,R327,264.55609691571686
+C470,Kona Peaberry,April 2021,94,56.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R25,123.45679012345678
+C471,Panama Finca Los Lajones Natural,April 2021,94,60.0,82.0,9.0,9.0,9.0,9.0,8.0,RL2,R28,85.24647990828655
+C472,SL28,April 2021,94,56.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R136,145.5026455026455
+C473,Bourbon Pointu Natural,April 2021,94,58.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R163,251.95263290501384
+C474,Ethiopia Guji Hambela Buku Abel Slow Dry Natural 2400m,April 2021,94,64.0,82.0,9.0,9.0,9.0,9.0,8.0,RL2,R11,60.0
+C475,Flight Seasonal Espresso,April 2021,95,58.0,74.0,9.0,9.0,9.0,9.0,9.0,RL5,R238,55.82174667097798
+C476,Panama Boquete Flor De Mariposa Geisha Espresso,March 2021,96,54.0,76.0,9.0,9.0,9.0,9.0,10.0,RL5,R156,72.75132275132275
+C477,Guji Ethiopia Washed,March 2021,94,62.0,84.0,9.0,9.0,9.0,9.0,8.0,RL2,R217,52.88221288103706
+C478,Colombia Monteblanco Geisha,March 2021,94,64.0,82.0,9.0,9.0,9.0,9.0,8.0,RL2,R177,88.09523809523809
+C479,Ethiopia Gedeo Kochere Reko Natural,March 2021,94,64.0,84.0,9.0,9.0,9.0,9.0,8.0,RL2,R146,69.56521739130434
+C480,Costa Rica Aris Red Honey Lot 2002 Espresso,March 2021,94,52.0,70.0,9.0,9.0,9.0,8.0,9.0,RL5,R156,39.285714285714285
+C481,Twisted V.6 Espresso,March 2021,94,54.0,74.0,9.0,9.0,9.0,8.0,9.0,RL5,R147,46.29765719156942
+C482,Aged Sumatra Ulos Batak 2015,March 2021,94,45.0,63.0,9.0,8.0,9.0,9.0,9.0,RL3,R215,55.704165319380344
+C483,Kona Uluwehi SL34,March 2021,94,60.0,80.0,9.0,9.0,9.0,9.0,8.0,RL5,R215,264.10934744268076
+C484,Colombia Pink Bourbon Finca El Chaparote,March 2021,94,64.0,82.0,9.0,9.0,9.0,9.0,8.0,RL2,R215,87.88947677836568
+C485,Ethiopia Neja Fadil,March 2021,94,58.0,78.0,9.0,8.0,9.0,9.0,9.0,RL5,R28,58.79067579881831
+C486,Peru Buena Vista Valerio Almanza Ccahua,March 2021,94,60.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R267,119.04761904761904
+C487,Panama Finca Santa Teresa Lot 9,March 2021,94,60.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R205,58.79067579881831
+C488,Guatemala Cobán Chicoj Cooperative Red Honey Fair Trade,March 2021,94,58.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R269,52.8
+C489,Ethiopia Halo Hartume Daniel Mijane,March 2021,94,58.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R205,55.85114200887739
+C490,Colombia Cauca El Paraiso,March 2021,96,85.0,105.0,9.0,9.0,9.0,10.0,9.0,RL2,R252,4291.2
+C491,Taiwan Songyue Geisha,March 2021,94,79.0,92.0,9.0,9.0,9.0,9.0,8.0,RL2,R252,7603.2
+C492,Kenya Nyeri,March 2021,94,60.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R133,95.33333333333333
+C493,Kenya Kirinyaga Baragwi Karumandi AA,March 2021,94,54.0,74.0,9.0,9.0,9.0,9.0,8.0,RL5,R97,49.82509773949852
+C494,Harimau Tiger Sumatra,March 2021,94,54.0,74.0,9.0,9.0,9.0,9.0,8.0,RL5,R147,49.97207442899556
+C495,Ethiopia Sidamo Washed,March 2021,95,58.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R73,54.09691629955947
+C496,Ethiopia Guji Uraga Washed,March 2021,95,60.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R73,36.651982378854626
+C497,Indonesia Golden Sumatra TP Espresso,March 2021,96,44.0,62.0,9.0,9.0,10.0,9.0,9.0,RL3,R119,74.25
+C498,Kenya Gachatha,February 2021,95,54.0,72.0,9.0,9.0,9.0,9.0,9.0,RL5,R291,66.1395102736706
+C499,Ethiopia Suke Quto Single-Origin Espresso,February 2021,94,52.0,72.0,9.0,9.0,9.0,8.0,9.0,RL5,R291,55.85114200887739
+C500,Ethiopia Gera Limu,February 2021,94,58.0,80.0,9.0,9.0,9.0,9.0,8.0,RL5,R291,55.85114200887739
+C501,Panama Pacamara Natural,February 2021,94,52.0,70.0,9.0,9.0,9.0,9.0,8.0,RL5,R225,183.50000000000003
+C501,Panama Pacamara Natural,February 2021,94,52.0,70.0,9.0,9.0,9.0,9.0,8.0,RL5,R225,183.50000000000003
+C502,Ka’u Pink Honey,February 2021,94,64.0,84.0,9.0,9.0,9.0,9.0,8.0,RL2,R215,220.0176366843033
+C503,Kona Maragogype Pink Honey,February 2021,94,64.0,86.0,9.0,9.0,9.0,9.0,8.0,RL2,R215,264.10934744268076
+C504,RD1 Espresso Blend,February 2021,95,54.0,72.0,9.0,9.0,9.0,9.0,9.0,RL5,R233,43.650793650793645
+C505,Bull Espresso Blend,February 2021,95,56.0,76.0,9.0,9.0,9.0,9.0,9.0,RL5,R185,32.709251101321584
+C506,Ethiopia Yirgacheffe Gotiti Natural,February 2021,95,58.0,80.0,9.0,9.0,9.0,9.0,9.0,RL5,R233,55.291005291005284
+C507,Trust the Process — Full Natural,February 2021,96,64.0,84.0,9.0,9.0,9.0,10.0,9.0,RL2,R238,83.73015873015872
+C508,Colombia Finca El Caucho Pink Bourbon,February 2021,95,62.0,80.0,9.0,9.0,9.0,9.0,9.0,RL2,R215,99.64726631393297
+C509,Colombia Antioquia Natural Carbonic Maceration Caturra,February 2021,95,60.0,80.0,9.0,9.0,9.0,9.0,9.0,RL5,R156,45.10582010582011
+C510,Colombia La Gallera Estate,February 2021,94,64.0,84.0,9.0,9.0,9.0,9.0,8.0,RL2,R107,90.21164021164022
+C511,Colombia Diofanor Ruiz,February 2021,94,58.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R221,146.9723691945914
+C512,Colombia Java El Edén Limited Edition,February 2021,94,58.0,80.0,9.0,9.0,9.0,9.0,8.0,RL5,R37,88.18601369822746
+C513,Finca La Maria Geisha Natural,February 2021,94,62.0,80.0,9.0,8.0,9.0,9.0,9.0,RL2,R32,378.3068783068783
+C514,Angamaza,February 2021,94,60.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R147,58.79067579881831
+C515,Ethiopia Rhapsody Espresso,January 2021,95,52.0,70.0,9.0,9.0,9.0,9.0,9.0,RL5,R208,87.09251101321586
+C516,Kona Geisha Champagne Natural,January 2021,95,64.0,84.0,9.0,9.0,9.0,9.0,9.0,RL2,R215,660.9347442680777
+C517,Dafis Abafita Natural Ethiopia,January 2021,95,64.0,84.0,9.0,9.0,9.0,9.0,9.0,RL2,R212,63.199976483729685
+C518,Berg Wu Championship Sidamo Washed G1 Lot 20-02,January 2021,95,64.0,84.0,9.0,9.0,9.0,9.0,9.0,RL2,R156,49.47089947089947
+C519,Ka’u Yellow Bourbon,January 2021,94,60.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R25,116.40211640211639
+C520,Ethiopia Natural Hambela Wate,January 2021,95,58.0,76.0,9.0,9.0,9.0,9.0,9.0,RL5,R156,45.10582010582011
+C521,Kinini Village Rwanda,January 2021,94,58.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R212,58.79067579881831
+C522,Ethiopia Natural Guji Uraga G1 Lot 20-05,January 2021,94,58.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R156,54.58553791887125
+C523,Kenya Nyeri Muchoki Estate AA,January 2021,94,62.0,80.0,9.0,9.0,9.0,9.0,8.0,RL2,R156,50.925925925925924
+C524,Fruity Espresso Blend,January 2021,95,56.0,74.0,9.0,9.0,9.0,9.0,9.0,RL5,R192,74.95
+C525,Ethiopia Yirgacheffe Cleopatra Natural,January 2021,94,56.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R230,99.0
+C526,Ethiopia Yirgacheffe Dumerso G1 Natural,January 2021,94,57.0,73.0,9.0,9.0,9.0,9.0,8.0,RL5,R235,55.704165319380344
+C527,Guatemala Santa Felisa Solar Eclipse Gesha Natural,January 2021,94,64.0,80.0,9.0,9.0,9.0,9.0,8.0,RL2,R106,180.42328042328043
+C528,Coral,January 2021,94,58.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R111,40.0
+C528,Coral,January 2021,94,58.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R111,40.0
+C529,Ethiopia Guji Goro Muda Washed G1,January 2021,95,64.0,82.0,9.0,9.0,9.0,9.0,9.0,RL2,R1,65.47619047619047
+C530,Ethiopian Guji Ana Sora Alcoholic Natural G1,January 2021,94,60.0,80.0,9.0,9.0,9.0,9.0,8.0,RL5,R196,43.650793650793645
+C531,Panama Hacienda La Esmeralda Gesha,December 2020,96,58.0,78.0,9.0,9.0,9.0,10.0,9.0,RL5,R27,246.91358024691357
+C532,Ethiopia Cup of Excellence Guji Natural,December 2020,95,68.0,90.0,9.0,9.0,9.0,9.0,9.0,RL2,R215,175.9259259259259
+C533,Ethiopia Sidama Telamo FTO Natural,December 2020,95,58.0,76.0,9.0,9.0,9.0,9.0,9.0,RL5,R272,67.60927716864106
+C534,Ethiopia Guji Laayyoo Natural,December 2020,94,64.0,82.0,9.0,9.0,9.0,9.0,8.0,RL2,R215,73.34136805902584
+C535,Magic Cat Kenya Civet AFCA TOH NO.2 Gatuya Factory New Murarandia AA,December 2020,94,56.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R128,908.289241622575
+C536,Ethiopia Grade 1 Chelchele,December 2020,94,62.0,80.0,9.0,9.0,9.0,9.0,8.0,RL2,R198,64.66974337870015
+C537,Ethiopia Natural Yirgacheffe Gr.1 Cleopatra,December 2020,95,47.0,73.0,9.0,9.0,9.0,9.0,9.0,RL3,R263,160.05291005291002
+C538,Taiwan Alishan Zhou-Zhu-Yuan Farm Estate Reserve Washed,December 2020,94,46.0,64.0,9.0,9.0,9.0,8.0,9.0,RL3,R263,160.05291005291002
+C539,Ethiopia Keramo Zero Oxygen Natural,December 2020,94,60.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R304,242.50440917107582
+C540,Panama Elida ASD Natural,December 2020,94,62.0,80.0,9.0,9.0,9.0,9.0,8.0,RL2,R332,400.0
+C541,Peru Yanesha Geisha,December 2020,94,61.0,79.0,9.0,9.0,9.0,9.0,8.0,RL5,R1,145.5026455026455
+C542,Ethiopia Guji Chembi,November 2020,95,58.0,76.0,9.0,9.0,9.0,9.0,9.0,RL5,R316,65.41850220264317
+C543,Kenya Nyeri,November 2020,94,57.0,77.0,9.0,9.0,9.0,9.0,8.0,RL5,R218,66.0
+C544,Kona Red Bourbon Anaerobic Washed Uluwehi Farm,November 2020,95,58.0,74.0,9.0,9.0,9.0,9.0,9.0,RL5,R215,264.10934744268076
+C545,Wush Wush,November 2020,95,60.0,82.0,9.0,9.0,9.0,9.0,9.0,RL2,R238,61.700814250859814
+C546,Honey Typica Anaerobic,November 2020,95,56.0,74.0,9.0,9.0,9.0,9.0,9.0,RL5,R136,165.34756057232303
+C547,Geisha,November 2020,94,55.0,71.0,9.0,9.0,9.0,9.0,8.0,RL5,R136,145.5026455026455
+C548,Panama Abu Natural ASD Geisha BOP GN11,November 2020,96,58.0,76.0,9.0,9.0,9.0,10.0,9.0,RL5,R156,349.20634920634916
+C549,Ethiopia Kochere Boji,November 2020,95,60.0,77.0,9.0,9.0,9.0,9.0,9.0,RL5,R170,58.64369910932126
+C550,Panama Finca Minerva-Mirage Pacamara BOP PAC04,November 2020,95,46.0,76.0,9.0,9.0,9.0,9.0,9.0,RL5,R156,174.60317460317458
+C551,Tanzania Shimiligwanda,November 2020,94,62.0,80.0,9.0,9.0,9.0,9.0,8.0,RL2,R170,52.76463152943943
+C552,Ethiopia Natural Guji Blue-Donkey 2020,November 2020,95,59.0,77.0,9.0,9.0,9.0,9.0,9.0,RL5,R156,47.31040564373898
+C553,Kenya Washed Peaberry Rnyeusi,November 2020,94,52.0,74.0,9.0,9.0,9.0,9.0,8.0,RL5,R156,47.31040564373898
+C554,Ethiopia COE 2nd place Washed Sidamo Rumudamo,November 2020,94,60.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R156,577.5
+C555,Ethiopia Yirgacheffe Natural Haru Suke G1,November 2020,94,60.0,80.0,9.0,9.0,9.0,9.0,8.0,RL5,R156,45.10582010582011
+C556,Finca Sophia Gesha Washed,November 2020,98,58.0,76.0,10.0,10.0,9.0,10.0,9.0,RL5,R102,440.9171075837742
+C557,Colombia Granja La Esperanza Java Anaerobic,November 2020,95,53.0,73.0,9.0,9.0,9.0,9.0,9.0,RL5,R28,499.7060552616108
+C558,Shantawene Ethiopia Daya Bensa Natural,November 2020,94,62.0,80.0,9.0,9.0,9.0,9.0,8.0,RL2,R47,55.85114200887739
+C559,Kenya AA FAQ,November 2020,94,60.0,77.0,9.0,9.0,9.0,9.0,8.0,RL5,R269,54.45
+C560,Ardent Ethiopia Natural,November 2020,97,57.0,77.0,10.0,9.0,9.0,10.0,9.0,RL5,R147,154.320987654321
+C561,Ethiopia Dur Feres Natural,November 2020,94,60.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R238,55.82174667097798
+C562,Kenya AA Ares Phoenix Special,November 2020,96,44.0,60.0,9.0,9.0,9.0,9.0,10.0,RL3,R265,130.95238095238093
+C563,GW01 Finca Sophia Olympus Geisha,November 2020,98,58.0,76.0,10.0,10.0,9.0,10.0,9.0,RL5,R119,8250.0
+C564,La Esperanza Colombian Natural X.O.,October 2020,94,54.0,70.0,9.0,9.0,9.0,9.0,8.0,RL5,R97,49.82509773949852
+C565,Taiwan Geisha Honey,October 2020,94,62.0,80.0,9.0,9.0,9.0,9.0,8.0,RL2,R215,572.7513227513227
+C566,Camilina Geisha,October 2020,95,60.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R28,499.7060552616108
+C567,Hacienda La Esmeralda Buenos Aires Geisha Natural,October 2020,95,54.0,70.0,9.0,9.0,9.0,9.0,9.0,RL5,R212,286.59611992945327
+C568,Ethiopia Sidama Bona Washed G1,October 2020,94,58.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R266,127.86596119929453
+C569,Sidama Extreme Papilio Washed,October 2020,94,59.0,74.0,9.0,9.0,9.0,9.0,8.0,RL5,R228,73.48834474852288
+C570,Finca Santa Isabel,October 2020,94,55.0,73.0,9.0,9.0,9.0,9.0,8.0,RL5,R101,38.2139392692319
+C571,Finca San Carlos,October 2020,94,56.0,72.0,9.0,9.0,9.0,9.0,8.0,RL5,R101,38.2139392692319
+C572,Ethiopia Natural Guji D Minor Special Lot,October 2020,97,60.0,76.0,10.0,9.0,9.0,10.0,9.0,RL5,R156,58.201058201058196
+C573,2020 Savage Auction Deborah Carbonic-Macerated Natural Geisha,October 2020,94,58.0,74.0,9.0,9.0,9.0,9.0,8.0,RL5,R156,218.25396825396825
+C574,Costa Rica Cordillera del Fuego,October 2020,94,58.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R217,105.78483245149911
+C575,Ethiopia Bombe Mountains,October 2020,94,58.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R332,73.48834474852288
+C576,Ethiopia Yirgacheffe G1 Natural Asfaw Maru,October 2020,94,52.0,70.0,9.0,9.0,9.0,9.0,8.0,RL5,R235,49.82509773949852
+C577,Coffea Diversa Rume Sudan Winey,October 2020,95,64.0,84.0,9.0,9.0,9.0,9.0,9.0,RL2,R215,175.9259259259259
+C578,Hawai’i Puna Anaerobic Washed,October 2020,94,58.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R215,175.9259259259259
+C579,Colombia Hacienda Casablanca,October 2020,94,62.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R280,58.79067579881831
+C579,Colombia Hacienda Casablanca,October 2020,94,62.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R280,58.79067579881831
+C580,Ethiopia Natural Guji Kercha Lot Riverside,October 2020,94,58.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R156,40.035273368606695
+C581,Costa Rica Yellow Honey Lot Kinka Bear,October 2020,94,52.0,70.0,9.0,9.0,9.0,8.0,9.0,RL5,R156,36.37566137566137
+C582,San Diego Natural,October 2020,95,55.0,75.0,9.0,9.0,9.0,9.0,9.0,RL5,R147,52.61765483994238
+C583,Buna Boka #1,October 2020,94,60.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R147,55.116258561392165
+C584,El Jardin,October 2020,94,58.0,74.0,9.0,9.0,9.0,9.0,8.0,RL5,R147,123.45679012345678
+C585,Kenya Wachuri,October 2020,95,48.0,66.0,9.0,9.0,8.0,10.0,9.0,RL3,R102,64.66974337870015
+C586,Kenya Baragwi Guama AB,October 2020,95,60.0,80.0,9.0,9.0,9.0,9.0,9.0,RL5,R112,49.97207442899556
+C587,Kenya ARES,October 2020,95,54.0,74.0,9.0,9.0,9.0,9.0,9.0,RL5,R73,109.04347826086956
+C588,Empress Kenya,October 2020,95,58.0,74.0,9.0,9.0,9.0,9.0,9.0,RL5,R91,80.66666666666666
+C589,Kenya Kiambu AB Top Lot,October 2020,94,54.0,72.0,9.0,9.0,9.0,9.0,8.0,RL5,R107,65.41850220264317
+C590,Kenya Kiambu Maua Lot AB,October 2020,94,60.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R156,47.31040564373898
+C591,Kenya Thunguri AA,October 2020,94,58.0,80.0,9.0,9.0,9.0,9.0,8.0,RL5,R161,64.5227666892031
+C592,Kenya Kirinyaga Kabare Karani AA,October 2020,94,60.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R222,71.77777777777777
+C592,Kenya Kirinyaga Kabare Karani AA,October 2020,94,60.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R222,71.77777777777777
+C593,Kenya Kirinyaga Kii,October 2020,94,57.0,77.0,9.0,9.0,9.0,9.0,8.0,RL5,R269,82.5
+C594,Kenya Rungeto,October 2020,94,56.0,72.0,9.0,9.0,9.0,9.0,8.0,RL5,R278,67.60927716864106
+C595,Kenya AA Top Gatomboya,October 2020,94,54.0,72.0,9.0,9.0,9.0,9.0,8.0,RL5,R275,52.910052910052904
+C596,Heart & Soul Espresso Blend,October 2020,94,50.0,70.0,9.0,9.0,9.0,8.0,9.0,RL3,R275,52.910052910052904
+C597,Ethiopia Banko Gotiti,October 2020,94,57.0,77.0,9.0,9.0,9.0,9.0,8.0,RL5,R28,58.79067579881831
+C598,Ethiopia Yabitu Koba,October 2020,94,58.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R6,58.79067579881831
+C599,Ethiopia Banko Gotiti,October 2020,94,60.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R212,57.32090890384785
+C600,Rhapsody of Dreams,October 2020,94,58.0,74.0,9.0,9.0,9.0,9.0,8.0,RL5,R107,65.41850220264317
+C601,Ethiopia Reko Yirgacheffe,September 2020,94,60.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R291,60.26044269378877
+C602,Colombia Asobombo Inza,September 2020,94,62.0,84.0,9.0,9.0,9.0,9.0,8.0,RL2,R112,47.032540639054645
+C603,Ethiopia Sidamo Natural Twakok G1,September 2020,94,52.0,72.0,9.0,9.0,9.0,8.0,9.0,RL5,R33,78.91304347826086
+C604,Panama Boquete Torre Lot #1 Geisha Honey,September 2020,94,62.0,80.0,9.0,9.0,9.0,9.0,8.0,RL2,R33,825.0
+C605,Yellow Caturra (special lot),September 2020,94,56.0,70.0,9.0,9.0,9.0,9.0,8.0,RL5,R180,132.27513227513228
+C606,Hawai’i Kilauea Volcano Yeast Fermentation Washed,September 2020,96,58.0,76.0,9.0,9.0,9.0,10.0,9.0,RL5,R215,264.10934744268076
+C607,Kona Pink Honey Black Rock Farm,September 2020,94,58.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R215,220.0176366843033
+C608,Ethiopia Kayon Mountain,September 2020,94,60.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R170,58.64369910932126
+C609,Benti Nenqa #209 Ethiopia,September 2020,94,60.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R147,55.116258561392165
+C610,El Salvador Santa Elena Pacamara,September 2020,94,54.0,70.0,9.0,9.0,9.0,9.0,8.0,RL5,R119,82.5
+C611,Ethiopia Sheka Kawo Kamina Natural,September 2020,95,58.0,72.0,9.0,9.0,9.0,9.0,9.0,RL5,R215,73.34136805902584
+C612,Black Swan Blend,September 2020,94,54.0,70.0,9.0,9.0,9.0,8.0,9.0,RL5,R156,37.83068783068783
+C613,Indonesia Lintong Mandheling,September 2020,94,58.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R218,66.0
+C614,Ethiopia Yirgacheffe Natural Farm Direct,September 2020,94,58.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R94,64.66974337870015
+C615,Kenya Karatina AA 2020,September 2020,94,58.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R94,70.54881095858197
+C616,Colombia San Luís Gesha,August 2020,94,60.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R217,88.14814814814814
+C617,Karani Kenya,August 2020,95,56.0,74.0,9.0,9.0,9.0,9.0,9.0,RL5,R147,61.73020958875922
+C618,Miraflores Colombia,August 2020,95,58.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R147,64.66974337870015
+C619,Kenya Gatuya,August 2020,94,55.0,73.0,9.0,9.0,9.0,9.0,8.0,RL5,R95,61.73020958875922
+C620,Flight Seasonal Espresso,August 2020,94,58.0,80.0,9.0,9.0,9.0,8.0,9.0,RL5,R238,54.351979776007525
+C621,Kenya Gicherori,August 2020,94,58.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R291,69.0790440636115
+C622,Ethiopia Kayon Mountain (Natural),August 2020,94,64.0,92.0,9.0,9.0,9.0,9.0,8.0,RL2,R238,55.82174667097798
+C623,Ethiopia Kayon Mountain (Washed),August 2020,94,62.0,88.0,9.0,9.0,9.0,9.0,8.0,RL2,R238,54.351979776007525
+C624,Ethiopia Dame Dabaye,August 2020,95,60.0,76.0,9.0,9.0,9.0,9.0,9.0,RL5,R144,47.032540639054645
+C625,Kenya Nyeri AB Nyeshun,August 2020,96,58.0,78.0,9.0,9.0,9.0,10.0,9.0,RL5,R156,58.201058201058196
+C626,Ethiopia Guji Bishala,August 2020,94,58.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R156,42.195767195767196
+C627,Ethiopia Wegida Natural,August 2020,94,62.0,80.0,9.0,9.0,9.0,9.0,8.0,RL2,R328,58.79067579881831
+C628,Ka’u Red Caturra Peaberry,August 2020,94,58.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R209,146.97668949704575
+C628,Ka’u Red Caturra Peaberry,August 2020,94,58.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R209,146.97668949704575
+C629,Wush Wush Ginbo Keffa Ethiopia,August 2020,95,60.0,74.0,9.0,9.0,9.0,9.0,9.0,RL5,R104,52.911219383143376
+C630,Burundi Karehe,August 2020,95,60.0,76.0,9.0,9.0,9.0,9.0,9.0,RL5,R35,58.79067579881831
+C631,Ethiopia Guji Natural,August 2020,94,64.0,83.0,9.0,9.0,9.0,9.0,8.0,RL2,R224,52.91160821893648
+C632,Ethiopia Gera Estate Natural,August 2020,94,67.0,96.0,8.0,9.0,9.0,9.0,9.0,RL2,R177,47.003145301155236
+C633,Estelí Nicaragua,August 2020,94,60.0,79.0,9.0,9.0,9.0,9.0,8.0,RL5,R98,66.13756613756614
+C634,Limu Ethiopia Natural,August 2020,94,66.0,85.0,9.0,8.0,9.0,9.0,8.0,RL2,R14,41.15347305917282
+C635,Colombia Finca El Roblar,August 2020,94,60.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R23,48.50230753402511
+C636,Guatemala Bella Carmona,August 2020,94,58.0,74.0,9.0,9.0,9.0,9.0,8.0,RL5,R77,55.85114200887739
+C637,Ethiopia Yirgacheffe Kochere Debo,August 2020,94,54.0,70.0,9.0,9.0,9.0,9.0,8.0,RL5,R150,41.15347305917282
+C638,Kilauea Volcano Champagne Natural,August 2020,95,64.0,80.0,9.0,9.0,9.0,9.0,9.0,RL2,R215,264.10934744268076
+C639,Nicaragua La Benedicion SL28 Natural,August 2020,94,62.0,80.0,9.0,9.0,9.0,9.0,8.0,RL2,R215,117.28395061728395
+C640,Colombia Tolima Geisha,August 2020,94,62.0,82.0,9.0,9.0,9.0,9.0,8.0,RL2,R215,176.19047619047618
+C641,Ethiopia Haro Guta Natural,August 2020,94,62.0,80.0,9.0,9.0,9.0,9.0,8.0,RL2,R87,58.201058201058196
+C642,Kenya AA Kirinyaga Kii,August 2020,95,60.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R1,87.30158730158729
+C643,Colombia Antioquia La Papaya Bourbon Chiroso,August 2020,94,62.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R1,101.85185185185185
+C644,Karimiuki Espresso,July 2020,96,58.0,76.0,9.0,9.0,9.0,9.0,10.0,RL5,R147,61.73020958875922
+C645,Karimiuki Kenya,July 2020,95,58.0,76.0,9.0,9.0,9.0,9.0,9.0,RL5,R147,61.73020958875922
+C646,Colombia San Pedro,July 2020,94,56.0,72.0,9.0,9.0,9.0,9.0,8.0,RL5,R79,55.85114200887739
+C647,"DR Congo, Gera Village, SOPACDI",July 2020,94,58.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R77,61.73020958875922
+C648,El Floral Colombia,July 2020,95,59.0,77.0,9.0,9.0,9.0,9.0,9.0,RL5,R147,61.73020958875922
+C649,El Salvador Geisha Natural,July 2020,94,58.0,74.0,9.0,9.0,9.0,9.0,8.0,RL5,R215,99.64726631393297
+C650,Ethiopia Natural Guji Lot D Minor,July 2020,95,58.0,76.0,9.0,9.0,9.0,9.0,9.0,RL5,R156,40.035273368606695
+C651,Taiwan Natural Alishan Zhuo-Wu Farm Geisha,July 2020,94,56.0,72.0,9.0,9.0,9.0,9.0,8.0,RL5,R156,291.005291005291
+C652,All Rise,July 2020,94,54.0,72.0,9.0,9.0,9.0,9.0,8.0,RL5,R234,58.79067579881831
+C652,All Rise,July 2020,94,54.0,72.0,9.0,9.0,9.0,9.0,8.0,RL5,R234,58.79067579881831
+C653,Guji Uraga Nitro Cold Brew,July 2020,94,0.0,0.0,9.0,9.0,9.0,9.0,8.0,,R79,17.592592592592595
+C654,Kamoini Black Coffee,July 2020,94,0.0,0.0,9.0,8.0,9.0,9.0,9.0,,R114,
+C655,Ethiopia Nano Challa Cold Brew,July 2020,94,0.0,0.0,9.0,9.0,9.0,8.0,9.0,,R34,13.397014419956541
+C656,Brazil Ipanema Black Edition A-41 Red Cherry,July 2020,94,0.0,0.0,9.0,9.0,9.0,9.0,8.0,,R119,44.0
+C657,Costa Rica Hacienda Tobosi Copey Villa Sarchi Black Honey,July 2020,94,52.0,70.0,9.0,9.0,9.0,9.0,8.0,RL5,R11,67.5
+C658,Sudan Rume,June 2020,94,62.0,80.0,9.0,9.0,9.0,9.0,8.0,RL2,R332,176.36684303350972
+C659,Ethiopia Sidama Keramo Village,June 2020,94,60.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R332,73.48834474852288
+C660,Red Bourbon Natural Exclusive Reserve,June 2020,95,58.0,76.0,9.0,9.0,9.0,10.0,8.0,RL5,R136,167.5485008818342
+C661,Nano Genji Agaro Gera,June 2020,94,52.0,68.0,9.0,9.0,9.0,9.0,8.0,RL3,R291,61.73020958875922
+C662,Sumatra Pantan Musara,June 2020,94,58.0,74.0,9.0,9.0,9.0,9.0,8.0,RL5,R242,61.73020958875922
+C663,Kona Classic Black Rock Farm,June 2020,94,52.0,68.0,9.0,9.0,9.0,9.0,8.0,RL3,R215,167.10758377425043
+C664,Ethiopian Yirgacheffe Natural,June 2020,94,58.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R94,58.79067579881831
+C665,Colombia Cauca At’e,June 2020,94,60.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R276,52.910052910052904
+C666,Sumatra Pantan Musara,June 2020,94,54.0,72.0,9.0,9.0,9.0,9.0,8.0,RL5,R215,73.34136805902584
+C667,Sumatra Gayo G1 Triple-Picked Lot 005,June 2020,94,56.0,74.0,9.0,9.0,9.0,9.0,8.0,RL5,R156,32.760141093474424
+C668,Nano Genji #4 Espresso,June 2020,96,56.0,74.0,9.0,9.0,9.0,9.0,10.0,RL5,R147,55.116258561392165
+C669,Ignacio Quintero Colombia,June 2020,95,58.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R147,52.91160821893648
+C670,Ka’u Giant Maragogipe,June 2020,94,54.0,68.0,9.0,9.0,9.0,9.0,8.0,RL5,R25,123.45679012345678
+C671,Organic Ethiopia Agaro-Nano Challa,June 2020,94,58.0,74.0,9.0,9.0,9.0,9.0,8.0,RL5,R215,67.462300479144
+C672,Kerinci Palompek Sumatra,June 2020,94,58.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R147,52.32370146094829
+C673,Kenya Embu Gicherori Factory AA Top,June 2020,95,58.0,74.0,9.0,9.0,9.0,10.0,9.0,RL5,R119,95.7
+C674,Colombia Finca Lord Baltimore Papayo,May 2020,94,62.0,80.0,9.0,9.0,9.0,9.0,8.0,RL2,R215,73.34136805902584
+C675,Mocha Java,May 2020,96,52.0,68.0,9.0,9.0,9.0,10.0,9.0,RL3,R296,42.62323995414327
+C676,Ethiopia Shantawene Washed,May 2020,96,60.0,78.0,9.0,9.0,9.0,10.0,9.0,RL5,R238,61.700814250859814
+C677,Organic Suke Quto Ethiopia,May 2020,95,56.0,74.0,9.0,9.0,9.0,10.0,8.0,RL5,R131,55.85114200887739
+C678,Kenya Tuikit Factory AA,May 2020,95,56.0,72.0,9.0,9.0,9.0,9.0,9.0,RL5,R156,43.650793650793645
+C679,Abu Natural Panama Geisha,May 2020,94,58.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R161,205.4673721340388
+C680,Colombia Finca Las Margaritas Natural Sudan Rume,May 2020,94,55.0,73.0,8.0,9.0,9.0,9.0,8.0,RL5,R332,176.36684303350972
+C681,Ecuador Finca Carolina Sidra,May 2020,94,60.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R215,88.03903700873042
+C682,Gesha Village Single-Variety Gesha Special Selection,May 2020,94,58.0,74.0,9.0,9.0,9.0,9.0,8.0,RL5,R221,132.27513227513228
+C683,Indestec El Paraiso,May 2020,94,58.0,74.0,9.0,9.0,9.0,9.0,8.0,RL5,R279,85.24647990828655
+C684,Monteblanco Cold Fermentation Geisha,May 2020,94,57.0,73.0,9.0,9.0,9.0,9.0,8.0,RL5,R279,85.24647990828655
+C685,Funky Chicken,April 2020,94,46.0,64.0,9.0,9.0,9.0,9.0,8.0,RL3,R238,41.1240777212734
+C686,Yemen Al-Obbarat,April 2020,95,54.0,72.0,9.0,9.0,9.0,9.0,9.0,RL5,R215,440.4761904761905
+C687,Ecuador Quilanga Typica Yeast Fermentation,April 2020,94,57.0,73.0,9.0,9.0,9.0,9.0,8.0,RL5,R215,67.462300479144
+C688,Ethiopia Natural Guji PB JackyLai Lot,April 2020,94,56.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R156,43.650793650793645
+C689,Ethiopia Wush Wush,April 2020,96,62.0,80.0,10.0,9.0,9.0,10.0,8.0,RL2,R242,97.00461506805021
+C690,Ethiopia Hassen Ware Akrabi,April 2020,94,58.0,74.0,9.0,9.0,9.0,9.0,8.0,RL5,R144,66.13756613756614
+C691,Costa Rica Luis Campos Anaerobic,April 2020,94,58.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R242,67.60927716864106
+C692,Colombia Granja La Esperanza Tres Dragones,April 2020,94,60.0,74.0,9.0,9.0,9.0,9.0,8.0,RL5,R212,69.0790440636115
+C693,Colombia Finca La Loma Microlot,March 2020,94,58.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R23,48.50230753402511
+C694,Kenya Kiambu AB Uklili 1905 Lot,March 2020,94,58.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R156,43.650793650793645
+C695,Elida Natural Dragonfly Lot,March 2020,95,54.0,70.0,9.0,9.0,9.0,9.0,9.0,RL5,R94,58.79067579881831
+C696,Kona Laurina Pointu,February 2020,94,56.0,70.0,9.0,9.0,9.0,9.0,8.0,RL5,R163,251.95263290501384
+C697,Dadaocheng Garden Blend Espresso,February 2020,94,52.0,68.0,9.0,9.0,9.0,8.0,9.0,RL3,R119,57.75
+C698,Ethiopia Dimtu,February 2020,95,58.0,82.0,9.0,9.0,9.0,9.0,9.0,RL5,R238,61.700814250859814
+C699,Ethiopia Sidama Anaerobic,February 2020,94,58.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R215,58.055792351333075
+C700,Kenya Kiri Peaberry,February 2020,94,56.0,74.0,9.0,9.0,9.0,9.0,8.0,RL5,R28,55.85114200887739
+C701,Ethiopia Violent Andromeda Natural,February 2020,94,48.0,66.0,9.0,9.0,9.0,9.0,8.0,RL3,R230,99.0
+C702,Kenya Nyeri Yerihar AA Lot 1901 Espresso,February 2020,95,52.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R156,47.31040564373898
+C703,Costa Rica Aris Red Honey Lot 1901 Espresso,February 2020,95,50.0,68.0,9.0,9.0,9.0,9.0,9.0,RL3,R156,29.100529100529098
+C704,Panama Hacienda La Esmeralda Geisha Natural Special Auction ES-N-2,February 2020,94,54.0,72.0,9.0,9.0,9.0,9.0,8.0,RL5,R106,465.60846560846556
+C705,El Salvador Finca El Cerro Natural,February 2020,94,58.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R238,67.57988183074164
+C706,Halo Hartume Espresso,January 2020,94,57.0,77.0,9.0,9.0,9.0,8.0,9.0,RL5,R147,52.61765483994238
+C707,Giusto Organic Espresso Blend,January 2020,94,48.0,60.0,9.0,9.0,9.0,8.0,9.0,RL3,R170,41.88835650665804
+C708,Berg Wu Championship Selection Yirgacheffe G1 Natural Lot 19/01,January 2020,95,60.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R119,90.75
+C709,Ethiopia Mulegeta Sintayehu Washed,January 2020,94,59.0,77.0,9.0,9.0,9.0,9.0,8.0,RL5,R119,165.0
+C710,Ecuador Eugenioides Natural Finca Perla Negra,January 2020,94,55.0,73.0,9.0,8.0,9.0,9.0,9.0,RL5,R215,
+C711,Panama Esmeralda Geisha Natural,December 2019,96,56.0,74.0,9.0,9.0,9.0,10.0,9.0,RL5,R215,175.9259259259259
+C712,Ethiopia Suke Quto Honey,December 2019,95,52.0,70.0,9.0,9.0,9.0,9.0,9.0,RL5,R215,58.055792351333075
+C713,Kenya FSC AB,December 2019,94,50.0,67.0,9.0,9.0,9.0,9.0,8.0,RL3,R29,330.0
+C714,Ceri Ceri Meriah Coffee,December 2019,94,54.0,72.0,9.0,9.0,9.0,9.0,8.0,RL5,R188,39.0
+C715,Alamendah Patuha Coffee,December 2019,94,50.0,66.0,9.0,9.0,9.0,9.0,8.0,RL3,R188,39.0
+C716,Holiday Blend,December 2019,94,54.0,74.0,9.0,9.0,9.0,9.0,8.0,RL5,R221,80.0
+C717,2019 Celebration,December 2019,94,47.0,67.0,9.0,9.0,9.0,9.0,8.0,RL3,R138,55.116258561392165
+C718,Kenya Kiandu Peaberry,December 2019,95,56.0,74.0,9.0,9.0,9.0,9.0,9.0,RL5,R230,94.05
+C719,Sumatra Raja Harimau Lintong Espresso,November 2019,96,44.0,61.0,9.0,9.0,10.0,8.0,10.0,RL3,R156,40.035273368606695
+C720,Panama Esmeralda Geisha Portón Oro Yeast,November 2019,94,59.0,77.0,9.0,9.0,9.0,9.0,8.0,RL5,R161,411.2286890064668
+C721,Kenya Kiambu Peaberry Uklili 1904 Lot,November 2019,94,50.0,68.0,9.0,9.0,9.0,9.0,8.0,RL3,R156,43.650793650793645
+C722,Kenya Kiambu AB Uklili 1903 Lot,November 2019,94,52.0,70.0,9.0,9.0,9.0,9.0,8.0,RL5,R156,43.650793650793645
+C723,Ethiopia Natural Yirgacheffe Blue Donkey Lot #2,November 2019,94,56.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R156,43.650793650793645
+C724,Ethiopia Nansebo Worka,November 2019,95,56.0,74.0,9.0,9.0,9.0,9.0,9.0,RL5,R238,61.700814250859814
+C725,Panama Elida Geisha Natural 1029,November 2019,97,54.0,74.0,10.0,9.0,9.0,10.0,9.0,RL5,R161,5555.555555555556
+C726,Port of Mokha Yemen JSP,November 2019,97,44.0,58.0,10.0,9.0,9.0,10.0,9.0,RL3,R221,600.0
+C727,Panama Elida Natural Catuai,November 2019,95,58.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R161,64.5227666892031
+C728,Cate Natural G5,November 2019,95,52.0,70.0,9.0,9.0,9.0,9.0,9.0,RL5,R269,33.0
+C729,Gachami Kenya,November 2019,94,56.0,72.0,9.0,9.0,9.0,9.0,8.0,RL5,R147,56.439048766865575
+C730,Ethiopia Natural “Phoenix”,November 2019,95,44.0,60.0,9.0,9.0,9.0,9.0,9.0,RL3,R265,203.7037037037037
+C731,Costa Rica SL-28 Yellow Honey Espresso,November 2019,95,38.0,46.0,9.0,8.0,10.0,8.0,10.0,RL4,R265,189.15343915343914
+C732,Washed Geisha Hacienda La Esmeralda Jaramillo Special,November 2019,97,56.0,76.0,10.0,10.0,9.0,10.0,8.0,RL5,R94,1102.2927689594355
+C733,Panama Perci Geisha Natural,November 2019,96,52.0,72.0,10.0,8.0,9.0,10.0,9.0,RL5,R327,264.55026455026456
+C734,Elida Estate Geisha Green-Tip Natural,October 2019,98,54.0,78.0,10.0,10.0,9.0,10.0,9.0,RL5,R94,4761.9047619047615
+C735,Washed Kenya,October 2019,95,47.0,67.0,9.0,9.0,9.0,9.0,9.0,RL3,R133,80.66666666666666
+C736,Panama Hacienda La Esmeralda Super Mario Geisha,October 2019,96,54.0,78.0,9.0,9.0,9.0,10.0,9.0,RL5,R54,670.0
+C736,Panama Hacienda La Esmeralda Super Mario Geisha,October 2019,96,54.0,78.0,9.0,9.0,9.0,10.0,9.0,RL5,R54,670.0
+C737,Kenya Gakundu FCS Kamviu Wet Mill,October 2019,94,56.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R280,45.29821570298951
+C737,Kenya Gakundu FCS Kamviu Wet Mill,October 2019,94,56.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R280,45.29821570298951
+C738,Rukira Kenya,October 2019,94,58.0,80.0,9.0,9.0,9.0,9.0,8.0,RL5,R66,60.0
+C739,Gesha Village Lot #85 Natural,October 2019,95,54.0,72.0,9.0,9.0,9.0,9.0,9.0,RL5,R147,176.14638447971782
+C740,Ethiopia Natural Yirgacheffe Banko Gotiti,October 2019,94,52.0,70.0,9.0,9.0,9.0,9.0,8.0,RL5,R156,47.31040564373898
+C741,Indonesia Sumatra Gayo Espresso,October 2019,94,36.0,44.0,9.0,9.0,9.0,8.0,9.0,RL1,R264,87.30351198218656
+C742,Ethiopia Limu Nano Challa Lot #10,September 2019,94,54.0,74.0,9.0,9.0,9.0,9.0,8.0,RL5,R36,57.31922398589065
+C743,Best of Panama GNEP-01 Elida Geisha Green Tip Natural,September 2019,97,55.0,73.0,9.0,10.0,9.0,10.0,9.0,RL5,R327,
+C744,Geisha XO,September 2019,96,54.0,62.0,9.0,9.0,9.0,10.0,9.0,RL3,R28,264.55026455026456
+C745,Colombia Finca La Maria Geisha Natural,September 2019,96,57.0,74.0,9.0,9.0,9.0,10.0,9.0,RL5,R161,323.045267489712
+C746,Panama Finca Kalithea Natural Geisha,September 2019,96,55.0,79.0,9.0,9.0,9.0,10.0,9.0,RL5,R157,218.25396825396825
+C747,Panama Hacienda La Esmeralda Super Mario 6 Geisha,September 2019,95,51.0,71.0,9.0,9.0,9.0,9.0,9.0,RL5,R94,264.55026455026456
+C748,Panama Geisha Alto Jaramillo,September 2019,94,53.0,71.0,9.0,9.0,9.0,9.0,8.0,RL5,R50,352.7336860670194
+C749,Colombia Laderas del Tapias Estate Natural Geisha,September 2019,94,52.0,70.0,9.0,9.0,9.0,9.0,9.0,RL5,R49,193.69565217391303
+C750,Gesha Village Natural Lot #19,September 2019,94,58.0,80.0,9.0,9.0,9.0,9.0,8.0,RL5,R119,396.0
+C751,Gesha Village 1931 Lot 27,September 2019,94,60.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R190,220.4585537918871
+C752,Ethiopia Sidamo Gora Kone,September 2019,94,59.0,72.0,9.0,9.0,8.0,9.0,9.0,RL5,R291,55.85114200887739
+C753,Kebele Village Espresso,September 2019,94,52.0,70.0,9.0,9.0,9.0,8.0,9.0,RL5,R147,50.26602780798966
+C754,Panama Finca San Sebastian,August 2019,94,53.0,71.0,9.0,9.0,9.0,9.0,8.0,RL5,R150,35.274405479290984
+C755,Yirgacheffe Gedeb G1 Natural,August 2019,94,62.0,83.0,9.0,9.0,9.0,9.0,8.0,RL2,R172,50.925925925925924
+C756,Kenya Kiambu Uklili AA,August 2019,95,52.0,68.0,9.0,9.0,9.0,9.0,9.0,RL3,R156,50.925925925925924
+C757,Ethiopia Guji Shakisso Natural Lot 24,August 2019,94,53.0,71.0,9.0,8.0,9.0,9.0,9.0,RL5,R156,37.83068783068783
+C758,Ethiopia Washed Yirgacheffe Nafasha Lot,August 2019,94,55.0,77.0,9.0,9.0,9.0,9.0,8.0,RL5,R156,40.035273368606695
+C759,El Salvador,August 2019,94,47.0,59.0,9.0,9.0,9.0,9.0,8.0,RL3,R221,86.64021164021163
+C760,Cup of Excellence Rwanda Champion,August 2019,94,0.0,0.0,9.0,8.0,9.0,9.0,9.0,,R89,
+C761,Ethiopia Kayon Mountain Natural,August 2019,94,50.0,70.0,9.0,8.0,9.0,9.0,9.0,RL3,R170,61.73020958875922
+C762,Ethiopia Natural Yirgacheffe Blue Donkey Lot,August 2019,94,57.0,75.0,9.0,9.0,9.0,9.0,8.0,RL5,R156,43.650793650793645
+C763,Geisha Village Auction Lot #11,August 2019,94,52.0,75.0,9.0,9.0,9.0,9.0,8.0,RL5,R147,227.07231040564375
+C764,Ethiopia Yirgacheffe Chelelektu Natural,August 2019,96,58.0,82.0,9.0,9.0,9.0,10.0,9.0,RL5,R94,52.91160821893648
+C765,Kenya Kimaruri,August 2019,94,54.0,72.0,9.0,9.0,9.0,9.0,8.0,RL5,R50,67.60927716864106
+C766,Kenya Handege,August 2019,94,53.0,65.0,9.0,9.0,8.0,9.0,9.0,RL3,R131,55.85114200887739
+C767,Colombia Valle del Cauca Cerro Azul Geisha,August 2019,96,48.0,67.0,10.0,9.0,8.0,10.0,9.0,RL3,R332,166.66666666666666
+C768,Green-Tip Geisha,July 2019,94,56.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R110,154.320987654321
+C768,Green-Tip Geisha,July 2019,94,56.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R110,154.320987654321
+C769,Barichu Double,July 2019,94,53.0,75.0,9.0,9.0,9.0,9.0,8.0,RL5,R20,117.63668430335096
+C770,Rukera Kenya,July 2019,97,54.0,78.0,10.0,9.0,9.0,10.0,9.0,RL5,R147,62.3181163467474
+C771,Rukera Espresso,July 2019,97,54.0,78.0,10.0,9.0,10.0,9.0,9.0,RL5,R147,62.3181163467474
+C772,The Core Espresso,June 2019,94,45.0,67.0,9.0,9.0,9.0,8.0,9.0,RL3,R138,50.706957876480786
+C773,Espresso Mandarina,June 2019,94,46.0,68.0,9.0,9.0,9.0,8.0,9.0,RL3,R6,49.82509773949852
+C774,SOB Espresso,June 2019,94,46.0,68.0,9.0,8.0,9.0,9.0,9.0,RL3,R113,55.704165319380344
+C775,Ethiopia Gedeb Worka Sakaro,June 2019,95,60.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R90,96.80000000000001
+C776,La Belleza Colombia,June 2019,94,57.0,79.0,9.0,9.0,9.0,9.0,8.0,RL5,R147,57.32090890384785
+C777,Crystalina,June 2019,94,60.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R279,58.79067579881831
+C778,Kenya Kiambu Gititu AA,May 2019,94,55.0,75.0,9.0,9.0,9.0,9.0,8.0,RL5,R156,52.38095238095238
+C779,Ninety Plus Gesha Estates JBC Custom Lot #252,May 2019,94,55.0,74.0,9.0,,9.0,10.0,8.0,RL5,R147,436.5079365079365
+C780,La Palma Y El Tucan Hero Series Colombia Sidra Lot #190,May 2019,96,57.0,83.0,9.0,9.0,9.0,10.0,9.0,RL5,R28,264.55026455026456
+C781,Ka’u Champagne Natural,May 2019,94,58.0,84.0,9.0,9.0,9.0,9.0,8.0,RL2,R215,175.9259259259259
+C782,Monarch Gesha,May 2019,94,51.0,73.0,9.0,9.0,9.0,9.0,8.0,RL5,R102,370.3703703703703
+C783,Australian Blend Espresso,May 2019,95,51.0,73.0,9.0,8.0,9.0,9.0,10.0,RL5,R135,95.0
+C784,Colombia Tolima Monteverde Estate Natural Wush Wush,May 2019,94,53.0,64.0,9.0,8.0,9.0,10.0,8.0,RL3,R93,176.00000000000003
+C785,Ethiopia Oromia Guji Washed,May 2019,94,60.0,79.0,9.0,9.0,9.0,9.0,8.0,RL5,R93,88.00000000000001
+C786,Kenya Murang’a Githiga AA,May 2019,94,53.0,75.0,9.0,9.0,8.0,9.0,9.0,RL5,R107,59.525121806036296
+C787,Ethiopia Sidama Shantewene,April 2019,95,58.0,82.0,9.0,9.0,9.0,9.0,9.0,RL5,R47,55.85114200887739
+C788,Gesha Rebecca Natural,April 2019,95,58.0,80.0,9.0,9.0,9.0,9.0,9.0,RL5,R270,50.925925925925924
+C789,Café Granja La Esperanza Sudan Rume Natural,April 2019,95,51.0,69.0,9.0,8.0,9.0,10.0,9.0,RL3,R212,165.34391534391534
+C790,Boru Batak Sumatra,April 2019,94,53.0,75.0,9.0,8.0,9.0,9.0,8.0,RL5,R199,38.85294117647059
+C790,Boru Batak Sumatra,April 2019,94,53.0,75.0,9.0,8.0,9.0,9.0,8.0,RL5,R199,38.85294117647059
+C791,Sumatra Tano Batak,April 2019,94,55.0,68.0,9.0,9.0,8.0,9.0,9.0,RL5,R130,52.91160821893648
+C792,Sumatra Lintong,April 2019,95,51.0,68.0,9.0,9.0,9.0,9.0,9.0,RL3,R217,49.97207442899556
+C793,Ethiopia Natural Guji Hambela G1 Bishan Fugu,April 2019,95,51.0,73.0,9.0,9.0,9.0,9.0,9.0,RL5,R156,47.289402323684385
+C794,Tanzania Tarime AB,April 2019,94,56.0,80.0,9.0,9.0,9.0,9.0,8.0,RL5,R112,49.97207442899556
+C795,El Salvador Cerro Las Ranas Honey Espresso,April 2019,94,50.0,74.0,9.0,9.0,9.0,8.0,9.0,RL5,R156,26.19105359465597
+C796,Panama Baru Geisha Black,April 2019,94,52.0,74.0,9.0,9.0,9.0,9.0,8.0,RL5,R156,160.05291005291002
+C797,Flight Seasonal Espresso,March 2019,94,54.0,78.0,9.0,9.0,9.0,8.0,9.0,RL5,R238,52.88221288103706
+C798,Eaagads Estate Kenya,March 2019,94,52.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R131,55.85114200887739
+C799,Ethiopia Guji,March 2019,94,54.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R276,52.910052910052904
+C800,Ethiopia Yirgacheffe G1,March 2019,94,58.0,84.0,9.0,9.0,9.0,9.0,8.0,RL2,R257,36.666666666666664
+C800,Ethiopia Yirgacheffe G1,March 2019,94,58.0,84.0,9.0,9.0,9.0,9.0,8.0,RL2,R257,36.666666666666664
+C801,Kenya Karindundu AA Small Lot Reserve,February 2019,97,54.0,78.0,10.0,9.0,9.0,10.0,9.0,RL5,R94,52.91160821893648
+C802,Rwanda Kanzu,February 2019,94,55.0,77.0,9.0,9.0,9.0,9.0,8.0,RL5,R94,70.54881095858197
+C803,Ethiopia Kochere Natural,February 2019,94,52.0,74.0,9.0,9.0,9.0,9.0,8.0,RL5,R94,52.91160821893648
+C804,Kenya Thirikwa Single-Origin Espresso,February 2019,94,42.0,64.0,9.0,8.0,9.0,9.0,9.0,RL3,R291,64.66974337870015
+C805,Sumatra Tano Batak,February 2019,95,54.0,76.0,9.0,9.0,9.0,9.0,9.0,RL5,R209,61.700814250859814
+C805,Sumatra Tano Batak,February 2019,95,54.0,76.0,9.0,9.0,9.0,9.0,9.0,RL5,R209,61.700814250859814
+C806,Rwanda Mushonyi Natural,February 2019,94,54.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R6,87.96296296296295
+C807,Ethiopia Hambela Natural Organic,February 2019,94,52.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R327,44.0706364778765
+C808,Kenya AB,February 2019,94,47.0,69.0,9.0,9.0,9.0,9.0,8.0,RL3,R317,52.91160821893648
+C809,Tanzania Ngorongoro Ridge Peaberry,February 2019,95,55.0,79.0,9.0,9.0,9.0,9.0,9.0,RL5,R112,47.032540639054645
+C810,Ethiopia Haro Wachu,February 2019,94,50.0,72.0,9.0,9.0,9.0,9.0,8.0,RL5,R313,66.13756613756614
+C811,Banco Gotete Ethiopia,February 2019,94,53.0,75.0,9.0,9.0,9.0,9.0,8.0,RL5,R147,54.381375113906934
+C812,Kenya Ruthaka Peaberry,January 2019,95,48.0,72.0,9.0,9.0,9.0,10.0,8.0,RL3,R291,55.85114200887739
+C813,Honduras Las Flores Parainema,January 2019,94,56.0,80.0,9.0,9.0,9.0,9.0,8.0,RL5,R51,64.66974337870015
+C814,Kivu DR Congo,January 2019,94,56.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R147,49.678121050001465
+C815,Panama Ninety Plus Perci Lot 50,January 2019,97,50.0,74.0,10.0,8.0,10.0,10.0,9.0,RL5,R28,264.55026455026456
+C816,Colombia Sidra,December 2018,94,58.0,80.0,9.0,9.0,9.0,9.0,8.0,RL5,R155,66.13756613756614
+C817,Colombia Geisha,December 2018,94,53.0,77.0,9.0,9.0,9.0,9.0,8.0,RL5,R215,76.13168724279835
+C818,Kenya Murunga New Gatanga FCS Mukurwe Factory AB,December 2018,94,54.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R269,70.54673721340387
+C819,Ethiopia WORKA,December 2018,94,60.0,80.0,9.0,9.0,9.0,9.0,8.0,RL5,R238,52.88221288103706
+C820,Ethiopia Banko Dhadhato Washed,December 2018,94,62.0,82.0,9.0,9.0,9.0,9.0,8.0,RL2,R238,52.88221288103706
+C821,Kenya Karuthi AA,December 2018,95,56.0,72.0,9.0,9.0,9.0,9.0,9.0,RL5,R66,60.0
+C822,Kenya Nyeri Nudurutu Factory AB,December 2018,94,57.0,79.0,9.0,9.0,9.0,9.0,8.0,RL5,R156,43.650793650793645
+C823,Ethiopia Kochere Washed Saona Lot,December 2018,95,57.0,79.0,9.0,9.0,9.0,9.0,9.0,RL5,R156,42.195767195767196
+C824,Ethiopia Guji Natural Dasaya,December 2018,94,57.0,79.0,9.0,9.0,9.0,9.0,8.0,RL5,R156,43.650793650793645
+C825,Holiday Sweet Blend,December 2018,94,54.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R238,49.942679091096146
+C826,Colombia El Obraje Gesha,December 2018,94,54.0,74.0,9.0,9.0,9.0,9.0,8.0,RL5,R153,141.09347442680775
+C827,Flowery Nekisse,December 2018,95,60.0,80.0,9.0,9.0,9.0,9.0,9.0,RL5,R139,79.36507936507937
+C828,Baru Gesha,December 2018,96,55.0,75.0,9.0,9.0,9.0,10.0,9.0,RL5,R16,120.0
+C829,Mama Cata Geisha Washed,December 2018,94,56.0,84.0,9.0,9.0,9.0,9.0,8.0,RL5,R327,158.73482465680945
+C830,Wei Rong Blend,December 2018,94,55.0,72.0,9.0,9.0,8.0,9.0,9.0,RL5,R179,43.650793650793645
+C831,Kiunyu Peaberry,November 2018,94,52.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R28,76.4278785384638
+C832,Kibugu Kenya,November 2018,95,54.0,74.0,9.0,9.0,9.0,9.0,9.0,RL5,R170,58.64369910932126
+C833,Poseidon Blend Espresso,November 2018,95,52.0,74.0,9.0,9.0,9.0,9.0,9.0,RL5,R119,43.61233480176212
+C834,Kenya Gikirima Kibugu,November 2018,94,56.0,74.0,9.0,9.0,9.0,9.0,8.0,RL5,R36,57.31922398589065
+C835,Elida Estate Geisha Natural Dragonfly Reserve,November 2018,95,54.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R94,308.641975308642
+C836,Costa Rica Geisha Honey COE 2018 2nd Place,November 2018,94,50.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R94,198.4126984126984
+C837,Guatemala Pacamara Natural,November 2018,95,57.0,77.0,9.0,9.0,9.0,9.0,9.0,RL5,R116,210.97883597883597
+C838,La Providencia Guatemala Maragogype,November 2018,94,56.0,78.0,9.0,8.0,9.0,9.0,9.0,RL5,R28,61.73020958875922
+C839,Kenya Kabingara,November 2018,94,58.0,80.0,9.0,9.0,8.0,9.0,9.0,RL5,R161,58.64369910932126
+C840,Kenya Konyu,October 2018,95,57.0,81.0,9.0,9.0,9.0,9.0,9.0,RL5,R36,57.31922398589065
+C841,Hacienda La Esmeralda Cabana Geisha Natural,October 2018,95,57.0,83.0,9.0,9.0,9.0,9.0,9.0,RL5,R94,330.6878306878307
+C842,Finca La Aurora Camilina Geisha,October 2018,96,56.0,76.0,9.0,9.0,9.0,10.0,9.0,RL5,R94,198.4126984126984
+C843,Twenty Five,October 2018,96,50.0,74.0,9.0,9.0,9.0,9.0,10.0,RL5,R20,42.47626326464623
+C844,Karimikui Kenya,October 2018,94,55.0,75.0,9.0,9.0,9.0,9.0,8.0,RL5,R147,57.32090890384785
+C845,Kenya Baragwi Thimu Peaberry,October 2018,94,52.0,74.0,9.0,9.0,9.0,9.0,8.0,RL5,R292,57.32090890384785
+C846,Kariru Kenya,October 2018,94,56.0,75.0,9.0,9.0,9.0,9.0,8.0,RL5,R147,57.32090890384785
+C847,Esmeralda Estate Porton Geisha Natural,October 2018,96,56.0,84.0,9.0,9.0,9.0,10.0,9.0,RL5,R94,330.6878306878307
+C848,Kenya Kiambu,October 2018,94,53.0,81.0,9.0,9.0,9.0,9.0,8.0,RL5,R242,49.23719098151033
+C849,Ethiopia Washed Phoenix Special “Muse”,October 2018,95,40.0,48.0,9.0,9.0,9.0,9.0,9.0,RL4,R264,101.85409731255099
+C850,Kenya AB Phoenix Special “Glory”,October 2018,94,39.0,45.0,9.0,8.0,9.0,9.0,9.0,RL4,R264,109.12938997773321
+C851,Kenya Ritho FCS Handege Factory AB,October 2018,96,53.0,81.0,9.0,9.0,9.0,10.0,9.0,RL5,R156,54.58553791887125
+C852,Ethiopia Yirgacheffe Botabaa Washed,October 2018,95,56.0,86.0,9.0,9.0,9.0,9.0,9.0,RL2,R156,42.195767195767196
+C853,Ethiopia Hambela Natural,October 2018,94,56.0,82.0,9.0,9.0,9.0,9.0,8.0,RL5,R27,52.91160821893648
+C854,Ethiopia Gera Limmu Oromia,September 2018,94,58.0,82.0,9.0,9.0,8.0,9.0,8.0,RL5,R292,51.441841323966024
+C855,Kenya Kabare Konyu,September 2018,94,54.0,80.0,9.0,9.0,9.0,9.0,8.0,RL5,R292,60.26044269378877
+C856,Alemu Bukato Espresso,September 2018,95,56.0,80.0,9.0,9.0,9.0,9.0,9.0,RL5,R147,55.116258561392165
+C857,Tarime Tanzania,September 2018,95,58.0,82.0,9.0,9.0,9.0,9.0,9.0,RL5,R170,43.3581234016285
+C858,Berlina Geisha,September 2018,96,56.0,84.0,9.0,9.0,9.0,10.0,9.0,RL5,R20,117.63668430335096
+C859,Gatugi Triple,September 2018,95,58.0,86.0,9.0,9.0,9.0,9.0,9.0,RL2,R20,117.63668430335096
+C860,Ethiopia Yirgacheffe Natural Espresso,September 2018,94,51.0,74.0,9.0,9.0,9.0,8.0,9.0,RL5,R94,52.91160821893648
+C861,Ethiopia Yirgacheffe Natural,September 2018,94,55.0,80.0,9.0,9.0,9.0,9.0,8.0,RL5,R94,52.91160821893648
+C862,Guatemala Finca El General Lot ALT8 Espresso,September 2018,94,52.0,74.0,9.0,9.0,9.0,8.0,9.0,RL5,R156,40.035273368606695
+C863,Green Dolphin Blend Espresso,September 2018,94,50.0,74.0,9.0,9.0,9.0,8.0,9.0,RL5,R156,34.920634920634924
+C864,Finca El Socorro Maracaturra,September 2018,95,52.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R212,66.1395102736706
+C865,Ethiopia Kochere Debo Washed Gellana,September 2018,94,57.0,83.0,9.0,9.0,8.0,9.0,9.0,RL5,R156,40.01410965850217
+C866,Ethiopia Gotiti Natural,August 2018,95,46.0,72.0,9.0,9.0,9.0,9.0,9.0,RL3,R133,84.39153439153439
+C867,Cream Tabby Espresso Blend,August 2018,94,49.0,74.0,9.0,9.0,9.0,8.0,9.0,RL5,R185,58.666666666666664
+C868,Ethiopia Girma Eshetu,August 2018,94,56.0,80.0,9.0,9.0,9.0,9.0,8.0,RL5,R229,45.29821570298951
+C868,Ethiopia Girma Eshetu,August 2018,94,56.0,80.0,9.0,9.0,9.0,9.0,8.0,RL5,R229,45.29821570298951
+C869,Red Bourbon Honey Cold Brew Coffee,August 2018,94,,,9.0,8.0,9.0,9.0,9.0,RL2,R28,19.526329050138575
+C870,Karimikui Espresso,August 2018,94,51.0,73.0,9.0,9.0,9.0,9.0,9.0,RL5,R147,57.32090890384785
+C871,Ethiospro Blend,August 2018,94,54.0,73.0,9.0,9.0,9.0,8.0,9.0,RL5,R242,52.17672477145125
+C872,Costa Rica Cumbres Del Poas “Perla Negra” Natural,August 2018,94,59.0,79.0,9.0,9.0,9.0,8.0,9.0,RL5,R174,52.91160821893648
+C873,Natural Sidamo Twakok G1,August 2018,94,59.0,85.0,9.0,9.0,9.0,8.0,9.0,RL2,R156,37.83152185894751
+C874,Yemen Haraaz,August 2018,94,55.0,75.0,9.0,9.0,9.0,8.0,9.0,RL5,R94,102.88368264793205
+C875,YCFCU Banko Gotiti Coop G1,August 2018,95,41.0,53.0,9.0,9.0,9.0,9.0,9.0,RL4,R286,61.83998765404881
+C876,Gesha Village Lot #25,August 2018,95,52.0,75.0,9.0,9.0,9.0,8.0,10.0,RL5,R269,218.25396825396825
+C877,Costa Rica Perla Negra,August 2018,95,50.0,65.0,9.0,9.0,9.0,9.0,9.0,RL3,R97,49.82509773949852
+C878,Espresso 1849 Blend,August 2018,94,50.0,70.0,9.0,9.0,9.0,8.0,9.0,RL3,R276,52.910052910052904
+C879,Ethiopia Kayon Mountain,July 2018,94,60.0,88.0,9.0,9.0,9.0,9.0,8.0,RL2,R238,55.82174667097798
+C880,Tano Batak Sumatra,July 2018,94,58.0,75.0,9.0,9.0,9.0,9.0,8.0,RL5,R147,54.381375113906934
+C881,Reserve Cold Brew,July 2018,94,,,8.0,9.0,9.0,9.0,9.0,,R276,16.66481502055327
+C882,No. 7 Espresso Blend,June 2018,95,47.0,69.0,9.0,9.0,9.0,9.0,9.0,RL3,R299,65.47619047619047
+C883,Kenya Embu Uteuzi Jimbo,June 2018,94,56.0,80.0,9.0,9.0,9.0,9.0,8.0,RL5,R156,50.927048656275495
+C884,DR Congo FTO Bourbon SOPACDI,June 2018,94,50.0,74.0,9.0,9.0,9.0,9.0,8.0,RL5,R94,52.91160821893648
+C885,Tarime Tanzania,June 2018,95,56.0,80.0,9.0,9.0,9.0,9.0,9.0,RL5,R147,56.439048766865575
+C886,Kiniyota Espresso,May 2018,95,54.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R147,51.73579470296011
+C887,El Obraje Geisha,May 2018,95,52.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R94,154.320987654321
+C888,Mandheling Onan Ganjang,May 2018,94,55.0,77.0,9.0,9.0,9.0,9.0,8.0,RL5,R156,40.01410965850217
+C889,Ethiopia Banko Gotiti Natural,April 2018,94,60.0,84.0,9.0,9.0,9.0,9.0,8.0,RL2,R73,50.927048656275495
+C890,Yemen Microlot,April 2018,96,58.0,84.0,9.0,9.0,9.0,10.0,9.0,RL2,R94,330.6878306878307
+C891,Lycello by Ninety Plus,April 2018,95,54.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R94,330.6878306878307
+C892,Lotus by Ninety Plus,April 2018,95,52.0,72.0,9.0,9.0,9.0,9.0,9.0,RL5,R94,639.3298059964726
+C893,Karen J Red Bourbon,April 2018,94,58.0,80.0,9.0,9.0,9.0,9.0,8.0,RL5,R142,202.60141093474425
+C894,Kenya Nyeri Gatugi Peaberry,April 2018,94,45.0,75.0,9.0,9.0,9.0,9.0,8.0,RL3,R186,52.76463152943943
+C895,Kenya Gura AA,April 2018,94,56.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R41,66.93121693121692
+C896,Sumatra Tano Batak,April 2018,94,53.0,77.0,9.0,9.0,9.0,9.0,8.0,RL5,R211,61.73020958875922
+C897,Sumatra Tano Batak,April 2018,94,55.0,77.0,9.0,9.0,9.0,9.0,8.0,RL5,R112,49.97207442899556
+C898,Yemen Port of Mokha Al-Durrar,April 2018,94,50.0,76.0,9.0,8.0,9.0,9.0,9.0,RL5,R103,268.95943562610233
+C899,Finca La Maria Geisha Natural,April 2018,95,55.0,79.0,9.0,9.0,9.0,9.0,9.0,RL5,R28,224.86772486772486
+C900,Ethiopia Guji Gigessa,April 2018,94,60.0,84.0,9.0,9.0,9.0,9.0,8.0,RL2,R246,66.93121693121692
+C901,Granja La Esperanza Sudan Rume Natural,April 2018,95,50.0,70.0,9.0,9.0,9.0,9.0,9.0,RL3,R211,165.34391534391534
+C902,Gedeb Espresso,April 2018,94,51.0,74.0,9.0,8.0,9.0,9.0,9.0,RL5,R147,55.116258561392165
+C903,Panama Baru Geisha Honey by Joseph,March 2018,94,56.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R156,130.95238095238093
+C904,Panama Baru Geisha Natural by Joseph,March 2018,94,58.0,80.0,,,,,,RL5,R156,138.2275132275132
+C905,Burundi Buhorwa,March 2018,94,54.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R27,44.09300684911373
+C906,Dodora Double,March 2018,96,60.0,84.0,9.0,9.0,9.0,10.0,9.0,RL2,R20,87.65432098765432
+C907,Summer Night Blend Espresso,March 2018,94,58.0,82.0,9.0,9.0,9.0,8.0,9.0,RL5,R156,36.37646332591107
+C908,Kenya Kirinyaga,March 2018,94,65.0,91.0,9.0,9.0,9.0,9.0,8.0,RL2,R27,44.09300684911373
+C909,Sumatra Mutu Batak,March 2018,94,49.0,71.0,9.0,9.0,9.0,9.0,8.0,RL3,R161,43.94603015961668
+C910,Three Queens Blend,March 2018,94,52.0,73.0,9.0,9.0,9.0,9.0,8.0,RL5,R4,41.1240777212734
+C911,Kiniyota Burundi,March 2018,95,52.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R147,51.73579470296011
+C912,Ethiopia Biftu Gundina Coop Espresso,February 2018,94,42.0,57.0,9.0,9.0,9.0,8.0,9.0,RL4,R156,40.01410965850217
+C913,Ethiopia Banko Gotiti Natural,February 2018,94,60.0,88.0,9.0,9.0,8.0,9.0,9.0,RL2,R156,47.289402323684385
+C914,Canoe Blend,February 2018,94,56.0,82.0,9.0,9.0,9.0,9.0,8.0,RL5,R323,41.15347305917282
+C915,Guatemala Retiro Natural Process,February 2018,94,57.0,70.0,9.0,9.0,8.0,9.0,9.0,RL5,R97,46.29765719156942
+C916,Kenya Gatugi AB,January 2018,94,53.0,85.0,9.0,9.0,9.0,9.0,8.0,RL5,R30,350.0
+C917,Gedeb Ethiopia,January 2018,95,58.0,82.0,9.0,9.0,9.0,9.0,9.0,RL5,R147,55.116258561392165
+C918,Ethiopia Dry-Processed Guji Mt. Kayon,January 2018,95,56.0,75.0,9.0,9.0,9.0,9.0,9.0,RL5,R30,350.0
+C919,Ethiopia Banko Gotiti,January 2018,94,65.0,93.0,9.0,9.0,9.0,9.0,8.0,RL2,R238,49.942679091096146
+C920,Panama Auromar Estate Geisha Peaberry,January 2018,95,53.0,81.0,10.0,9.0,9.0,9.0,8.0,RL5,R28,224.86772486772486
+C921,Panama Finca Hartmann Geisha Natural,January 2018,95,60.0,84.0,9.0,9.0,9.0,9.0,9.0,RL2,R292,238.09523809523807
+C922,Mini-Me Washed Kaffa Forest,January 2018,95,40.0,60.0,9.0,9.0,9.0,9.0,9.0,RL4,R265,94.57880464736877
+C923,Jade Espresso,January 2018,94,56.0,72.0,9.0,9.0,9.0,8.0,9.0,RL5,R174,41.15347305917282
+C924,Ulos Batak Sumatra,December 2017,96,54.0,76.0,9.0,9.0,9.0,10.0,9.0,RL5,R147,55.704165319380344
+C925,Blue Label La Esmeralda Porton Pascua Gesha,December 2017,95,53.0,85.0,9.0,9.0,9.0,9.0,9.0,RL5,R211,264.55026455026456
+C926,David Mburu Kenya,December 2017,96,58.0,84.0,9.0,9.0,9.0,10.0,9.0,RL2,R66,60.0
+C927,El Peñon Nicaragua,December 2017,94,61.0,93.0,9.0,9.0,8.0,9.0,9.0,RL2,R20,52.76463152943943
+C928,Kenya Chorongi Peaberry,December 2017,95,50.0,76.0,9.0,9.0,9.0,9.0,9.0,RL5,R273,58.79067579881831
+C929,Kenya Riakiberu AB,December 2017,95,55.0,77.0,9.0,9.0,9.0,9.0,9.0,RL5,R64,56.0
+C930,Yule Blend 2018,December 2017,94,56.0,80.0,9.0,9.0,9.0,9.0,8.0,RL5,R112,44.09300684911373
+C931,Kenya Thaitu,December 2017,95,54.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R129,64.66974337870015
+C932,Ethiopia Banko Gotiti Natural G1,December 2017,94,58.0,86.0,9.0,9.0,9.0,9.0,8.0,RL2,R133,87.00000000000001
+C933,Panama Auromar Geisha Natural,December 2017,96,56.0,80.0,10.0,9.0,9.0,9.0,9.0,RL5,R327,161.67435844675035
+C934,El Salvador Finca Kilimanjaro,December 2017,95,56.0,80.0,9.0,9.0,9.0,9.0,9.0,RL5,R28,73.48834474852288
+C935,Panama Elida Green Tip Gesha Natural,December 2017,94,53.0,77.0,9.0,9.0,8.0,9.0,9.0,RL5,R103,326.2786596119929
+C936,Gikanda Kenya,November 2017,96,55.0,76.0,9.0,10.0,9.0,9.0,9.0,RL5,R147,56.58602545636262
+C937,Panama Don Julian Pacamara,November 2017,95,56.0,80.0,9.0,9.0,9.0,9.0,9.0,RL5,R327,110.2096607068057
+C938,Kenya AB Muchoki,November 2017,95,55.0,75.0,9.0,9.0,9.0,10.0,8.0,RL5,R161,58.64369910932126
+C939,Geisha Panama Santamaria Natural,November 2017,95,54.0,78.0,9.0,9.0,9.0,10.0,8.0,RL5,R54,160.79999999999998
+C939,Geisha Panama Santamaria Natural,November 2017,95,54.0,78.0,9.0,9.0,9.0,10.0,8.0,RL5,R54,160.79999999999998
+C940,100% Kona SL-28,November 2017,97,56.0,78.0,10.0,9.0,9.0,10.0,9.0,RL5,R142,330.46737213403884
+C941,Kenya Kirinyaga Mukangu AB,November 2017,95,54.0,76.0,9.0,9.0,9.0,9.0,9.0,RL5,R156,47.289402323684385
+C942,Ethiopia Washed Yirgacheffe Adado,November 2017,95,56.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R156,40.01410965850217
+C943,Ace Espresso,November 2017,94,52.0,74.0,9.0,9.0,9.0,8.0,9.0,RL5,R229,38.831241365119496
+C943,Ace Espresso,November 2017,94,52.0,74.0,9.0,9.0,9.0,8.0,9.0,RL5,R229,38.831241365119496
+C944,Kenya Mutungati,November 2017,94,54.0,80.0,9.0,9.0,9.0,9.0,8.0,RL5,R229,45.29821570298951
+C944,Kenya Mutungati,November 2017,94,54.0,80.0,9.0,9.0,9.0,9.0,8.0,RL5,R229,45.29821570298951
+C945,Ethiopia Gedeb Halo Beriti,November 2017,94,48.0,70.0,9.0,9.0,9.0,9.0,8.0,RL3,R24,48.50230753402511
+C946,Ethiopia Sidama,November 2017,94,47.0,72.0,9.0,9.0,9.0,9.0,8.0,RL3,R241,36.68538169846262
+C946,Ethiopia Sidama,November 2017,94,47.0,72.0,9.0,9.0,9.0,9.0,8.0,RL3,R241,36.68538169846262
+C947,Thiriku AA Kenya,November 2017,95,47.0,65.0,9.0,9.0,9.0,9.0,9.0,RL3,R211,72.01857785355243
+C948,Flora Blend Espresso,November 2017,94,54.0,77.0,9.0,9.0,9.0,8.0,9.0,RL5,R2,88.41409691629956
+C949,“Sweety” Espresso Blend,November 2017,95,50.0,73.0,9.0,9.0,9.0,9.0,9.0,RL5,R2,139.86784140969164
+C950,“Fruity” Espresso Blend,November 2017,95,54.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R2,111.8942731277533
+C951,El Aquila Pacamara Espresso,October 2017,94,54.0,75.0,9.0,9.0,9.0,8.0,9.0,RL5,R147,52.61765483994238
+C952,Guatemala Finca El Injerto Gesha,October 2017,94,56.0,82.0,9.0,9.0,8.0,9.0,9.0,RL5,R28,224.86772486772486
+C953,Kenya Gatomboya AA,October 2017,94,56.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R94,52.91160821893648
+C954,Flight Seasonal Espresso,October 2017,95,56.0,80.0,9.0,9.0,9.0,9.0,9.0,RL5,R238,48.47291219612569
+C955,A.G.E. Duetto Espresso,October 2017,95,56.0,76.0,9.0,9.0,9.0,8.0,10.0,RL5,R139,114.6384479717813
+C956,Kenya Nyeri Hill Farm,October 2017,94,55.0,79.0,9.0,9.0,8.0,9.0,9.0,RL5,R131,52.91160821893648
+C957,Jinotega Geisha,October 2017,94,53.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R215,55.704165319380344
+C958,Nicaragua Un Regalo de Dios Bourbon,October 2017,94,56.0,81.0,9.0,9.0,9.0,9.0,8.0,RL5,R127,49.942679091096146
+C959,Gedeb Lot 83 Ethiopia Natural,September 2017,95,58.0,82.0,9.0,9.0,9.0,9.0,9.0,RL5,R147,55.704165319380344
+C960,Halo Beriti Ethiopia,September 2017,94,53.0,77.0,9.0,9.0,8.0,9.0,9.0,RL5,R147,52.61765483994238
+C961,Ethiopia Konga Sede,September 2017,94,60.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R238,48.47291219612569
+C962,Static Amaro Gayo Natural Ethiopia,September 2017,95,45.0,61.0,9.0,9.0,9.0,9.0,9.0,RL3,R105,49.97207442899556
+C963,Static Cali Classic Espresso,September 2017,94,54.0,68.0,9.0,9.0,9.0,8.0,9.0,RL5,R105,43.94603015961668
+C964,Shine Day El Salvador,September 2017,94,61.0,84.0,9.0,9.0,9.0,9.0,8.0,RL2,R260,71.86666666666667
+C965,Kenya Kirinyaga Baragwi Guama AB,September 2017,95,59.0,77.0,9.0,9.0,9.0,9.0,9.0,RL5,R156,43.65175599109328
+C966,Guatemala Finca El General Espresso,September 2017,94,56.0,76.0,9.0,9.0,9.0,8.0,9.0,RL5,R156,40.01410965850217
+C967,Kenya Boma Peaberry,September 2017,94,54.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R310,49.942679091096146
+C968,Ethiopia Guji Zone Natural,September 2017,94,60.0,82.0,9.0,9.0,9.0,9.0,8.0,RL2,R71,50.05
+C969,Kenya Boma AA,September 2017,94,53.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R310,47.003145301155236
+C970,Colombia Finca Campoalegre,September 2017,94,55.0,77.0,9.0,9.0,9.0,9.0,8.0,RL5,R97,38.066962579734856
+C971,Panama Geisha,September 2017,94,34.0,52.0,9.0,9.0,8.0,9.0,9.0,RL4,R255,88.15661836032805
+C972,Esmeralda Special Auction Washed Geisha,September 2017,94,54.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R94,220.4585537918871
+C973,"Gesha Village 1931, Lot 86",September 2017,95,54.0,78.0,10.0,9.0,9.0,9.0,8.0,RL5,R190,330.6878306878307
+C974,Gesha Village Natural Oma Block Lot 72,September 2017,95,56.0,77.0,9.0,9.0,9.0,10.0,8.0,RL5,R156,232.8093652858308
+C975,Gesha Village Lot 76 Nasha Block,September 2017,95,64.0,86.0,9.0,9.0,9.0,9.0,9.0,RL2,R139,326.2786596119929
+C976,Gesha Village Auction Lot 26 Gori Gesha Natural,September 2017,95,54.0,74.0,9.0,9.0,9.0,9.0,9.0,RL5,R137,220.20000000000002
+C976,Gesha Village Auction Lot 26 Gori Gesha Natural,September 2017,95,54.0,74.0,9.0,9.0,9.0,9.0,9.0,RL5,R137,220.20000000000002
+C977,Carmen Geisha El Palomar Best of Panama #4 Carlos Aguilera,September 2017,96,54.0,78.0,9.0,10.0,9.0,9.0,9.0,RL5,R94,220.4585537918871
+C978,Karuthi Espresso,August 2017,95,53.0,77.0,9.0,9.0,9.0,9.0,9.0,RL5,R147,55.704165319380344
+C979,Chelelektu Espresso,August 2017,94,51.0,73.0,9.0,9.0,9.0,8.0,9.0,RL5,R147,50.706957876480786
+C980,Karuthi Kenya,August 2017,95,53.0,76.0,9.0,9.0,9.0,9.0,9.0,RL5,R147,55.704165319380344
+C981,Finca El Obraje Colombia Gesha,August 2017,95,46.0,64.0,9.0,9.0,9.0,9.0,9.0,RL3,R6,176.07289829512052
+C982,Kenya AA Top Nyeri Tekangu Tegu Microlot,August 2017,94,41.0,49.0,9.0,9.0,9.0,9.0,8.0,RL4,R9,73.15
+C983,Washed Ethiopia Yirgacheffe Banko Gotiti,August 2017,95,58.0,82.0,9.0,9.0,9.0,10.0,8.0,RL5,R133,80.02645502645501
+C984,Sumatra Danau Toba,August 2017,94,55.0,77.0,9.0,8.0,9.0,9.0,9.0,RL5,R215,49.82509773949852
+C985,Kapsakiso Kenya,August 2017,94,60.0,84.0,9.0,9.0,9.0,9.0,8.0,RL2,R170,55.704165319380344
+C986,Ethiopia Washed Kayon Mountain,August 2017,95,58.0,80.0,9.0,9.0,9.0,9.0,9.0,RL5,R156,40.01410965850217
+C987,Ninety Plus Gesha Estates Limited Batch #227,July 2017,97,67.0,97.0,10.0,9.0,9.0,10.0,9.0,RL2,R147,604.0564373897706
+C988,Makwa Kenya AB,July 2017,94,62.0,84.0,9.0,9.0,9.0,9.0,8.0,RL2,R27,41.15347305917282
+C989,Finca El Guamo Colombia,June 2017,94,54.0,75.0,9.0,9.0,9.0,9.0,8.0,RL5,R310,47.003145301155236
+C990,Kenya Ndaroini AA,June 2017,94,54.0,76.0,9.0,9.0,8.0,9.0,9.0,RL5,R94,58.79067579881831
+C991,El Salvador Finca Kilimanjaro Natural,June 2017,94,54.0,78.0,9.0,8.0,9.0,9.0,9.0,RL5,R28,102.88368264793205
+C992,Kamagogo Kenya,June 2017,96,53.0,76.0,9.0,9.0,9.0,10.0,9.0,RL5,R147,61.43625620976513
+C993,Twisted 4.0 Espresso,June 2017,94,53.0,75.0,9.0,8.0,9.0,9.0,9.0,RL5,R147,46.29765719156942
+C994,El Salvador Finca Kilimanjaro Cascara Fermentation Aida Batlle,June 2017,95,50.0,71.0,9.0,9.0,9.0,9.0,9.0,RL3,R211,102.88368264793205
+C995,Puna Natural,June 2017,94,54.0,74.0,9.0,9.0,9.0,9.0,8.0,RL5,R25,102.29276895943562
+C996,Colombia La Palma Y El Tucan Gesha,June 2017,94,62.0,84.0,9.0,9.0,8.0,9.0,9.0,RL2,R28,
+C997,Bourbon Peaberry,May 2017,94,54.0,80.0,9.0,9.0,9.0,9.0,8.0,RL5,R142,220.23809523809524
+C998,Sumatra Boru Batak,May 2017,94,54.0,80.0,9.0,9.0,9.0,9.0,8.0,RL5,R199,44.063611511214326
+C998,Sumatra Boru Batak,May 2017,94,54.0,80.0,9.0,9.0,9.0,9.0,8.0,RL5,R199,44.063611511214326
+C999,Gesha Village Estate Bench Maji Gesha G1,May 2017,95,55.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R94,154.320987654321
+C1000,Bourbon-Barrel-Aged Kenya Baragu,May 2017,94,55.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R182,88.18342151675485
+C1001,Aged Sumatra Ulos Batak Peaberry,May 2017,94,53.0,73.0,9.0,9.0,9.0,9.0,8.0,RL5,R103,52.91160821893648
+C1002,Colombia La Palma and El Tucan Espresso,May 2017,94,51.0,72.0,9.0,9.0,9.0,8.0,9.0,RL5,R156,36.37646332591107
+C1003,Kenya Kabare AA,April 2017,96,56.0,77.0,9.0,9.0,9.0,10.0,9.0,RL5,R242,42.62323995414327
+C1004,"Gesha, Gesha Village 1931",April 2017,94,56.0,77.0,9.0,9.0,9.0,9.0,8.0,RL5,R190,388.0070546737213
+C1005,Aricha Yirgacheffe Ethiopia,April 2017,94,58.0,82.0,9.0,8.0,9.0,9.0,9.0,RL5,R21,58.64369910932126
+C1006,Guatemala Finca Cappuccino “Echo-Lot” Espresso,March 2017,95,50.0,74.0,9.0,9.0,9.0,9.0,9.0,RL5,R156,32.73881699331996
+C1007,Ethiopia Guji Shakiso Danbi Uddo,March 2017,94,56.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R227,52.91160821893648
+C1008,Kenya AA Gura Auction Lot,February 2017,94,56.0,76.0,9.0,9.0,8.0,9.0,9.0,RL5,R36,44.97354497354497
+C1009,Yirgacheffe G1 Idido,February 2017,95,56.0,76.0,9.0,9.0,8.0,10.0,9.0,RL5,R299,110.58201058201057
+C1010,Yemen Port of Mokha Hayma Microlot,February 2017,97,47.0,68.0,10.0,9.0,9.0,10.0,9.0,RL3,R94,374.7795414462081
+C1011,Edgar Motta Colombia Pink Bourbon,February 2017,94,59.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R283,55.85114200887739
+C1012,Papua New Guinea PB Kimel Estate,February 2017,94,56.0,70.0,9.0,9.0,8.0,9.0,9.0,RL5,R216,38.55905112546572
+C1013,Panama La Esmeralda Noria Enero Geisha,January 2017,95,57.0,83.0,9.0,9.0,9.0,9.0,9.0,RL5,R292,335.0970017636684
+C1014,Rwanda Bufcafe,January 2017,95,54.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R147,50.706957876480786
+C1015,Ethiopia Queen Sheba Natural Yirgacheffe Phoenix Special,January 2017,94,54.0,76.0,9.0,9.0,9.0,8.0,9.0,RL5,R264,109.12938997773321
+C1016,Ulos Batak Sumatra Peaberry,January 2017,97,57.0,76.0,10.0,9.0,9.0,10.0,9.0,RL5,R147,54.67532849290103
+C1017,Bernachon High-Level Espresso,December 2016,94,50.0,64.0,9.0,9.0,9.0,8.0,9.0,RL3,R325,31.718061674008812
+C1018,Mora Negra Geisha Hartmann Farm,December 2016,95,56.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R190,127.86596119929453
+C1019,Gori Gesha Forest,December 2016,95,54.0,74.0,9.0,9.0,9.0,9.0,9.0,RL5,R190,154.320987654321
+C1020,Ethiopia Natural Hambela Buku,December 2016,94,58.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R156,41.88804867832183
+C1021,Panama Camilina Natural Geisha,December 2016,94,58.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R161,220.23809523809524
+C1022,Kenya Nyeri Thageini Peaberry,December 2016,94,52.0,71.0,9.0,9.0,8.0,9.0,9.0,RL5,R319,57.32090890384785
+C1023,Single-Origin Nitro,December 2016,95,,,9.0,9.0,9.0,9.0,9.0,RL2,R39,10.258972926893795
+C1024,Hawaii Kilauea Volcano Nano-Lot,December 2016,96,59.0,82.0,9.0,9.0,9.0,10.0,9.0,RL5,R215,211.64021164021162
+C1025,Ethiopia Charbanta Natural,December 2016,95,60.0,80.0,9.0,9.0,9.0,9.0,9.0,RL5,R328,52.91160821893648
+C1026,Esmeralda Noria Natural,December 2016,95,58.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R212,209.43562610229276
+C1027,Miami Winter Holiday Blend,December 2016,94,62.0,84.0,9.0,9.0,9.0,9.0,8.0,RL2,R219,88.18342151675485
+C1028,Duncan Estate Panamanian Gesha,December 2016,94,66.0,82.0,9.0,9.0,9.0,9.0,8.0,RL2,R194,141.09347442680775
+C1029,The Jungle,December 2016,94,43.0,52.0,9.0,8.0,9.0,8.0,10.0,RL4,R264,72.75292665182214
+C1030,Ethiopia Yirgacheffe,November 2016,94,63.0,84.0,9.0,9.0,9.0,9.0,8.0,RL2,R312,68.0
+C1031,Ethiopia Washed Yirgacheffe “Paradise” Espresso,November 2016,95,47.0,70.0,9.0,9.0,9.0,9.0,9.0,RL3,R264,101.85409731255099
+C1032,Kenya Lenana,November 2016,94,52.0,64.0,9.0,9.0,9.0,9.0,8.0,RL3,R160,47.767424086539876
+C1033,“Mini-Me” Washed Yirgacheffe,November 2016,95,52.0,74.0,9.0,9.0,9.0,9.0,9.0,RL5,R264,94.57880464736877
+C1034,Kenya Guama Peaberry,November 2016,97,56.0,78.0,10.0,9.0,9.0,10.0,9.0,RL5,R28,70.51941562068255
+C1035,Sumatra Tano Batak,November 2016,95,55.0,77.0,9.0,9.0,9.0,9.0,9.0,RL5,R28,61.700814250859814
+C1036,Los Congos Pacamara Natural,November 2016,94,60.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R94,58.79067579881831
+C1037,Granja La Esperanza Colombia,November 2016,94,56.0,78.0,9.0,8.0,9.0,9.0,9.0,RL5,R27,70.54881095858197
+C1038,Mokka,November 2016,95,54.0,76.0,10.0,9.0,9.0,10.0,8.0,RL5,R142,176.14638447971782
+C1039,Kenya Gathugu,November 2016,95,60.0,80.0,9.0,9.0,9.0,10.0,8.0,RL5,R21,52.76463152943943
+C1040,Pacamara Finca Los Planes El Salvador,November 2016,94,55.0,78.0,9.0,9.0,8.0,9.0,9.0,RL5,R212,57.32090890384785
+C1041,Kenya Karindundu,November 2016,95,56.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R238,52.88221288103706
+C1042,Panama Finca Las Brujas Geisha Natural,November 2016,96,57.0,80.0,9.0,9.0,9.0,10.0,9.0,RL5,R292,220.4585537918871
+C1043,P.r.o. Coffee Ethiopia Yirgacheffe,November 2016,95,56.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R261,76.12334801762115
+C1044,Gichichi Peaberry Kenya,November 2016,94,57.0,77.0,9.0,9.0,9.0,9.0,8.0,RL5,R310,47.003145301155236
+C1045,Blade Runner Blend,October 2016,95,56.0,82.0,9.0,9.0,9.0,9.0,9.0,RL5,R54,42.88
+C1045,Blade Runner Blend,October 2016,95,56.0,82.0,9.0,9.0,9.0,9.0,9.0,RL5,R54,42.88
+C1046,Laura’s Reserve SL-28,October 2016,96,56.0,82.0,9.0,9.0,9.0,10.0,9.0,RL5,R141,198.19223985890653
+C1047,Panama Finca Mama Cata Microlot Tona,October 2016,94,58.0,84.0,9.0,9.0,9.0,9.0,8.0,RL2,R212,66.1395102736706
+C1048,Mr. David Mburu Kenya,October 2016,96,56.0,78.0,10.0,9.0,9.0,10.0,8.0,RL5,R66,60.0
+C1049,Meaza Ethiopia,October 2016,95,54.0,74.0,9.0,9.0,9.0,9.0,9.0,RL5,R66,60.0
+C1050,Costa Rica Finca Chispirta,October 2016,94,54.0,68.0,9.0,9.0,9.0,9.0,8.0,RL5,R96,110.22927689594356
+C1051,Las Lajas Perla Negra Natural,October 2016,94,52.0,70.0,9.0,9.0,8.0,9.0,9.0,RL5,R79,64.66974337870015
+C1052,Ninety Plus Silvia Solkiln N2,October 2016,96,45.0,58.0,10.0,9.0,9.0,8.0,10.0,RL3,R82,380.3083700440529
+C1053,P.R.O. Special Blended Coffee,October 2016,94,44.0,54.0,9.0,9.0,9.0,8.0,9.0,RL4,R82,168.06167400881057
+C1054,Ethiopia Natural Yirgacheffe Gedeb G1 Lot 118,September 2016,94,58.0,80.0,9.0,9.0,9.0,9.0,8.0,RL5,R156,46.29731696025045
+C1055,Kenya Karatu,September 2016,94,57.0,78.0,9.0,8.0,9.0,9.0,9.0,RL5,R131,52.91160821893648
+C1056,Ethiopia Gedeb Natural,September 2016,94,58.0,77.0,9.0,9.0,8.0,9.0,9.0,RL5,R10,49.97207442899556
+C1057,Sumatra Tano Batak,September 2016,95,51.0,62.0,10.0,8.0,9.0,9.0,9.0,RL3,R160,44.827890296598966
+C1058,Kenya Gathiruini,September 2016,95,56.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R320,73.48834474852288
+C1059,Kenya Thageini,September 2016,96,58.0,84.0,9.0,9.0,9.0,10.0,9.0,RL2,R28,61.700814250859814
+C1060,Kenya Gatomboya Peaberry,September 2016,96,55.0,74.0,10.0,9.0,9.0,10.0,8.0,RL5,R215,55.704165319380344
+C1061,Elida Natural “Dragonfly Lot”,September 2016,94,55.0,75.0,9.0,9.0,9.0,9.0,8.0,RL5,R94,52.91160821893648
+C1062,Worka Ethiopia,August 2016,95,58.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R147,55.116258561392165
+C1063,Indonesia Sumatra Tano Batak,August 2016,94,52.0,74.0,9.0,9.0,8.0,9.0,9.0,RL5,R28,61.700814250859814
+C1064,Ethiopia Hambela Washed,August 2016,94,65.0,78.0,9.0,9.0,8.0,9.0,9.0,RL2,R238,47.032540639054645
+C1065,Kenya Muranga Gondo AA,August 2016,96,56.0,80.0,9.0,9.0,9.0,10.0,9.0,RL5,R156,48.50195110121475
+C1066,Kenya Small-Lot Reserve Karatina AA,August 2016,95,56.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R94,52.91160821893648
+C1067,Washed Yirgacheffe Aramo Alemayehu Berhanu,August 2016,95,56.0,78.0,9.0,9.0,9.0,10.0,8.0,RL5,R156,41.88804867832183
+C1068,Kenya Nyeri Gathugu,July 2016,94,54.0,75.0,9.0,9.0,9.0,9.0,8.0,RL5,R86,44.09300684911373
+C1069,Ethiopia Yirgacheffe Chelelektu,July 2016,94,69.0,84.0,9.0,9.0,9.0,9.0,8.0,RL2,R318,843.9153439153439
+C1070,Passport Collection Kenya Ichamara,July 2016,94,54.0,73.0,9.0,9.0,9.0,9.0,8.0,RL5,R203,47.032540639054645
+C1071,Ethiopia Limu Natural No. 701,July 2016,94,57.0,80.0,10.0,8.0,8.0,10.0,8.0,RL5,R203,48.50230753402511
+C1072,Ethiopia Yirgacheffe YCFCU Idido,July 2016,94,52.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R119,84.31718061674009
+C1073,Sumatra Black Panther,July 2016,94,50.0,69.0,9.0,8.0,9.0,9.0,9.0,RL3,R83,30.8
+C1074,Sumatra Lintong Mutu Batak,July 2016,94,54.0,74.0,9.0,9.0,9.0,9.0,8.0,RL5,R161,42.62323995414327
+C1075,Amaro Gayo Natural Ethiopia,June 2016,94,58.0,90.0,9.0,9.0,8.0,9.0,9.0,RL2,R62,52.76463152943943
+C1076,Ardi Ethiopia Natural,June 2016,94,54.0,79.0,9.0,9.0,9.0,9.0,8.0,RL5,R310,47.003145301155236
+C1077,Deri Kochoha Espresso,June 2016,96,56.0,78.0,9.0,9.0,10.0,9.0,9.0,RL5,R147,49.38416767100738
+C1078,Camilina Geisha Auromar Natural,June 2016,95,58.0,84.0,9.0,9.0,9.0,9.0,9.0,RL2,R94,218.25396825396825
+C1079,ManLao River Ethiopia Yirgacheffe Dry Process Gedeb Asasa,June 2016,94,54.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R3,72.00000000000001
+C1080,Deri Kochoha Ethiopia,June 2016,94,56.0,80.0,9.0,9.0,9.0,9.0,8.0,RL5,R147,49.38416767100738
+C1081,Cachajinas Guatemala Huehuetenango,June 2016,94,56.0,80.0,9.0,9.0,9.0,9.0,8.0,RL5,R21,52.76463152943943
+C1082,Ethiopia Yirgacheffe Goro,June 2016,94,54.0,76.0,9.0,9.0,8.0,10.0,8.0,RL5,R54,42.88
+C1082,Ethiopia Yirgacheffe Goro,June 2016,94,54.0,76.0,9.0,9.0,8.0,10.0,8.0,RL5,R54,42.88
+C1083,Ethiopia Yirgacheffe Reko,May 2016,96,54.0,76.0,9.0,9.0,10.0,9.0,9.0,RL5,R292,57.32090890384785
+C1084,Costa Rica Alberto Guardia Bourbon Natural,May 2016,95,60.0,80.0,9.0,9.0,9.0,9.0,9.0,RL5,R292,60.26044269378877
+C1085,Colombia San Adolfo,May 2016,94,65.0,81.0,9.0,9.0,9.0,9.0,8.0,RL2,R238,49.97207442899556
+C1086,Brazil Estancia Telese,May 2016,94,66.0,83.0,9.0,8.0,9.0,9.0,9.0,RL2,R242,38.94882271671713
+C1087,Brazil Fazenda Passeio Natural,May 2016,94,55.0,81.0,9.0,8.0,9.0,9.0,9.0,RL5,R327,30.842831632090654
+C1088,Kenya Nyeri Gatugi AA,April 2016,94,60.0,84.0,9.0,9.0,8.0,9.0,9.0,RL2,R157,36.37646332591107
+C1089,Panama La Esmeralda Bosque Geisha,April 2016,95,53.0,80.0,9.0,9.0,9.0,9.0,9.0,RL5,R28,220.4585537918871
+C1090,Ethiopia Yirgacheffe Kebele Kochore,April 2016,94,48.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R302,61.7297559470006
+C1091,El Sitio Ecuador,April 2016,94,52.0,80.0,9.0,9.0,8.0,9.0,9.0,RL5,R170,55.704165319380344
+C1092,Harfusa Espresso,April 2016,94,57.0,84.0,9.0,9.0,9.0,8.0,9.0,RL5,R147,52.32370146094829
+C1093,SOPACDI Congo,April 2016,94,54.0,74.0,9.0,9.0,9.0,9.0,8.0,RL5,R170,52.76463152943943
+C1094,Reserve Panama Geisha Hacienda La Esmeralda,April 2016,95,54.0,86.0,9.0,9.0,9.0,9.0,9.0,RL5,R27,233.68606701940033
+C1095,Competition Blend,March 2016,94,62.0,84.0,9.0,8.0,9.0,9.0,9.0,RL2,R238,49.942679091096146
+C1096,Bean Brain Reserve Suke Quto Ethiopia Sidamo Espresso,March 2016,94,60.0,80.0,9.0,9.0,9.0,8.0,9.0,RL5,R47,55.85114200887739
+C1097,Hambela Ethiopia,March 2016,96,57.0,82.0,10.0,9.0,9.0,9.0,9.0,RL5,R21,51.29486463446897
+C1098,Drima Zede Ethiopia,March 2016,94,57.0,82.0,9.0,9.0,9.0,9.0,8.0,RL5,R247,57.09251101321586
+C1099,Ecuador Juan Peña,March 2016,94,64.0,78.0,9.0,9.0,8.0,9.0,9.0,RL2,R312,80.0
+C1100,Kenya Othaya Peaberry,March 2016,94,55.0,80.0,9.0,8.0,9.0,9.0,9.0,RL5,R183,43.3581234016285
+C1101,Organic Ethiopia Aramo Natural,March 2016,94,64.0,84.0,9.0,9.0,9.0,9.0,8.0,RL2,R328,52.17672477145125
+C1102,Love Shack (Kenya),March 2016,94,54.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R85,51.441841323966024
+C1103,100% Kona Bourbon Pointu Laurina,February 2016,94,56.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R141,154.1005291005291
+C1104,Costa Rica Alberto Guardia Venecia Natural,February 2016,95,60.0,82.0,9.0,9.0,9.0,9.0,9.0,RL2,R292,54.381375113906934
+C1105,Adame Gorbota Espresso,February 2016,95,56.0,72.0,9.0,9.0,9.0,9.0,9.0,RL5,R147,51.441841323966024
+C1106,El Aguila Pacamara Espresso,February 2016,94,60.0,80.0,9.0,9.0,9.0,8.0,9.0,RL5,R147,46.29765719156942
+C1107,Ethiopia Natural Yirgacheffe Banko Gutiti Coop,February 2016,95,62.0,84.0,9.0,9.0,9.0,9.0,9.0,RL2,R156,43.65175599109328
+C1108,Ethiopia Natural Sidamo Guji Shakisso,February 2016,94,53.0,81.0,9.0,9.0,9.0,9.0,8.0,RL5,R156,36.37646332591107
+C1109,Colombia Granja La Esperanza Las Margaritas Sudan Rume,February 2016,95,52.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R212,154.320987654321
+C1110,Adame Gorbota Ethiopia,February 2016,94,54.0,82.0,9.0,9.0,8.0,9.0,9.0,RL5,R147,51.441841323966024
+C1111,Ethiopia Yirgacheffe Adado,February 2016,94,55.0,78.0,9.0,8.0,9.0,9.0,9.0,RL5,R112,45.56277374408419
+C1112,Panama Ratibor Hartmann Natural,February 2016,95,58.0,80.0,9.0,9.0,9.0,9.0,9.0,RL5,R292,51.441841323966024
+C1113,Kenya AA Nyeri Tambaya,January 2016,94,60.0,84.0,9.0,9.0,9.0,9.0,8.0,RL2,R238,45.53337840618478
+C1114,Costa Rica Las Lajas Red Honey,January 2016,94,53.0,77.0,9.0,8.0,9.0,9.0,9.0,RL5,R238,48.47291219612569
+C1115,Bernachon Panama Geisha,January 2016,95,60.0,76.0,10.0,8.0,9.0,9.0,9.0,RL5,R325,203.52422907488986
+C1116,Panama La Esmeralda Geisha Bosque Natural,December 2015,97,59.0,82.0,9.0,9.0,9.0,10.0,10.0,RL5,R292,273.36860670194
+C1117,Harfusa Ethiopia Yirgacheffe Fair Trade Organic,December 2015,95,54.0,76.0,9.0,9.0,9.0,9.0,9.0,RL5,R147,52.32370146094829
+C1118,ASOPCAFA Colombia,December 2015,94,60.0,77.0,9.0,9.0,8.0,9.0,9.0,RL5,R147,43.65207678062259
+C1119,Panama Don Pepe Estate Geisha Single-Origin Espresso,October 2015,96,48.0,59.0,10.0,8.0,10.0,8.0,10.0,RL3,R292,57.32090890384785
+C1120,Ichamama Kenya,October 2015,94,56.0,74.0,9.0,9.0,9.0,9.0,8.0,RL5,R147,47.32649401804874
+C1121,Las Flores Espresso,October 2015,95,57.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R147,46.44463388106646
+C1122,El Salvador Finca Medrano Pacamara Nohemi Ventura,October 2015,94,62.0,87.0,9.0,9.0,9.0,9.0,8.0,RL2,R193,61.6
+C1123,Ethiopia Jimma Agaro,October 2015,95,66.0,87.0,9.0,9.0,9.0,9.0,9.0,RL2,R84,58.79067579881831
+C1124,Rwanda Silverback Espresso,September 2015,95,43.0,52.0,9.0,9.0,9.0,9.0,9.0,RL4,R264,87.30351198218656
+C1125,Ecuador “Mama Kilya” Espresso,September 2015,94,44.0,50.0,9.0,9.0,9.0,8.0,9.0,RL4,R264,145.50585330364427
+C1126,Ethiopia Hambela,September 2015,94,55.0,78.0,9.0,9.0,9.0,9.0,8.0,RL5,R170,55.704165319380344
+C1127,Kenya Nyeri Peaberry,September 2015,95,55.0,76.0,9.0,9.0,9.0,9.0,9.0,RL5,R310,42.32928657514918
+C1128,Panama Lino Esmeralda Geisha Natural,September 2015,96,67.0,88.0,9.0,9.0,9.0,10.0,9.0,RL2,R28,224.86772486772486
+C1129,Ethiopia Sidama Akrabi,September 2015,94,58.0,71.0,9.0,9.0,9.0,9.0,8.0,RL5,R143,
+C1130,Kenya AA Gakuyuri,September 2015,94,60.0,75.0,9.0,9.0,9.0,9.0,8.0,RL5,R23,44.827890296598966
+C1131,Kenya Embu Gakui Peaberry,September 2015,95,54.0,70.0,9.0,9.0,9.0,9.0,9.0,RL5,R126,51.441841323966024
+C1132,Kenya AA Kigwandi Estate,September 2015,95,59.0,75.0,9.0,9.0,9.0,9.0,9.0,RL5,R327,39.66136819594788
+C1133,Ethiopia Yirgacheffe Buna Ababa,August 2015,94,57.0,76.0,9.0,9.0,9.0,9.0,8.0,RL5,R72,66.13756613756614
+C1134,Panama Don Pepe Fully Washed Geisha,August 2015,96,58.0,72.0,10.0,8.0,9.0,10.0,9.0,RL5,R292,176.3668430335097
+C1135,Golden Mean Espresso Blend,August 2015,94,48.0,60.0,9.0,9.0,9.0,8.0,9.0,RL3,R160,43.94603015961668
+C1136,Finca La Mula Panama Geisha,July 2015,97,52.0,66.0,10.0,9.0,9.0,10.0,9.0,RL3,R147,264.32980599647266
+C1137,S.O. Espresso Brazil Fazenda Santa Ines,July 2015,94,47.0,60.0,9.0,9.0,9.0,8.0,9.0,RL3,R215,38.066962579734856
+C1138,Black House,July 2015,94,55.0,69.0,9.0,8.0,9.0,9.0,9.0,RL5,R181,41.15347305917282
+C1139,Kenya Gachatha AA,June 2015,96,54.0,76.0,10.0,9.0,9.0,10.0,8.0,RL5,R161,73.34136805902584
+C1140,Burundi Kayanza Province Mpanga Washing Station,June 2015,94,54.0,74.0,9.0,9.0,9.0,9.0,8.0,RL5,R319,61.73020958875922
+C1141,Ethiopia Yirgacheffe Dabub Matebya,June 2015,94,65.0,87.0,9.0,9.0,9.0,9.0,8.0,RL2,R112,44.09300684911373
+C1142,Yemen Haraaz Red A+,June 2015,94,54.0,74.0,9.0,9.0,8.0,9.0,9.0,RL5,R94,83.7742504409171
+C1143,El Salvador Finca Loma La Gloria,June 2015,94,78.0,99.0,9.0,8.0,9.0,9.0,9.0,RL2,R28,55.82174667097798
+C1144,Ethiopia Sidama Ardi,June 2015,95,57.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R319,55.85114200887739
+C1145,Ethiopia Washed Limu Gera,June 2015,94,61.0,79.0,9.0,9.0,8.0,9.0,9.0,RL5,R156,37.47878039639322
+C1146,Ethiopia Aricha,June 2015,94,62.0,88.0,9.0,9.0,8.0,10.0,8.0,RL2,R259,52.911219383143376
+C1147,Ace Espresso,June 2015,94,55.0,72.0,9.0,9.0,9.0,8.0,9.0,RL5,R229,35.27414625542891
+C1147,Ace Espresso,June 2015,94,55.0,72.0,9.0,9.0,9.0,8.0,9.0,RL5,R229,35.27414625542891
+C1148,Colombia Special Process Microlot 511 “Memory Orchard” Espresso,May 2015,94,47.0,56.0,9.0,9.0,9.0,8.0,9.0,RL3,R264,145.50585330364427
+C1149,Costa Rica Sonora Bourbon Natural,May 2015,94,68.0,92.0,9.0,8.0,9.0,9.0,9.0,RL2,R292,55.85114200887739
+C1150,The Secret Coffee,May 2015,94,66.0,99.0,9.0,9.0,9.0,8.0,9.0,RL2,R75,87.22466960352423
+C1151,Panama Finca Hartmann,May 2015,95,63.0,81.0,10.0,9.0,9.0,9.0,8.0,RL2,R292,51.441841323966024
+C1152,Sumatra Ulos Batak,May 2015,94,54.0,70.0,9.0,8.0,9.0,9.0,9.0,RL5,R292,52.91160821893648
+C1153,Espresso Blend,May 2015,94,52.0,68.0,9.0,9.0,9.0,8.0,9.0,RL3,R26,76.26666666666667
+C1154,Sillvia Solkiln N2 Level 95,April 2015,96,59.0,80.0,9.0,9.0,9.0,10.0,9.0,RL5,R3,671.9999999999999
+C1155,Sweet Maria’s Acatenango Gesha,April 2015,94,60.0,74.0,9.0,9.0,9.0,9.0,8.0,RL5,R3,269.6
+C1156,Keremara AA Kenya,April 2015,95,60.0,79.0,9.0,9.0,9.0,9.0,9.0,RL5,R21,54.23439842440988
+C1157,Tchembe Gedeo Ethiopia,April 2015,94,58.0,72.0,9.0,9.0,9.0,9.0,8.0,RL5,R21,90.97857079867133
+C1158,Ethiopia Yirgacheffe Gedeo,April 2015,95,64.0,94.0,9.0,9.0,9.0,9.0,9.0,RL2,R112,42.62323995414327
+C1159,Sumatra Lake Toba Peaberry,April 2015,94,47.0,65.0,9.0,9.0,9.0,9.0,8.0,RL3,R214,52.91160821893648
+C1160,Sumatra Ulos Batak,April 2015,94,56.0,70.0,9.0,9.0,9.0,9.0,8.0,RL5,R103,50.706957876480786
+C1161,Ethiopian Washed Kochere G1 SO Espresso,April 2015,94,49.0,62.0,9.0,9.0,9.0,8.0,9.0,RL3,R52,26.455609691571688
+C1162,Colombia Granja La Esperanza Grand Cru Mokka,March 2015,94,65.0,86.0,9.0,9.0,9.0,9.0,8.0,RL2,R212,80.83717922337517
+C1163,Panama Esmeralda Geisha,March 2015,96,57.0,83.0,9.0,9.0,9.0,10.0,9.0,RL5,R27,162.2574955908289
+C1164,Rum-Barrel Conditioned Ethiopia Gelena Abaya,March 2015,94,65.0,85.0,9.0,8.0,9.0,9.0,9.0,RL2,R201,52.910052910052904
+C1165,Milepost Kenya Nyeri Ruarai,March 2015,94,58.0,81.0,9.0,9.0,9.0,9.0,8.0,RL5,R238,52.91160821893648
+C1166,Kenya Thiriku,March 2015,95,56.0,77.0,9.0,9.0,9.0,9.0,9.0,RL5,R62,51.441841323966024
+C1167,Ari-Ari Seuri-Seuri,March 2015,94,56.0,72.0,9.0,8.0,9.0,9.0,9.0,RL5,R195,60.0
+C1168,Jazz Apricot (Espresso),March 2015,94,50.0,62.0,9.0,9.0,9.0,8.0,9.0,RL3,R118,36.37646332591107
+C1169,Ethiopia Biloya Organic,March 2015,95,55.0,75.0,9.0,9.0,8.0,10.0,9.0,RL5,R206,49.23719098151033
+C1170,Organic Ethiopian Worka Special Prep,March 2015,94,60.0,83.0,9.0,9.0,9.0,9.0,8.0,RL2,R328,52.17672477145125
+C1171,Ethiopia Washed Yirgacheffe Alemu Station,February 2015,94,65.0,88.0,9.0,9.0,9.0,9.0,8.0,RL2,R156,39.68341453735753
+C1172,Kenya Kianjuri AB,February 2015,94,53.0,68.0,9.0,8.0,9.0,9.0,9.0,RL3,R94,52.91160821893648
+C1173,Kenya Nyeri Tambaya Peaberry,February 2015,94,49.0,65.0,9.0,9.0,9.0,9.0,8.0,RL3,R319,57.32090890384785
+C1174,Ethiopian Yirgacheffe Idido Natural,February 2015,94,58.0,83.0,9.0,9.0,9.0,8.0,8.0,RL5,R94,52.91160821893648
+C1175,Kenya AA,January 2015,95,56.0,79.0,9.0,9.0,9.0,9.0,9.0,RL5,R134,72.75132275132275
+C1176,Ethiopia Suke Quto Organic,January 2015,95,52.0,65.0,9.0,9.0,9.0,9.0,9.0,RL3,R215,43.94603015961668
+C1177,Espresso Blend Spring 15,January 2015,94,48.0,54.0,9.0,9.0,9.0,8.0,9.0,RL3,R134,42.195767195767196
+C1178,Esmeralda Leon Natural Geisha,January 2015,96,71.0,89.0,10.0,9.0,9.0,10.0,8.0,RL2,R28,198.4126984126984
+C1179,"Shilcho Ethiopia, Red Cherry Initiative",December 2014,94,53.0,66.0,9.0,8.0,9.0,9.0,9.0,RL3,R47,49.97207442899556
+C1180,"Lomi Tasha Worka, Ethiopia",December 2014,95,64.0,85.0,9.0,9.0,9.0,10.0,8.0,RL2,R16,73.48834474852288
+C1181,Semeon Abay Ethiopia,December 2014,95,66.0,84.0,10.0,9.0,9.0,9.0,8.0,RL2,R21,
+C1182,Kenya Nyeri Rukira AB,December 2014,95,49.0,66.0,9.0,9.0,9.0,9.0,9.0,RL3,R156,44.09268281928614
+C1183,Auromar Camilina Geisha,December 2014,95,62.0,88.0,9.0,9.0,9.0,9.0,9.0,RL2,R212,176.3668430335097
+C1184,Holiday Blend,December 2014,95,59.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R206,50.706957876480786
+C1185,Ethiopia Wenago Natural,December 2014,95,55.0,73.0,9.0,9.0,9.0,9.0,9.0,RL5,R204,52.91160821893648
+C1186,Panama Geisha Holiday Blend,December 2014,95,67.0,88.0,9.0,9.0,9.0,10.0,8.0,RL2,R76,160.0
+C1187,Panama Esmeralda Especial Geisha Bosque 2,December 2014,94,50.0,65.0,9.0,8.0,8.0,10.0,9.0,RL3,R292,273.36860670194
+C1188,Gratitude Special Blend,December 2014,94,46.0,64.0,9.0,9.0,9.0,9.0,8.0,RL3,R121,36.74417237426144
+C1189,Nicaragua Pacamara Reserve Los Congos,December 2014,94,57.0,73.0,9.0,8.0,9.0,9.0,9.0,RL5,R94,52.91160821893648
+C1190,Kenya Muthonjo AA,December 2014,94,49.0,64.0,9.0,9.0,8.0,9.0,9.0,RL3,R309,106.66666666666667
+C1191,Ethiopia Ninety Plus Hachira N2,December 2014,95,51.0,67.0,10.0,8.0,9.0,9.0,9.0,RL3,R214,88.18601369822746
+C1192,Perci Red Panama Gesha,December 2014,95,74.0,101.0,9.0,9.0,9.0,9.0,9.0,RL2,R21,212.96922308121933
+C1193,Nekisse Natural Process Ethiopia,December 2014,94,64.0,89.0,9.0,9.0,8.0,9.0,9.0,RL2,R21,90.97857079867133
+C1194,Ethiopia Yirgacheffe Gutiti,November 2014,94,52.0,69.0,10.0,8.0,9.0,9.0,8.0,RL3,R215,49.82509773949852
+C1195,Ethiopia Konga,November 2014,94,56.0,76.0,9.0,9.0,8.0,9.0,9.0,RL5,R170,49.82509773949852
+C1196,Kenya AA Top 405A Espresso,November 2014,95,47.0,62.0,9.0,9.0,10.0,8.0,9.0,RL3,R264,116.4046826429154
+C1197,Seasonal Mini-Me Yirgacheffe Washed,November 2014,94,52.0,68.0,9.0,9.0,9.0,9.0,8.0,RL3,R67,72.75292665182214
+C1198,Panama Mama Cata Natural,November 2014,95,42.0,63.0,9.0,9.0,9.0,9.0,9.0,RL3,R121,99.79717216849409
+C1199,High Mountain Red Bourbon,November 2014,95,61.0,77.0,9.0,9.0,9.0,9.0,9.0,RL5,R141,154.1005291005291
+C1200,Nicaragua Pacamara Reserve Los Congos,November 2014,94,56.0,73.0,9.0,8.0,9.0,9.0,9.0,RL5,R204,52.91160821893648
+C1201,Panama Duncan Natural Gesha,November 2014,94,61.0,81.0,9.0,9.0,8.0,9.0,9.0,RL2,R292,207.2310405643739
+C1202,Guatemala Acatenango Gesha,November 2014,94,72.0,87.0,9.0,8.0,9.0,9.0,9.0,RL2,R242,97.00176366843033
+C1203,Kenya Kigwandi AA,October 2014,94,53.0,70.0,9.0,9.0,9.0,9.0,8.0,RL5,R161,58.64369910932126
+C1204,Ethiopia Homacho Waeno,October 2014,95,62.0,75.0,9.0,9.0,9.0,9.0,9.0,RL5,R31,
+C1205,Colombia Granja Esperanza Gesha AAA,October 2014,95,53.0,76.0,10.0,9.0,9.0,9.0,8.0,RL5,R31,
+C1206,Kenya Mathew Mugo,October 2014,94,61.0,79.0,9.0,8.0,9.0,9.0,9.0,RL5,R328,52.76463152943943
+C1207,Organic Ethiopian Banko Natural,October 2014,94,59.0,75.0,9.0,9.0,9.0,9.0,8.0,RL5,R328,49.23719098151033
+C1208,Kenya Nyeri,October 2014,94,52.0,62.0,9.0,9.0,8.0,9.0,9.0,RL3,R65,52.91160821893648
+C1209,Konga Natural Ethiopia,October 2014,94,62.0,84.0,9.0,8.0,9.0,10.0,8.0,RL2,R212,52.38249213674712
+C1210,Kenya AA Giakanja,October 2014,94,53.0,71.0,9.0,9.0,9.0,9.0,8.0,RL5,R214,
+C1211,Ethiopia Chele’ Lektu,October 2014,94,52.0,68.0,9.0,8.0,9.0,9.0,9.0,RL3,R23,41.15347305917282
+C1212,Ethiopia Boke Natural Grade 1 Espresso,October 2014,94,56.0,66.0,9.0,9.0,9.0,8.0,9.0,RL5,R292,51.441841323966024
+C1213,Kochoha Espresso,September 2014,94,56.0,72.0,9.0,9.0,9.0,8.0,9.0,RL5,R147,43.65207678062259
+C1214,Kenya Nyeri Giakanja,September 2014,95,50.0,55.0,9.0,9.0,9.0,9.0,9.0,RL3,R303,61.7297559470006
+C1215,Perci N2 L39,September 2014,94,55.0,78.0,9.0,9.0,8.0,9.0,9.0,RL5,R175,270.72
+C1215,Perci N2 L39,September 2014,94,55.0,78.0,9.0,9.0,8.0,9.0,9.0,RL5,R175,270.72
+C1216,Yirgacheffe Aricha Natural G1,September 2014,94,59.0,74.0,9.0,9.0,8.0,10.0,8.0,RL5,R251,80.9
+C1217,Sumatra Tano Batak,September 2014,94,54.0,66.0,9.0,8.0,9.0,9.0,9.0,RL3,R292,51.441841323966024
+C1218,Panama Ironman Camilina Geisha,September 2014,97,58.0,80.0,10.0,9.0,9.0,10.0,9.0,RL5,R161,220.23809523809524
+C1219,Panama Estate Reserve: Elida Estate Natural,September 2014,94,58.0,80.0,9.0,9.0,9.0,9.0,8.0,RL5,R94,52.91160821893648
+C1220,Byron’s Maracaturra Natural Nicaragua,September 2014,94,64.0,80.0,9.0,9.0,9.0,9.0,8.0,RL2,R295,48.50230753402511
+C1221,Panama Chiriqui Finca Santa Teresa Geisha,September 2014,94,72.0,87.0,9.0,9.0,8.0,9.0,9.0,RL2,R76,79.36507936507937
+C1222,Costa Rica Cerro San Luis Natural,September 2014,94,57.0,74.0,9.0,9.0,8.0,9.0,9.0,RL5,R62,52.61765483994238
+C1223,Panama La Berlina Typica Natural,September 2014,94,56.0,76.0,10.0,9.0,8.0,9.0,8.0,RL5,R15,69.84126984126985
+C1224,Costa Rica Flor de Santos Bourbon Natural,September 2014,94,57.0,79.0,9.0,8.0,9.0,9.0,9.0,RL5,R240,113.05
+C1224,Costa Rica Flor de Santos Bourbon Natural,September 2014,94,57.0,79.0,9.0,8.0,9.0,9.0,9.0,RL5,R240,113.05
+C1225,Panama NPGE Perci N2,September 2014,94,59.0,77.0,9.0,8.0,9.0,9.0,9.0,RL5,R193,192.5
+C1226,El Salvador Cerro Las Ranas Espresso,August 2014,94,44.0,50.0,9.0,9.0,9.0,8.0,9.0,RL4,R161,46.8855639495576
+C1227,Kii Kenya,July 2014,94,58.0,73.0,9.0,9.0,9.0,9.0,8.0,RL5,R147,58.64369910932126
+C1228,Ethiopia Boke Washed Grade 1,July 2014,95,57.0,82.0,9.0,9.0,9.0,10.0,8.0,RL5,R292,49.97207442899556
+C1229,Ethiopia Semeon Abay N3,July 2014,94,62.0,87.0,9.0,9.0,9.0,9.0,8.0,RL2,R193,731.5
+C1230,Kenya Kahiriga,July 2014,94,56.0,74.0,8.0,9.0,9.0,9.0,9.0,RL5,R326,54.381375113906934
+C1231,Ready-to-Drink Coffee Cold Brew,July 2014,94,,,9.0,9.0,9.0,8.0,9.0,,R268,13.227804845785844
+C1232,Elida Estate Panama,July 2014,95,57.0,74.0,10.0,9.0,9.0,9.0,8.0,RL5,R28,76.39848320056439
+C1233,Kenya Baragwi Kagongo Peaberry,July 2014,94,49.0,71.0,9.0,8.0,9.0,9.0,9.0,RL3,R112,42.62323995414327
+C1234,Sumatra Ulos Batak,July 2014,96,53.0,68.0,10.0,8.0,9.0,10.0,9.0,RL3,R28,52.88221288103706
+C1235,Washed Yirgacheffe,July 2014,94,54.0,76.0,9.0,9.0,8.0,9.0,9.0,RL5,R28,55.82174667097798
+C1236,Kenya Kikai,July 2014,95,57.0,77.0,9.0,9.0,9.0,9.0,9.0,RL5,R170,52.17672477145125
+C1237,Ethiopia Yirgacheffe Kore Kochore,June 2014,94,59.0,76.0,9.0,9.0,8.0,9.0,9.0,RL5,R112,42.62323995414327
+C1238,SO Espresso Brazil Fazenda Rainha Natural,June 2014,94,54.0,66.0,9.0,9.0,9.0,9.0,8.0,RL3,R215,38.066962579734856
+C1239,Papua New Guinea Kunjin,June 2014,94,64.0,82.0,9.0,9.0,9.0,9.0,8.0,RL2,R63,48.50230753402511
+C1240,Ethiopia Sidama Ardi,June 2014,94,52.0,61.0,10.0,8.0,8.0,9.0,9.0,RL3,R50,49.97207442899556
+C1241,Celinga Ethiopia,June 2014,95,57.0,73.0,9.0,9.0,9.0,10.0,8.0,RL5,R147,48.50230753402511
+C1242,Celinga Ethiopia Espresso,June 2014,94,57.0,73.0,9.0,9.0,9.0,9.0,9.0,RL5,R147,48.50230753402511
+C1243,Ethiopia Danch Meng,May 2014,94,57.0,77.0,9.0,9.0,9.0,9.0,8.0,RL5,R53,57.32090890384785
+C1244,Ethiopia Moplaco Yirgacheffe,April 2014,94,58.0,80.0,8.0,9.0,9.0,9.0,9.0,RL5,R59,148.5
+C1245,Ethiopia Yirga Natural Bedhatu,April 2014,94,65.0,90.0,9.0,9.0,8.0,9.0,9.0,RL2,R156,50.70658524217906
+C1246,Kenya Nyeri Tambaya AA,April 2014,95,55.0,72.0,9.0,9.0,9.0,9.0,9.0,RL5,R59,148.5
+C1247,Guji Zone Ethiopia,April 2014,95,59.0,77.0,9.0,9.0,9.0,10.0,9.0,RL5,R28,52.88221288103706
+C1248,Colombia Cerro Azul Geisha,April 2014,95,52.0,63.0,9.0,9.0,9.0,9.0,9.0,RL3,R308,133.33333333333334
+C1249,Colombia Cerro Azul Enano,April 2014,94,60.0,79.0,9.0,9.0,9.0,9.0,8.0,RL5,R103,45.12184367559305
+C1250,"Colombia Finca Monte Verde, Gildardo Gutierrez",April 2014,94,58.0,73.0,9.0,9.0,9.0,9.0,8.0,RL5,R262,57.32090890384785
+C1251,Twisted 3.0 Espresso,April 2014,94,50.0,60.0,9.0,9.0,9.0,8.0,9.0,RL3,R147,46.29765719156942
+C1252,Ethiopia Amaro Gayo Dry Process,March 2014,94,60.0,81.0,9.0,9.0,8.0,9.0,9.0,RL5,R112,39.68370616420236
+C1253,Ethiopia Gedeo Yirgacheffe,March 2014,94,63.0,85.0,9.0,9.0,8.0,9.0,9.0,RL2,R242,40.41858961168759
+C1254,Rwanda Karongi Gitesi,March 2014,94,53.0,71.0,9.0,9.0,8.0,9.0,9.0,RL5,R112,42.62323995414327
+C1255,Gelgelu Adame Ethiopia Yirgacheffe Organic Natural Process,March 2014,96,63.0,81.0,9.0,9.0,9.0,10.0,9.0,RL2,R147,56.58602545636262
+C1256,Ethiopia FTO Worka,February 2014,95,66.0,88.0,9.0,9.0,8.0,10.0,9.0,RL2,R310,44.063611511214326
+C1257,Kenya Makwa AB,February 2014,96,54.0,67.0,9.0,10.0,9.0,9.0,9.0,RL3,R161,49.82509773949852
+C1258,Kenya Kabare AB,February 2014,95,64.0,84.0,9.0,9.0,9.0,9.0,9.0,RL2,R112,42.62323995414327
+C1259,El Salvador Santa Elena Honey Pacamara,February 2014,94,55.0,68.0,9.0,9.0,8.0,9.0,9.0,RL5,R292,55.85114200887739
+C1260,Kenya Makwa AB,February 2014,95,51.0,59.0,9.0,9.0,8.0,10.0,9.0,RL3,R292,47.032540639054645
+C1261,Ethiopia Yirgacheffe ECX Auction Lot,February 2014,94,56.0,71.0,9.0,9.0,8.0,9.0,9.0,RL5,R292,49.97207442899556
+C1262,Ethiopia Ninety Plus Pheribo N2,January 2014,95,66.0,85.0,9.0,9.0,9.0,9.0,9.0,RL2,R193,115.5
+C1263,Ethiopia Washed Sidama Shilcho Coop G1,January 2014,94,64.0,80.0,9.0,9.0,9.0,9.0,8.0,RL2,R156,47.289402323684385
+C1264,Ethiopia Washed Yirgacheffe “Mini-Me” 2014,January 2014,96,50.0,65.0,10.0,9.0,8.0,10.0,9.0,RL3,R264,72.75292665182214
+C1265,Panama Los Lajones Bambu Geisha,December 2013,96,57.0,78.0,10.0,9.0,8.0,10.0,9.0,RL5,R292,264.55026455026456
+C1266,Kikai Kenya,December 2013,95,52.0,62.0,9.0,9.0,8.0,10.0,8.0,RL3,R170,42.62323995414327
+C1267,Panama Gesha Perci Red,December 2013,96,66.0,88.0,10.0,9.0,9.0,10.0,8.0,RL2,R21,212.96922308121933
+C1268,Organic Ethiopian Yirgacheffe Idido,December 2013,94,59.0,74.0,9.0,10.0,8.0,9.0,8.0,RL5,R328,46.29765719156942
+C1269,Holiday Blend,December 2013,95,56.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R315,37.47878039639322
+C1270,Panama Finca La Mula Geisha Natural,December 2013,94,60.0,75.0,9.0,9.0,8.0,9.0,9.0,RL5,R103,220.23809523809524
+C1271,Kenya Gichuka AA,November 2013,94,56.0,72.0,9.0,9.0,9.0,9.0,8.0,RL5,R292,49.97207442899556
+C1272,Ethiopia Washed Yirgacheffe Mini-Me,November 2013,94,50.0,62.0,9.0,9.0,8.0,9.0,9.0,RL3,R264,72.75292665182214
+C1273,Ganesha Espresso,November 2013,94,49.0,59.0,9.0,9.0,9.0,8.0,9.0,RL3,R308,30.842831632090654
+C1274,Ethiopia Kelenso Mokanisa,November 2013,94,59.0,73.0,9.0,9.0,9.0,9.0,8.0,RL5,R308,41.1240777212734
+C1275,Lennette Kenya,November 2013,94,56.0,68.0,9.0,9.0,8.0,9.0,9.0,RL5,R28,
+C1276,Ethiopia Banko Natural,November 2013,94,58.0,75.0,9.0,9.0,9.0,9.0,8.0,RL5,R206,47.91440077603693
+C1277,Ethiopia Ninety Plus Nekisse Red,November 2013,95,49.0,66.0,9.0,9.0,9.0,9.0,9.0,RL3,R214,191.0696963461595
+C1278,Ethiopia Yirgacheffe Kochere Aricha,November 2013,94,53.0,79.0,9.0,9.0,9.0,9.0,8.0,RL5,R189,35.56835885828507
+C1279,Makwa Kenya Nyeri,October 2013,94,57.0,71.0,9.0,9.0,9.0,9.0,8.0,RL5,R28,52.88221288103706
+C1280,Panama Los Lajones Bambu Geisha Natural,October 2013,94,58.0,75.0,9.0,9.0,9.0,9.0,8.0,RL5,R215,264.32980599647266
+C1281,Juliette Red Ninety Plus Gesha Estate Panama,October 2013,94,53.0,72.0,9.0,9.0,9.0,9.0,8.0,RL5,R193,731.5
+C1282,100% Kona High Mountain Io Extra Fancy,October 2013,94,55.0,75.0,9.0,9.0,9.0,9.0,8.0,RL5,R141,158.50970017636683
+C1283,Sumatra Blue Batak Peaberry,October 2013,94,53.0,68.0,9.0,9.0,9.0,9.0,8.0,RL3,R292,48.50230753402511
+C1284,Panama Gesha Ninety Plus Perci Red,October 2013,95,52.0,68.0,9.0,10.0,8.0,9.0,8.0,RL3,R214,191.0696963461595
+C1285,El Agulia Pacamara El Salvador,October 2013,94,63.0,82.0,8.0,9.0,9.0,9.0,9.0,RL2,R206,51.14788794497192
+C1286,Mexico Finca Kassandra Pacamara,October 2013,94,55.0,68.0,9.0,9.0,9.0,9.0,8.0,RL5,R130,49.97207442899556
+C1287,Panama Finca Santa Teresa Honey Geisha,October 2013,94,55.0,66.0,9.0,8.0,9.0,9.0,9.0,RL3,R49,407.4074074074074
+C1288,Batista Natural Geisha,October 2013,94,65.0,84.0,9.0,9.0,8.0,9.0,9.0,RL2,R120,276.4550264550264
+C1289,Perci N2 Ninety Plus Gesha Estates Panama,October 2013,94,58.0,71.0,9.0,9.0,8.0,9.0,9.0,RL5,R193,269.5
+C1290,Ethiopia Sidama Deri Kochoha,September 2013,94,52.0,66.0,9.0,9.0,9.0,9.0,8.0,RL3,R112,39.68370616420236
+C1291,Kenya Kirinyaga Karimikui Peaberry,September 2013,95,52.0,66.0,10.0,9.0,8.0,9.0,9.0,RL3,R112,42.62323995414327
+C1292,Ethiopia Yirgacheffe,September 2013,94,59.0,84.0,9.0,9.0,9.0,9.0,8.0,RL2,R323,44.09300684911373
+C1293,Panama Auromar Estate “Ironman” Geisha,September 2013,94,56.0,82.0,9.0,9.0,9.0,9.0,8.0,RL5,R212,233.64197530864197
+C1294,Kenya Ruira Mchana Estate,September 2013,94,51.0,55.0,9.0,9.0,8.0,9.0,9.0,RL3,R160,45.56277374408419
+C1295,Honeyed Yellow Caturra,August 2013,94,52.0,60.0,8.0,9.0,9.0,9.0,9.0,RL3,R25,117.57789535567314
+C1296,Hawaii Ka’u Isla,August 2013,94,57.0,75.0,9.0,9.0,9.0,9.0,8.0,RL5,R215,96.85763837855318
+C1297,Ethiopia Yirgacheffe Kochere Grade 1,August 2013,94,58.0,74.0,9.0,8.0,9.0,9.0,9.0,RL5,R292,45.56277374408419
+C1298,Colombia Valle del Cauca Cerro Azul Geisha AAA,August 2013,96,60.0,81.0,10.0,9.0,9.0,10.0,8.0,RL5,R319,263.44797178130506
+C1299,Nyala Kenya Peaberry,August 2013,94,55.0,68.0,8.0,9.0,8.0,10.0,9.0,RL5,R147,44.063611511214326
+C1300,Ethiopia Kercha Naturally Processed Sidama,July 2013,94,64.0,81.0,9.0,8.0,9.0,9.0,9.0,RL2,R115,38.360915958728945
+C1300,Ethiopia Kercha Naturally Processed Sidama,July 2013,94,64.0,81.0,9.0,8.0,9.0,9.0,9.0,RL2,R115,38.360915958728945
+C1301,Kenya AA Top Lot A114,July 2013,94,49.0,62.0,9.0,9.0,9.0,9.0,8.0,RL3,R264,116.4046826429154
+C1302,Mchana Kenya Peaberry,July 2013,95,53.0,65.0,10.0,9.0,8.0,9.0,9.0,RL3,R147,47.003145301155236
+C1303,Deri Kochoha Ethiopian Sidamo,June 2013,94,57.0,72.0,9.0,9.0,9.0,9.0,8.0,RL5,R147,44.063611511214326
+C1304,Kemgin Ethiopia,June 2013,94,51.0,62.0,10.0,8.0,8.0,9.0,9.0,RL3,R40,42.99036574880399
+C1305,Lintong Sumatra Dolok Sangul,June 2013,94,54.0,77.0,9.0,9.0,8.0,9.0,9.0,RL5,R319,48.50230753402511
+C1306,Momma Bear Espresso,June 2013,94,56.0,76.0,9.0,8.0,9.0,9.0,9.0,RL5,R305,49.97207442899556
+C1307,Ethiopia Yirgacheffe Kochere G1,June 2013,94,58.0,75.0,9.0,9.0,8.0,10.0,8.0,RL5,R319,48.500881834215164
+C1308,Maragogype Honey Process,May 2013,94,51.0,75.0,8.0,9.0,8.0,10.0,9.0,RL5,R249,201.57226365652087
+C1309,Ninety Plus Kemgin W2 Ethiopia,May 2013,94,49.0,65.0,9.0,9.0,9.0,8.0,9.0,RL3,R42,94.57880464736877
+C1310,Ethiopia Dry Process Saris Abaya,May 2013,94,59.0,72.0,9.0,8.0,9.0,9.0,9.0,RL5,R49,65.47619047619047
+C1311,Kenya AB Top Lot Single-Origin Espresso,May 2013,94,46.0,53.0,9.0,9.0,9.0,9.0,8.0,RL4,R264,94.57880464736877
+C1312,Geisha S94,April 2013,94,61.0,93.0,9.0,7.0,9.0,9.0,10.0,RL2,R298,365.79999999999995
+C1313,Sumatra Mandheling Wahana,April 2013,94,59.0,76.0,9.0,8.0,8.0,10.0,9.0,RL5,R170,39.68370616420236
+C1314,Geisha P.E.B. (RFA),April 2013,94,56.0,83.0,9.0,9.0,8.0,9.0,9.0,RL5,R298,746.8000000000001
+C1315,Ethiopia Dry Process Grade 1 Aricha Yirgacheffe,April 2013,95,56.0,81.0,9.0,9.0,9.0,10.0,9.0,RL5,R59,165.0
+C1316,Ethiopia Yirgacheffe ECX,April 2013,96,64.0,83.0,10.0,8.0,9.0,10.0,9.0,RL2,R292,45.56277374408419
+C1317,Tchembe Single Origin Espresso,April 2013,94,53.0,66.0,9.0,8.0,9.0,9.0,9.0,RL3,R21,55.005621817059456
+C1318,El Salvador Santa Marta Honey,March 2013,94,55.0,79.0,9.0,9.0,8.0,9.0,9.0,RL5,R215,49.82509773949852
+C1319,Rwanda Nyamasheke,March 2013,95,56.0,73.0,9.0,9.0,9.0,10.0,8.0,RL5,R23,41.15347305917282
+C1320,Kenya Riakiberu Peaberry,March 2013,95,45.0,67.0,9.0,9.0,8.0,10.0,9.0,RL3,R112,38.2139392692319
+C1321,Ethiopia Ninety Plus Kemgin,March 2013,96,52.0,73.0,10.0,9.0,9.0,9.0,9.0,RL5,R214,52.91160821893648
+C1322,Belekatu Ethiopia Yirgacheffe,February 2013,94,56.0,78.0,10.0,9.0,8.0,9.0,8.0,RL5,R147,44.063611511214326
+C1323,Yukro Ethiopia,February 2013,94,57.0,72.0,9.0,9.0,8.0,10.0,8.0,RL5,R123,61.73020958875922
+C1324,Kenya Nyeri Gaturiri Peaberry,February 2013,95,49.0,69.0,9.0,9.0,9.0,9.0,9.0,RL3,R214,47.032540639054645
+C1325,Rutana Burundi Espresso,February 2013,94,46.0,55.0,9.0,9.0,9.0,8.0,9.0,RL4,R147,41.1240777212734
+C1326,La Esmeralda Mario Carnaval 2012 Panama,February 2013,96,66.0,86.0,9.0,9.0,9.0,10.0,9.0,RL2,R123,
+C1327,Sumatra Wahana Natural,February 2013,94,59.0,69.0,10.0,8.0,8.0,10.0,8.0,RL5,R17,47.620447397042824
+C1328,Kenya Mukurweini Kamuchuni AA,February 2013,94,53.0,63.0,9.0,9.0,9.0,9.0,8.0,RL3,R319,52.91160821893648
+C1329,Sweet Breeze,January 2013,94,58.0,76.0,9.0,8.0,9.0,10.0,8.0,RL5,R134,72.75132275132275
+C1330,Washed Yirgacheffe,January 2013,94,61.0,81.0,9.0,9.0,9.0,9.0,8.0,RL2,R134,58.201058201058196
+C1331,Ninety Plus Sillvia SK L95,January 2013,94,55.0,75.0,10.0,8.0,9.0,9.0,8.0,RL5,R162,400.0
+C1332,Yirgacheffe Belekatu,January 2013,95,52.0,70.0,9.0,9.0,9.0,9.0,9.0,RL5,R200,44.09300684911373
+C1333,Mexico Santa Teresa BCS 02: Cabernet Franc Barrel,January 2013,95,58.0,79.0,9.0,9.0,9.0,9.0,9.0,RL5,R58,58.79067579881831
+C1334,Yirgacheffe Blue Nile,January 2013,94,54.0,73.0,9.0,9.0,8.0,10.0,8.0,RL5,R138,38.58109746687537
+C1335,Ethiopia Yirgacheffe Kochere,January 2013,94,53.0,69.0,9.0,9.0,8.0,9.0,9.0,RL5,R215,43.94603015961668
+C1336,Mario San Jose Geisha,December 2012,94,54.0,71.0,10.0,8.0,8.0,9.0,9.0,RL5,R212,297.17813051146385
+C1337,Kenya Kamviu,December 2012,95,52.0,61.0,9.0,9.0,9.0,9.0,9.0,RL3,R292,48.50230753402511
+C1338,Panama La Esmeralda Especial,December 2012,95,57.0,74.0,9.0,9.0,8.0,10.0,9.0,RL5,R160,140.91710758377425
+C1339,Jingle Bell Natural Yirgacheffe,December 2012,95,58.0,84.0,9.0,9.0,8.0,10.0,9.0,RL2,R176,44.091710758377424
+C1340,Rwanda Abakundakawa,December 2012,94,58.0,82.0,8.0,9.0,9.0,9.0,9.0,RL5,R328,43.3581234016285
+C1341,Ethiopia Nekisse,December 2012,94,63.0,79.0,9.0,9.0,8.0,9.0,9.0,RL2,R31,99.83361064891847
+C1342,Panama Don Pachi Natural Geisha,December 2012,96,62.0,86.0,9.0,9.0,9.0,10.0,9.0,RL2,R212,264.5061728395062
+C1343,"Finca El Injerto Patagonia, Guatemala",November 2012,94,59.0,78.0,9.0,9.0,8.0,9.0,9.0,RL5,R212,87.96296296296295
+C1344,Colombia Geisha,November 2012,94,46.0,68.0,9.0,8.0,9.0,9.0,9.0,RL3,R132,88.14814814814814
+C1345,Colombia La Esperanza Cerro Azul Geisha,November 2012,96,58.0,81.0,9.0,9.0,9.0,10.0,9.0,RL5,R212,154.320987654321
+C1346,Ethiopia Washed Yirgacheffe Aroma Roast,November 2012,94,53.0,64.0,9.0,8.0,8.0,10.0,9.0,RL3,R264,69.11528031923103
+C1347,Bourbon Duets,November 2012,94,47.0,59.0,9.0,9.0,9.0,9.0,8.0,RL3,R67,72.75292665182214
+C1348,Lycello Panama Gesha,November 2012,95,56.0,71.0,9.0,9.0,8.0,10.0,9.0,RL5,R21,100.20062170682776
+C1349,Karatu Kenya AA,October 2012,94,53.0,67.0,9.0,9.0,9.0,9.0,8.0,RL3,R147,49.942679091096146
+C1350,Kenya Mamuto,October 2012,96,61.0,76.0,9.0,9.0,9.0,10.0,9.0,RL5,R293,73.48834474852288
+C1351,Kenya Thunguri – Top Auction Lot,October 2012,94,49.0,62.0,9.0,9.0,8.0,9.0,9.0,RL3,R212,55.67476998148094
+C1352,Kenya Nyeri AA Tegu,October 2012,95,56.0,76.0,9.0,9.0,8.0,9.0,10.0,RL5,R59,148.5
+C1353,Panama Gesha Estates: Perci Estate 29 Natural,October 2012,95,60.0,78.0,,,,,,RL5,R327,198.4126984126984
+C1354,Ethiopia Hachira,October 2012,94,58.0,74.0,8.0,9.0,9.0,10.0,8.0,RL5,R305,110.22927689594356
+C1355,Goldilocks Espresso,October 2012,94,56.0,75.0,9.0,9.0,9.0,9.0,9.0,RL5,R305,44.09300684911373
+C1356,Roastmaster’s Reserve Esmeralda,September 2012,97,52.0,66.0,10.0,9.0,9.0,10.0,9.0,RL3,R57,88.13932980599647
+C1357,Panama Don Pachi Natural Geisha,September 2012,94,61.0,77.0,10.0,8.0,9.0,9.0,8.0,RL5,R28,264.5061728395062
+C1358,Ethiopia Nanno Challa Cooperative,August 2012,94,53.0,66.0,8.0,8.0,9.0,10.0,9.0,RL3,R212,49.76630706369969
+C1359,"Esmeralda Leon, Panama Geisha Auction Lot",August 2012,96,52.0,73.0,9.0,9.0,9.0,10.0,9.0,RL5,R161,176.14638447971782
+C1360,Panama Don Pachi Natural Geisha,August 2012,94,55.0,78.0,9.0,9.0,8.0,10.0,8.0,RL5,R161,264.32980599647266
+C1361,Gelena Abaya Natural Processed Ethiopia,July 2012,94,66.0,88.0,10.0,8.0,8.0,9.0,9.0,RL2,R201,44.063611511214326
+C1362,Maui Mokka Peaberry,June 2012,95,42.0,55.0,9.0,9.0,9.0,9.0,9.0,RL4,R249,105.82010582010581
+C1363,Kona Maragogipe Honey S.O. Espresso,June 2012,94,53.0,63.0,9.0,8.0,9.0,9.0,9.0,RL3,R264,232.80423280423278
+C1364,Panama Lerida Estate,May 2012,94,51.0,61.0,9.0,9.0,8.0,10.0,8.0,RL3,R132,57.291513565948435
+C1365,Colombian La Esperanza,March 2012,94,58.0,73.0,9.0,8.0,9.0,9.0,9.0,RL5,R21,39.573182830309314
+C1366,Colombia Finca Villa Loyola,March 2012,94,60.0,72.0,8.0,9.0,9.0,9.0,9.0,RL5,R212,53.9404450454158
+C1367,El Vergel Guatemala,March 2012,97,61.0,75.0,10.0,9.0,9.0,10.0,9.0,RL5,R293,48.50230753402511
+C1368,Kenya Nyeri AA Gaturiri,March 2012,94,45.0,52.0,9.0,9.0,8.0,9.0,9.0,RL4,R303,70.50264550264549
+C1369,Colombia Huila Monserrate Yaneth Gil Microlot,March 2012,94,54.0,63.0,9.0,9.0,8.0,9.0,9.0,RL3,R319,41.88712522045855
+C1370,Colombia El Roble Single Origin Espresso,February 2012,94,48.0,59.0,8.0,8.0,9.0,10.0,9.0,RL3,R293,52.17672477145125
+C1371,Kenya AA Top Single Origin Espresso,February 2012,96,47.0,59.0,9.0,9.0,10.0,9.0,9.0,RL3,R264,101.85409731255099
+C1372,El Salvador Santa Rita,February 2012,94,56.0,80.0,9.0,8.0,9.0,9.0,9.0,RL5,R170,33.0697551368353
+C1373,Kenya Meru Kinjo Peaberry,February 2012,94,54.0,72.0,9.0,9.0,8.0,9.0,9.0,RL5,R147,58.76128046091889
+C1374,Ethiopia Yirgacheffe Gedeo Worka Fair Trade Organic Certified,February 2012,94,59.0,89.0,9.0,9.0,8.0,9.0,8.0,RL2,R147,47.003145301155236
+C1375,Rusty’s Hawaiian Red Caturra Natural,January 2012,94,55.0,64.0,9.0,9.0,8.0,9.0,9.0,RL3,R327,99.18649000198418
+C1376,Guatemala El Injerto Pacamara,January 2012,95,54.0,64.0,9.0,9.0,9.0,10.0,8.0,RL3,R327,77.1401485923411
+C1377,Colombia Granja La Esperanza Geisha,January 2012,96,0.0,0.0,10.0,8.0,9.0,10.0,9.0,,R103,141.09347442680775
+C1378,Honey Pot Espresso,December 2011,94,55.0,74.0,9.0,9.0,9.0,9.0,9.0,RL5,R164,47.032540639054645
+C1379,Guatemala El Diamante,December 2011,94,53.0,70.0,9.0,8.0,10.0,9.0,8.0,RL5,R292,45.56277374408419
+C1380,Mocha Java,December 2011,95,47.0,62.0,9.0,8.0,9.0,10.0,9.0,RL3,R132,27.89617566653929
+C1381,Guatemala Pandora Pacamara Medium-Light Roast,December 2011,96,52.0,63.0,10.0,9.0,8.0,10.0,9.0,RL3,R48,110.22927689594356
+C1382,Panama Geisha Aroma Roast,December 2011,95,49.0,71.0,10.0,9.0,9.0,10.0,8.0,RL3,R264,378.3068783068783
+C1383,Starlight Blend,November 2011,96,54.0,67.0,8.0,9.0,9.0,10.0,10.0,RL3,R57,33.04746577305497
+C1384,Kenya Nyeri AB Gichatha-ini Signature Series,November 2011,97,45.0,60.0,9.0,9.0,9.0,10.0,10.0,RL3,R329,48.50195110121475
+C1385,Colombia Tolimas,November 2011,95,50.0,56.0,9.0,9.0,9.0,9.0,9.0,RL3,R313,44.09300684911373
+C1386,Ethiopia Harrar,November 2011,94,48.0,70.0,9.0,9.0,8.0,9.0,9.0,RL3,R77,45.2688203650901
+C1387,El Salvador Nombre de Dios,November 2011,94,53.0,73.0,8.0,9.0,9.0,9.0,9.0,RL5,R164,41.15347305917282
+C1388,Panama Elida Estate,November 2011,95,54.0,80.0,9.0,9.0,9.0,9.0,9.0,RL5,R164,41.15347305917282
+C1389,Panama Elida Estate Natural Process,November 2011,94,52.0,76.0,10.0,8.0,9.0,9.0,8.0,RL5,R164,41.15347305917282
+C1390,Ethiopia Sidamo Guji,October 2011,94,57.0,81.0,9.0,8.0,8.0,9.0,10.0,RL5,R170,36.74417237426144
+C1391,Kenya Karinga,October 2011,95,52.0,67.0,9.0,9.0,9.0,10.0,8.0,RL3,R324,58.79067579881831
+C1392,Kenya Kiandu,September 2011,95,54.0,81.0,8.0,9.0,9.0,10.0,9.0,RL5,R125,67.60927716864106
+C1393,Kenya Karatu AA,September 2011,95,50.0,68.0,9.0,9.0,8.0,10.0,9.0,RL3,R68,88.03903700873042
+C1394,Kenya Giakanja,September 2011,94,51.0,75.0,9.0,9.0,8.0,10.0,8.0,RL5,R161,67.462300479144
+C1395,Kenya AA Kiaora Estate Full City Roast,September 2011,94,47.0,56.0,9.0,8.0,8.0,10.0,9.0,RL3,R281,37.47878039639322
+C1396,Kenya Kirinyaga Kii Peaberry Espresso,August 2011,94,37.0,49.0,8.0,9.0,10.0,9.0,8.0,RL4,R147,41.006496369675766
+C1397,Sumatra Lake Tawar,August 2011,94,49.0,56.0,9.0,8.0,8.0,10.0,9.0,RL3,R28,46.29765719156942
+C1398,Espresso Nuevo,August 2011,95,39.0,54.0,9.0,9.0,9.0,9.0,9.0,RL4,R215,38.066962579734856
+C1399,Nicaragua SHG,August 2011,94,50.0,61.0,8.0,9.0,9.0,9.0,9.0,RL3,R277,35.27414625542891
+C1400,Costa Rica Micro Lot “Pepe” Honey Processed,July 2011,95,53.0,69.0,9.0,9.0,9.0,10.0,8.0,RL5,R17,43.799053470119645
+C1401,Panama Gesha 2011,July 2011,94,53.0,68.0,9.0,9.0,8.0,10.0,8.0,RL3,R21,110.12147534116714
+C1402,Guatemala Xeucalvitz,July 2011,95,58.0,79.0,9.0,9.0,9.0,9.0,9.0,RL5,R66,48.0
+C1403,Kenya Gethembwini,June 2011,95,57.0,73.0,8.0,9.0,9.0,9.0,9.0,RL5,R43,61.73020958875922
+C1404,Ibonia Kenya Peaberry,June 2011,94,51.0,69.0,9.0,9.0,8.0,9.0,9.0,RL3,R66,60.0
+C1405,Colombia Finca Cerro Azul,May 2011,95,57.0,68.0,9.0,9.0,8.0,9.0,9.0,RL5,R28,83.7742504409171
+C1406,El Patron Nicaragua Espresso,May 2011,94,46.0,53.0,9.0,8.0,9.0,9.0,9.0,RL4,R168,21.032209704799488
+C1406,El Patron Nicaragua Espresso,May 2011,94,46.0,53.0,9.0,8.0,9.0,9.0,9.0,RL4,R168,21.032209704799488
+C1407,Ethiopia Yirgacheffe Addis Ketema North Italian Espresso Roast,May 2011,94,50.0,59.0,9.0,8.0,9.0,10.0,8.0,RL3,R293,47.032540639054645
+C1408,Bolivia Caranavi Cenaproc Co-op,May 2011,94,43.0,55.0,8.0,9.0,9.0,10.0,8.0,RL4,R319,41.88712522045855
+C1409,Kenya Ndiara,April 2011,94,52.0,68.0,9.0,9.0,8.0,10.0,8.0,RL3,R293,54.381375113906934
+C1410,Guatemala La Conception,April 2011,95,53.0,59.0,8.0,8.0,8.0,10.0,10.0,RL3,R293,49.82509773949852
+C1411,Colombia La Escuelita,April 2011,95,57.0,65.0,8.0,9.0,8.0,10.0,9.0,RL5,R66,52.0
+C1412,Kenya Thiriku Top Auction Lot,March 2011,95,54.0,64.0,9.0,9.0,9.0,9.0,9.0,RL3,R212,59.52555924630354
+C1413,Extra Fancy Kona Coffee Medium Roast,March 2011,94,55.0,71.0,10.0,8.0,8.0,10.0,8.0,RL5,R141,88.07513393152408
+C1414,El Salvador La Montana Pacamara,February 2011,94,55.0,61.0,9.0,8.0,8.0,10.0,9.0,RL3,R68,46.29765719156942
+C1415,Stars of Formosa Blend,January 2011,94,54.0,78.0,8.0,8.0,9.0,9.0,10.0,RL5,R60,87.30158730158729
+C1416,Kenya Kagongo Peaberry,January 2011,95,45.0,59.0,9.0,10.0,8.0,9.0,9.0,RL3,R292,55.85114200887739
+C1417,Kenya Peaberry Muthunzunni Estate,January 2011,95,43.0,54.0,9.0,9.0,9.0,9.0,9.0,RL4,R12,41.006496369675766
+C1418,Kenya Kangunu,January 2011,95,50.0,66.0,9.0,10.0,8.0,10.0,8.0,RL3,R293,61.73020958875922
+C1419,Ethiopia Konga Co-op Yirgacheffe,January 2011,95,50.0,66.0,9.0,9.0,9.0,9.0,9.0,RL3,R293,46.8855639495576
+C1420,Honduras David Mancia,December 2010,94,57.0,73.0,9.0,9.0,8.0,9.0,9.0,RL5,R66,42.0
+C1421,Hawaii Isla Kona Mauka,December 2010,94,53.0,71.0,9.0,9.0,8.0,9.0,9.0,RL5,R212,132.83753196742995
+C1422,Ethiopia Nekisse Espresso,December 2010,94,48.0,56.0,9.0,8.0,9.0,9.0,9.0,RL3,R68,111.55530732825774
+C1423,Panama Mama Cata Geisha,December 2010,95,47.0,62.0,9.0,9.0,8.0,9.0,8.0,RL3,R215,155.02645502645504
+C1424,El Salvador Pacamara Finca Los Alpes The Bank,December 2010,94,58.0,78.0,9.0,9.0,8.0,9.0,9.0,RL5,R147,43.94603015961668
+C1425,Honduras Fernandez Farm,December 2010,94,54.0,73.0,10.0,9.0,8.0,9.0,8.0,RL5,R51,79.36507936507937
+C1426,Resiprocate Verita Espresso,December 2010,94,40.0,49.0,9.0,9.0,9.0,9.0,8.0,RL4,R55,323.5
+C1426,Resiprocate Verita Espresso,December 2010,94,40.0,49.0,9.0,9.0,9.0,9.0,8.0,RL4,R55,323.5
+C1427,Ka’u Coffee Natural Dried,November 2010,95,46.0,67.0,8.0,10.0,9.0,9.0,9.0,RL3,R249,119.04761904761904
+C1428,Stars of Italy Espresso,October 2010,96,46.0,60.0,9.0,9.0,10.0,9.0,9.0,RL3,R61,87.30158730158729
+C1429,Guatemala Hunapu Antigua Bourbon,October 2010,97,48.0,58.0,10.0,9.0,9.0,10.0,8.0,RL3,R292,44.09300684911373
+C1430,Kenya Bourbon French Mission,September 2010,94,55.0,83.0,9.0,9.0,8.0,9.0,9.0,RL5,R60,87.30158730158729
+C1431,Kenya Peaberry Kirinyaga Kii,September 2010,94,49.0,73.0,9.0,9.0,8.0,9.0,9.0,RL5,R147,43.94603015961668
+C1432,El Salvador Pacamara Finca Los Alpes Tierra Fertil,August 2010,94,56.0,69.0,9.0,9.0,8.0,10.0,8.0,RL5,R147,35.12742878979393
+C1433,Panama Esmeralda Mario Carnival,August 2010,94,52.0,68.0,9.0,9.0,8.0,9.0,8.0,RL3,R215,155.02645502645504
+C1434,Panama La Esmeralda Especial Mario San Jose,August 2010,94,49.0,62.0,9.0,9.0,8.0,9.0,9.0,RL3,R28,123.45679012345678
+C1435,Mocha Java Espresso,August 2010,95,48.0,57.0,9.0,9.0,9.0,9.0,9.0,RL3,R289,24.27302189201702
+C1435,Mocha Java Espresso,August 2010,95,48.0,57.0,9.0,9.0,9.0,9.0,9.0,RL3,R289,24.27302189201702
+C1436,Ethiopia Nekisse,August 2010,96,50.0,65.0,9.0,8.0,8.0,10.0,9.0,RL3,R68,111.55530732825774
+C1437,Sumatra Aceh Pondok,June 2010,94,58.0,83.0,9.0,8.0,8.0,9.0,9.0,RL5,R147,35.12742878979393
+C1438,Ethiopian Sidamo Fair Trade/Organic,June 2010,95,57.0,76.0,9.0,9.0,8.0,9.0,9.0,RL5,R147,38.066962579734856
+C1439,People’s Daily Espresso,May 2010,94,48.0,57.0,9.0,9.0,9.0,8.0,9.0,RL3,R271,25.897292689379466
+C1439,People’s Daily Espresso,May 2010,94,48.0,57.0,9.0,9.0,9.0,8.0,9.0,RL3,R271,25.897292689379466
+C1440,Tanzanian Songea Peaberry,May 2010,94,47.0,62.0,9.0,9.0,8.0,9.0,9.0,RL3,R115,28.483873101258848
+C1440,Tanzanian Songea Peaberry,May 2010,94,47.0,62.0,9.0,9.0,8.0,9.0,9.0,RL3,R115,28.483873101258848
+C1441,La Esperanza Colombia Huila,April 2010,95,63.0,72.0,9.0,9.0,8.0,10.0,9.0,RL5,R293,49.82509773949852
+C1442,Ethiopia Yirga Cheffe Koke Espresso,April 2010,94,53.0,72.0,9.0,8.0,9.0,10.0,8.0,RL5,R66,37.0
+C1443,Ethiopia Sidama ARDI,April 2010,95,54.0,76.0,9.0,9.0,8.0,9.0,10.0,RL5,R66,40.0
+C1444,Sumatra Lake Tawar,April 2010,94,46.0,60.0,9.0,8.0,8.0,9.0,8.0,RL3,R22,31.967195043982453
+C1445,Ethiopia Yirgacheffe,March 2010,94,59.0,82.0,9.0,9.0,8.0,9.0,8.0,RL5,R215,38.2139392692319
+C1446,Sulawesi Toraja,February 2010,94,49.0,71.0,9.0,8.0,8.0,9.0,9.0,RL3,R300,
+C1447,Indonesia Blue Batak Peaberry,January 2010,94,39.0,53.0,9.0,8.0,8.0,9.0,9.0,RL4,R28,
+C1448,Romance by Paradise,January 2010,94,62.0,89.0,9.0,8.0,8.0,9.0,9.0,RL2,R215,
+C1449,Ethiopia Yirgacheffe Koke,December 2009,94,51.0,70.0,9.0,8.0,8.0,9.0,9.0,RL3,R19,
+C1450,Kenya Gichathaini,December 2009,94,52.0,82.0,9.0,8.0,8.0,9.0,8.0,RL5,R145,
+C1451,"Ethiopia Washed Yirgacheffe, Koke Grade 1",December 2009,97,49.0,78.0,9.0,8.0,8.0,10.0,9.0,RL5,R264,
+C1452,Kenya AA Top,December 2009,96,49.0,64.0,9.0,8.0,8.0,10.0,9.0,RL3,R264,
+C1453,Costa Rica Finca Cerro Palado,December 2009,95,55.0,77.0,8.0,8.0,9.0,9.0,9.0,RL5,R212,
+C1454,La Esmeralda,December 2009,95,55.0,82.0,9.0,8.0,8.0,9.0,9.0,RL5,R293,
+C1455,Kenya Githiru,November 2009,95,53.0,75.0,9.0,8.0,8.0,9.0,9.0,RL5,R161,
+C1456,Panama Elida Estate Natural,November 2009,95,55.0,79.0,9.0,8.0,8.0,9.0,9.0,RL5,R212,
+C1457,Fair Trade Organic Ethiopia Yirgacheffe,November 2009,94,45.0,61.0,9.0,8.0,8.0,9.0,8.0,RL3,R132,
+C1458,Hacienda La Esmeralda Special Mario Carnaval,September 2009,96,59.0,99.0,8.0,9.0,9.0,10.0,9.0,RL2,R212,
+C1459,Panama El Burro Estate,September 2009,94,44.0,73.0,9.0,8.0,8.0,9.0,9.0,RL3,R121,
+C1460,Ka’u Bourbon,July 2009,95,49.0,69.0,9.0,9.0,8.0,9.0,10.0,RL3,R249,
+C1461,Kenya Peaberry Thika Gethumbwini,June 2009,96,57.0,90.0,8.0,9.0,8.0,9.0,8.0,RL2,R147,
+C1462,Burundi Kinyovu,June 2009,95,53.0,77.0,9.0,9.0,8.0,9.0,9.0,RL5,R158,
+C1463,Bonsai Blend Espresso,May 2009,94,37.0,47.0,9.0,9.0,9.0,8.0,9.0,RL4,R315,
+C1464,Ethiopia Yirgacheffe Beloya Selection 8,April 2009,95,65.0,91.0,9.0,8.0,8.0,9.0,8.0,RL2,R21,
+C1465,Romance by Paradise,February 2009,95,51.0,66.0,9.0,8.0,8.0,9.0,7.0,RL3,R215,
+C1466,Kenya AA Gachatha,December 2008,95,47.0,58.0,9.0,8.0,8.0,9.0,8.0,RL3,R327,
+C1467,“Kona Sweet” 100% Kona,December 2008,97,62.0,83.0,9.0,8.0,8.0,9.0,9.0,RL2,R141,
+C1468,Kenya Ndiara Full Flavor Roast,December 2008,96,56.0,75.0,9.0,9.0,8.0,9.0,8.0,RL5,R293,
+C1469,Kenya Ndaroini Microlot,December 2008,95,52.0,69.0,9.0,8.0,8.0,9.0,9.0,RL3,R80,
+C1470,Sumatra Lintong,November 2008,94,55.0,75.0,9.0,8.0,9.0,9.0,8.0,RL5,R293,
+C1471,Panama Elida Natural,November 2008,95,57.0,81.0,8.0,8.0,8.0,9.0,9.0,RL5,R161,
+C1472,Ethiopia Sidamo Special Prep,November 2008,95,71.0,98.0,9.0,8.0,8.0,9.0,10.0,RL2,R212,
+C1473,El Salvador Finca Kilimanjaro,November 2008,95,71.0,99.0,9.0,8.0,8.0,9.0,9.0,RL2,R212,
+C1474,El Salvador Finca Siberia Pacamara,November 2008,94,50.0,56.0,8.0,8.0,8.0,8.0,9.0,RL3,R22,
+C1475,Panama Esmeralda Especial,September 2008,94,57.0,86.0,9.0,8.0,8.0,9.0,8.0,RL2,R212,
+C1476,La Esmeralda Panama,September 2008,95,54.0,71.0,8.0,8.0,8.0,9.0,9.0,RL5,R293,
+C1477,Panama Esmeralda Lot 9,September 2008,94,54.0,79.0,8.0,8.0,8.0,9.0,8.0,RL5,R161,
+C1478,Ethiopia Awassa Special,August 2008,94,57.0,85.0,9.0,8.0,8.0,9.0,8.0,RL2,R215,
+C1479,Kenya Peaberry Nyeri-Tatu,August 2008,94,48.0,63.0,8.0,8.0,7.0,9.0,9.0,RL3,R147,
+C1480,El Salvador Pacamara Tierra Fertil Los Alpes Reserva,July 2008,94,75.0,97.0,8.0,8.0,8.0,9.0,8.0,RL2,R147,
+C1481,Ruvuma Tanzanian Peaberry,July 2008,95,44.0,63.0,9.0,8.0,8.0,8.0,9.0,RL3,R300,
+C1482,Ethiopia Sidamo Natural Korate,June 2008,94,52.0,73.0,10.0,8.0,8.0,9.0,9.0,RL5,R12,
+C1483,Kenya AA Nyeri Tatu,June 2008,94,42.0,46.0,9.0,8.0,7.0,8.0,9.0,RL4,R147,
+C1484,Kenya Peaberry Ruera Estate,May 2008,96,46.0,54.0,9.0,9.0,8.0,9.0,9.0,RL4,R12,
+C1485,Brazil Fazenda Boa Vista,May 2008,94,55.0,65.0,8.0,8.0,8.0,8.0,8.0,RL3,R161,
+C1486,Panama Elida Estate,April 2008,95,64.0,82.0,8.0,8.0,9.0,9.0,9.0,RL2,R327,
+C1487,Ethiopia Yirgacheffe Aricha Selection #7,April 2008,94,49.0,65.0,9.0,8.0,8.0,9.0,8.0,RL3,R212,
+C1488,Guatemala El Injerto,March 2008,94,58.0,72.0,9.0,8.0,7.0,9.0,8.0,RL5,R293,
+C1489,Organic Colombia,February 2008,95,51.0,62.0,8.0,8.0,7.0,9.0,8.0,RL3,R328,
+C1490,Colombia Tolima Jairo Guiterrez Micro-Lot 07,February 2008,95,52.0,59.0,9.0,8.0,8.0,10.0,9.0,RL3,R215,
+C1491,Tres Santos Micro-Lot La Dorada Cauca,February 2008,94,56.0,66.0,8.0,8.0,7.0,8.0,8.0,RL5,R145,
+C1492,Nectar,January 2008,94,52.0,75.0,8.0,8.0,7.0,9.0,8.0,RL5,R232,
+C1493,La Minita Costa Rica,December 2007,94,59.0,79.0,8.0,8.0,8.0,8.0,10.0,RL5,R293,
+C1494,Kenya Kigutha,November 2007,95,53.0,65.0,9.0,8.0,7.0,9.0,8.0,RL3,R293,
+C1495,Hacienda La Esmeralda,November 2007,94,54.0,76.0,8.0,8.0,8.0,8.0,8.0,RL5,R327,
+C1496,Kenya AA Mathareini,November 2007,94,50.0,59.0,8.0,8.0,8.0,8.0,10.0,RL3,R327,
+C1497,Sumatra Lake Tawar,October 2007,95,48.0,63.0,9.0,8.0,7.0,8.0,9.0,RL3,R215,
+C1498,Kenyan Highland Cooperatives,October 2007,96,44.0,56.0,9.0,9.0,8.0,9.0,8.0,RL4,R132,
+C1499,Esmeralda Especial Best of Panama,October 2007,97,44.0,58.0,9.0,8.0,8.0,10.0,9.0,RL3,R300,
+C1500,Esmeralda Especial Panama,September 2007,94,51.0,66.0,8.0,8.0,8.0,9.0,10.0,RL3,R161,
+C1501,Rwanda Karaba Fair Trade,September 2007,96,53.0,69.0,8.0,8.0,9.0,9.0,9.0,RL5,R4,
+C1502,Kenya Karogoto,August 2007,96,52.0,71.0,9.0,8.0,8.0,9.0,9.0,RL5,R293,
+C1503,Panama Hacienda La Esmeralda Gesha,August 2007,96,51.0,69.0,9.0,8.0,7.0,10.0,8.0,RL3,R215,
+C1504,Kenya AA Wagamuga Auction Lot,August 2007,97,45.0,70.0,8.0,8.0,9.0,9.0,8.0,RL3,R215,
+C1505,Ethiopia Natural Yirgacheffe Aricha Special Microlot,July 2007,95,55.0,76.0,10.0,8.0,8.0,8.0,8.0,RL5,R215,
+C1506,Aricha Selection Seven Ethiopia Yirgacheffe,July 2007,95,63.0,86.0,10.0,8.0,7.0,9.0,8.0,RL2,R200,
+C1507,Kenya Peaberry Deep River Estate,June 2007,95,44.0,58.0,9.0,8.0,9.0,8.0,7.0,RL3,R12,
+C1508,Ethiopia Biloya Special,May 2007,97,57.0,78.0,9.0,8.0,9.0,9.0,8.0,RL5,R215,
+C1509,India AA Elkhill Estate,May 2007,95,66.0,85.0,8.0,7.0,7.0,9.0,9.0,RL2,R327,
+C1510,Huila El Palacio Colombia,March 2007,94,55.0,66.0,9.0,8.0,8.0,8.0,8.0,RL3,R212,
+C1511,El Salvador Los Planes Cup of Excellence 2006,March 2007,95,50.0,62.0,8.0,8.0,8.0,8.0,9.0,RL3,R212,
+C1512,Natural Decaf Espresso,March 2007,94,30.0,44.0,9.0,8.0,7.0,8.0,10.0,RL1,R57,
+C1513,Decaf Organic Caffe Volcan,March 2007,94,39.0,57.0,9.0,7.0,8.0,8.0,9.0,RL4,R301,
+C1514,Colombia Tolima Reynel Perez Micro-Lot,February 2007,96,52.0,66.0,10.0,9.0,8.0,8.0,8.0,RL3,R215,
+C1515,Colombia Huila Supremo,February 2007,94,57.0,68.0,8.0,7.0,9.0,8.0,8.0,RL5,R161,
+C1516,"Colombia Cauca, Special Micro-Lot Selection Juvenal Penna",February 2007,94,46.0,58.0,8.0,8.0,8.0,8.0,8.0,RL3,R166,
+C1517,Colombia El Castillo Micro-Lot Nelson Melo,February 2007,94,46.0,53.0,8.0,8.0,8.0,8.0,8.0,RL4,R5,
+C1518,Colombia Hato Viejo Cup of Excellence,February 2007,94,49.0,65.0,8.0,8.0,8.0,8.0,8.0,RL3,R12,
+C1519,Kenyan AA,December 2006,96,55.0,72.0,8.0,9.0,8.0,9.0,9.0,RL5,R132,
+C1520,El Salvador Los Planes Pacamara,December 2006,96,58.0,71.0,9.0,10.0,9.0,9.0,10.0,RL5,R311,
+C1521,El Salvador Pacamara Los Planes,December 2006,95,49.0,60.0,9.0,9.0,8.0,10.0,9.0,RL3,R145,
+C1522,Panama Esmeralda Especial,December 2006,95,56.0,69.0,10.0,9.0,8.0,10.0,9.0,RL5,R282,
+C1523,Nicaragua El Progresso COE Lot #1,December 2006,95,55.0,71.0,9.0,9.0,9.0,10.0,10.0,RL5,R311,
+C1524,Kenya Mamuto Kirinyaga,November 2006,96,52.0,65.0,9.0,8.0,7.0,9.0,8.0,RL3,R293,
+C1525,Belle Espresso,May 2006,94,43.0,49.0,9.0,8.0,8.0,8.0,9.0,RL4,R161,
+C1526,S.O. India Sitara,May 2006,94,45.0,67.0,8.0,9.0,8.0,9.0,8.0,RL3,R215,
+C1527,Colombia Pitalito Estate,February 2006,94,56.0,63.0,9.0,9.0,7.0,8.0,8.0,RL3,R300,
+C1528,"Hamma Cooperative Yirgacheffe, Fair-Trade Organic",January 2006,95,54.0,73.0,9.0,8.0,8.0,9.0,7.0,RL5,R253,
+C1529,Sumatra Golden Mandheling,December 2005,94,51.0,68.0,8.0,8.0,8.0,9.0,9.0,RL3,R294,
+C1530,Guatemala Antigua – Finca La Tacita,November 2005,94,51.0,64.0,8.0,8.0,8.0,9.0,10.0,RL3,R80,
+C1531,Kenya AA Nyeri Fine Cup,July 2005,94,35.0,43.0,9.0,9.0,7.0,9.0,9.0,RL1,R7,
+C1532,Kenya Kinuyu AA,November 2015,95,57.0,70.0,10.0,9.0,8.0,9.0,9.0,RL5,R292,61.73020958875922
+C1533,Panama Auromar Geisha Natural Peaberry,December 2015,96,53.0,70.0,9.0,9.0,9.0,10.0,9.0,RL5,R212,176.3668430335097
+C1534,El Burro Geisha Tachi Natural,December 2015,95,55.0,75.0,9.0,9.0,9.0,10.0,8.0,RL5,R121,138.011111437726
+C1535,Holiday Blend,December 2015,95,54.0,77.0,9.0,9.0,9.0,9.0,9.0,RL5,R124,44.827890296598966
+C1536,Holiday Blend,December 2015,95,66.0,82.0,9.0,9.0,8.0,10.0,9.0,RL2,R167,110.22927689594356
+C1537,Nicaragua Pacamara Los Congos Lot #8,December 2015,95,68.0,82.0,9.0,9.0,9.0,9.0,9.0,RL2,R204,80.0
+C1538,Panama Boquete Kotowa Gesha Natural,December 2015,94,64.0,84.0,9.0,8.0,9.0,9.0,9.0,RL2,R126,198.4126984126984
+C1539,Holiday Blend,December 2015,94,59.0,70.0,9.0,9.0,8.0,9.0,9.0,RL5,R206,55.5571886298833
+C1540,Panama Finca Auromar Camilina Natural,December 2015,94,66.0,90.0,9.0,9.0,8.0,9.0,9.0,RL2,R327,220.4585537918871
+C1541,El Aguila SL-28 El Salvador,November 2015,94,58.0,77.0,9.0,8.0,9.0,9.0,9.0,RL5,R147,55.116258561392165
+C1542,Ethiopia Sidama Special Lot Natural,November 2015,95,63.0,86.0,10.0,9.0,9.0,9.0,8.0,RL2,R94,52.91160821893648
+C1543,Panama Finca Deborah Caturra Natural,November 2015,94,65.0,88.0,9.0,9.0,8.0,9.0,9.0,RL2,R292,88.18342151675485
+C1544,Nekisse Red N2 Level 39,November 2015,96,63.0,74.0,9.0,9.0,9.0,10.0,9.0,RL5,R3,270.72
+C1545,Panama La Esmeralda Bosque Lot 1 Gesha,November 2015,94,64.0,85.0,9.0,9.0,9.0,9.0,8.0,RL2,R28,211.64021164021162
+C1546,Finca La Mula Panama Geisha Natural,November 2015,95,52.0,73.0,10.0,9.0,9.0,9.0,8.0,RL5,R147,220.23809523809524
+C1547,La Lagunita El Salvador,November 2015,94,59.0,79.0,9.0,9.0,9.0,9.0,8.0,RL5,R147,55.116258561392165
+C1548,Costa Rica Alberto Guardia Venecia Honey,November 2015,94,63.0,85.0,9.0,9.0,9.0,9.0,8.0,RL2,R292,54.381375113906934
+C1549,Nicaragua Cafe Vidita Los Congos Pacamara Natural,November 2015,95,63.0,91.0,9.0,9.0,9.0,9.0,9.0,RL2,R94,52.91160821893648
+C1550,Kenya Kigutha AA,November 2015,94,60.0,78.0,9.0,9.0,8.0,9.0,9.0,RL5,R21,52.76463152943943
+C1551,Guatemala San Sebastian Natural,December 2015,95,59.0,78.0,9.0,9.0,9.0,9.0,9.0,RL5,R312,58.0
+C1552,Ethiopia Hachira Natural Espresso,December 2015,94,62.0,87.0,9.0,9.0,9.0,8.0,9.0,RL2,R312,90.0
+C1553,Ethiopia Kochere Espresso Profile,December 2015,94,50.0,79.0,9.0,9.0,8.0,9.0,9.0,RL5,R312,56.25
+C1554,Kenya Nyeri Kiama FCS Ichuga Factory Peaberry,December 2015,95,49.0,68.0,9.0,9.0,9.0,9.0,9.0,RL3,R319,57.32090890384785
+C1555,Kenya Nyeri Thageini,December 2015,94,54.0,68.0,9.0,9.0,9.0,9.0,8.0,RL5,R313,52.91160821893648
+C1556,Kenya AA Lot-125 “Queen Flora”,December 2015,95,44.0,56.0,9.0,9.0,9.0,9.0,9.0,RL4,R264,130.95238095238093
+C1557,Ethiopia Natural Yirgacheffe Phoenix Special “King Solomon”,December 2015,94,48.0,60.0,9.0,9.0,9.0,8.0,9.0,RL3,R264,116.40211640211639
+C1558,Fully Washed Ethiopia Phoenix Special “Dr. Evil”,December 2015,94,45.0,57.0,9.0,8.0,9.0,9.0,9.0,RL3,R264,101.85185185185185
+C1559,Sulawesi “Tanah Kebangkitan” Phoenix Special Espresso,December 2015,94,44.0,56.0,9.0,9.0,9.0,8.0,9.0,RL4,R264,101.85185185185185
+C1560,Kenya AA Lot-122 “Excalibur” Espresso,December 2015,94,45.0,54.0,9.0,9.0,9.0,8.0,9.0,RL4,R264,130.95238095238093
+C1561,Panama Elida Natural Lot #13,December 2015,95,63.0,86.0,9.0,8.0,9.0,10.0,9.0,RL2,R204,80.0
+C1562,Emma’s Jo: The Leam Hammer Competition Espresso,December 2015,95,55.0,75.0,9.0,9.0,9.0,9.0,9.0,RL5,R94,52.91160821893648
+C1563,Costa Rica Sumava Natural Lot,December 2015,94,61.0,85.0,9.0,9.0,8.0,9.0,9.0,RL2,R204,80.0
+C1564,Ethiopia Nigusse Lemma,October 2015,94,58.0,76.0,9.0,9.0,8.0,9.0,9.0,RL5,R21,49.82509773949852
+C1565,Panama Altieri Natural Geisha,October 2015,96,49.0,72.0,10.0,9.0,9.0,9.0,9.0,RL3,R161,220.23809523809524
+C1566,Organic Espresso,October 2015,94,52.0,60.0,9.0,9.0,9.0,8.0,9.0,RL3,R47,44.09300684911373
+C1567,Kemgin Ninety Plus,October 2015,94,52.0,72.0,9.0,8.0,9.0,9.0,9.0,RL5,R21,76.28090184896675
