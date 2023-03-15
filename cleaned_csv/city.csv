@@ -1,0 +1,213 @@
+roaster_city,city_ID,country_id
+,City1,ctry37
+Acton,City2,ctry38
+Albuquerque,City3,ctry39
+Anchorage,City4,ctry39
+Annapolis,City5,ctry39
+Anoka,City6,ctry39
+Antigua,City7,ctry40
+Arcata,City8,ctry39
+Arlington,City9,ctry39
+Ashland,City10,ctry39
+Atlanta,City11,ctry39
+Austin,City12,ctry39
+Bedford,City13,ctry39
+Bellingham,City14,ctry39
+Belmar,City15,ctry39
+Berkeley,City16,ctry39
+Berlin,City17,ctry41
+Beverly,City18,ctry39
+Big Lake,City19,ctry39
+Billings,City20,ctry39
+Bogota,City21,ctry1
+Boston,City22,ctry39
+Boulder,City23,ctry39
+Bozeman,City24,ctry39
+Branford,City25,ctry39
+Brooklyn,City26,ctry39
+Buffalo,City27,ctry39
+Burlington,City28,ctry39
+Calgary,City29,ctry42
+Alberta,City30,ctry42
+Cambria,City31,ctry39
+Captain Cook,City32,ctry39
+Carbondale,City33,ctry39
+Carlsbad,City34,ctry39
+Changhua,City35,ctry15
+Changhua County,City36,ctry15
+Charlotte,City37,ctry39
+Charlottesville,City38,ctry39
+Chia-Yi,City39,ctry15
+Chicago,City40,ctry39
+Chino,City41,ctry39
+Chiya-Yi,City42,ctry43
+Columbus,City43,ctry39
+Crystal Lake,City44,ctry39
+Daejeon,City45,ctry44
+Denver,City46,ctry39
+Des Moines,City47,ctry39
+Douliou City,City48,ctry15
+Driftless,City49,ctry39
+Duluth,City50,ctry39
+Durango,City51,ctry10
+Durham,City52,ctry39
+Emeryville,City53,ctry39
+Eugene,City54,ctry39
+Everett,City55,ctry39
+Floyd,City56,ctry39
+Fort Bragg,City57,ctry39
+Fort Lauderdale,City58,ctry39
+Glendale,City59,ctry39
+Hamilton,City60,ctry42
+Harrisonburg,City61,ctry39
+Henderson,City62,ctry39
+Highland Park,City63,ctry39
+Hillsborough,City64,ctry39
+Hilo,City65,ctry39
+Holualoa,City66,ctry39
+Holulaloa,City67,ctry37
+Hong Kong,City68,ctry34
+Houston,City69,ctry39
+Hsinchu,City70,ctry15
+Hsinchu City,City71,ctry15
+Hudson,City72,ctry39
+I-Lan City,City73,ctry37
+Ithaca,City74,ctry39
+Jackson,City75,ctry39
+Jakarta,City76,ctry17
+Jersey City,City77,ctry39
+Johns Creek,City78,ctry39
+Ka'u,City79,ctry45
+Kansas City,City80,ctry39
+Kaohsiung,City81,ctry15
+Kaohslung City,City82,ctry37
+Keelung,City83,ctry15
+Kiambu County,City84,ctry2
+Kihei,City85,ctry39
+Maui,City86,ctry39
+Kowloon,City87,ctry34
+Hong Kong,City88,ctry34
+La Jolla,City89,ctry39
+Lake,City90,ctry39
+Lee,City91,ctry39
+Lexington,City92,ctry39
+Lincoln,City93,ctry39
+Llayla,City94,ctry37
+atipo Province,City95,ctry37
+Lloydminster,City96,ctry42
+Saskatchewan,City97,ctry42
+London,City98,ctry38
+London,City99,ctry38
+Ontario,City100,ctry42
+Longwood,City101,ctry39
+Los Angeles,City102,ctry39
+Louisville,City103,ctry39
+Macao,City104,ctry34
+Madison,City105,ctry39
+Manassas,City106,ctry39
+Manlius,City107,ctry39
+Markham,City108,ctry42
+Ontario,City109,ctry42
+Martinez,City110,ctry39
+Miami,City111,ctry39
+Milwaukee,City112,ctry39
+Minneapolis,City113,ctry39
+Minnesota,City114,ctry39
+Minxiong,City115,ctry15
+Chia-Yi,City116,ctry15
+Montrose,City117,ctry39
+Mount Shasta,City118,ctry39
+Mountain View,City119,ctry39
+Nantou,City120,ctry15
+New Brunswick,City121,ctry42
+New Orleans,City122,ctry39
+Newport Beach,City123,ctry39
+Newtown,City124,ctry38
+Sydney,City125,ctry46
+North Hollywood,City126,ctry39
+Oakland,City127,ctry39
+Oakville,City128,ctry42
+Ontario,City129,ctry42
+Olympia,City130,ctry47
+Osaka,City131,ctry43
+Ovledo,City132,ctry37
+Pahala,City133,ctry39
+Paju City (Gyeonggi-do),City134,ctry44
+Peoria,City135,ctry39
+Philadelphia,City136,ctry39
+Phoenix,City137,ctry39
+Pingtung,City138,ctry15
+Portland,City139,ctry39
+Post Falls,City140,ctry39
+Pu'Er Yunnan Province,City141,ctry34
+Pu’Er,City142,ctry34
+Yunnan Province,City143,ctry34
+Raleigh,City144,ctry39
+Ramsey,City145,ctry39
+Redding,City146,ctry39
+Redlands,City147,ctry39
+Reno,City148,ctry39
+Renton,City149,ctry39
+Richmond Hill,City150,ctry42
+Ontario,City151,ctry42
+Richmond,City152,ctry39
+British Columbia,City153,ctry42
+Roanoke,City154,ctry39
+Virginia and Floyd,City155,ctry39
+Rochester,City156,ctry39
+Sacamento,City157,ctry37
+Sacramento,City158,ctry39
+Salem,City159,ctry39
+San Diego,City160,ctry39
+San Dimas,City161,ctry39
+San Francisco,City162,ctry39
+San Jose,City163,ctry39
+San Juan Lachao,City164,ctry10
+Oaxaca,City165,ctry10
+San Luis Obispo,City166,ctry39
+San Rafael,City167,ctry39
+Santa Ana growing region,City168,ctry37
+Santa Monica,City169,ctry39
+Santa Rosa Beach,City170,ctry39
+Savannah,City171,ctry39
+Seattle,City172,ctry39
+Seoul,City173,ctry44
+Shanghai,City174,ctry34
+Silver Lake,City175,ctry39
+Sioux Falls,City176,ctry39
+Spokane,City177,ctry39
+St. Louis,City178,ctry39
+Suwanee,City179,ctry39
+Suzhou,City180,ctry34
+Taichung,City181,ctry15
+Tainan,City182,ctry15
+Taipei,City183,ctry15
+Taitung,City184,ctry15
+Taoyuan,City185,ctry15
+Tequesta,City186,ctry39
+Thermopolis,City187,ctry39
+Thornton,City188,ctry39
+Topeka,City189,ctry39
+Toronto,City190,ctry42
+Toronto,City191,ctry42
+Ontario,City192,ctry42
+Torrington,City193,ctry39
+Truckee,City194,ctry39
+Tucson,City195,ctry39
+Tulsa,City196,ctry39
+Upland,City197,ctry39
+Vancouver,City198,ctry42
+British Columbia,City199,ctry42
+Ventura,City200,ctry39
+Viroqua,City201,ctry39
+Washington,City202,ctry39
+Waterbury,City203,ctry39
+Waterbury Center,City204,ctry39
+YiLan,City205,ctry34
+Yila,City206,ctry25
+Yilan,City207,ctry34
+Yongin-Si,City208,ctry44
+Yorktown Heights,City209,ctry39
+Youngstown,City210,ctry39
+Zhubei,City211,ctry15
+Zhubei City,City212,ctry15
