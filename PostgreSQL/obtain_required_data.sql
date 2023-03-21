@@ -15,7 +15,7 @@ INNER JOIN ORIGIN AS O ON O.coffee_id = COFFEE.coffee_id
 INNER JOIN COUNTRY ON COUNTRY.country_id = O.coffee_origin_country_id;
 
 -- coffee from roaster and their location
-SELECT COFFEE.coffee_name, S.species_name, R.raoster_name AS roaster_name, CITY.roaster_city,
+SELECT COFFEE.coffee_name, R.raoster_name AS roaster_name, CITY.roaster_city,
 	COUNTRY.country_name AS roaster_country_name
 FROM SPECIES_INFO AS S
 INNER JOIN SPECIES_LINK ON SPECIES_LINK.species_id = S.species_id
