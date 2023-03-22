@@ -1,7 +1,7 @@
 # Top Quality Coffee Bean Production Chain
 ---
 ## Project Summary
-This project was investigating the selection of coffee beans and their production chain in the top quality coffee blends. To understand the coffee plant variants and properities of top quality coffee blends, the data was mined from world coffee search and coffee review institute. The top quality coffee rated by coffee review stated that more than 60% of top quality coffee are medium-light level. Most of the top quality selected the Geisha variants, followed by Bourbon and Typcia variants in their coffee blend. Moreover, aprroximately 25% of the coffee blend selected Ethiopia-grown coffee beans. This might because the average altitude in Ethiopia is higher than other countries and the altitude of coffee plants growth will highly influence the coffee bean quality.c
+This project was investigating the selection of coffee beans and their production chain in the top quality coffee blends. To understand the coffee plant variants and properities of top quality coffee blends, the data was mined from world coffee search and coffee review institute. The top quality coffee rated by coffee review stated that more than 60% of top quality coffee are medium-light level. Most of the top quality selected the Geisha variants, followed by Bourbon and Typcia variants in their coffee blend. Moreover, aprroximately 25% of the coffee blend selected Ethiopia-grown coffee beans. This might because the average altitude in Ethiopia is higher than other countries and the altitude of coffee plants growth will highly influence the coffee bean quality.
 
 ---
 
@@ -28,8 +28,11 @@ All nine tables were created using the script in [create_table](https://github.c
 
 ### Data Visualisation 
 
-<b>Data Visualization Tools:</br> PowerBI</br>
-The three csv files were imported and merged in PowerBI. A dashboard was created in PowerBI for data visualization.
+<b>Data Visualization Tools:</b> PowerBI</br>
+The three csv files were imported and merged in PowerBI. A dashboard was created in PowerBI for data visualization. </br>
+
+PowerBI visualisation example:
+![POWERBI_Geisha](https://github.com/wingylui/Self-project_Coffee/blob/main/PowerBI/coffee_species_dashboard_example.png)
 
 
 ---
