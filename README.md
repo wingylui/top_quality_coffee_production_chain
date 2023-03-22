@@ -19,7 +19,7 @@ Cleaning and transforming data was done in [coffee_review_data_cleaning](https:/
 The data was then transformed into mulitple tables for storing in PostregSQL database. The database layout was firstly designed and mapped in entity relationship diagram showed as below. All the primary keys were generated and imported into all the nine tables and merged them according to the foregin keys. The nine cleaned csv files were stored in [cleaned_csv file](https://github.com/wingylui/Self-project_Coffee/tree/main/cleaned_csv). </br>
 
 <b>Coffee Bean Entity Relationship Diagram:</b>
-[!COFFEE_ERD](https://github.com/wingylui/Self-project_Coffee/blob/main/PostgreSQL/Coffee_ERD.png)
+![COFFEE_ERD](https://github.com/wingylui/Self-project_Coffee/blob/main/PostgreSQL/Coffee_ERD.png)
 
 ### Creating Database and Query required information
 
