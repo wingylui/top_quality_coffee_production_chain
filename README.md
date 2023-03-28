@@ -18,8 +18,90 @@ Cleaning and transforming data was done in [coffee_review_data_cleaning](https:/
 
 The data was then transformed into mulitple tables for storing in PostregSQL database. The database layout was firstly designed and mapped in entity relationship diagram showed as below. All the primary keys were generated and imported into all the nine tables and merged them according to the foregin keys. The nine cleaned csv files were stored in [cleaned_csv file](https://github.com/wingylui/Self-project_Coffee/tree/main/cleaned_csv). </br>
 
-<b>Coffee Bean Entity Relationship Diagram:</b>
-![COFFEE_ERD](https://github.com/wingylui/Self-project_Coffee/blob/main/PostgreSQL/Coffee_ERD.png)
+<b>Coffee Bean Entity Relationship Diagram:</b></br>
+```mermaid
+---
+title: Coffee Species ERD
+---
+erDiagram
+    SPECIES_INFO ||--|{ SPECIES_LINK : From
+    SPECIES_INFO{
+        VARCHAR(6) species_id PK
+        VARCHAR(21) species_name
+        VARCHAR(15) plant_stature
+        VARCHAR(16) leaf_colour
+        VARCHAR(15) bean_size
+        VARCHAR(15) altitude_low_lat
+        VARCHAR(15) altitude_medium_lat
+        VARCHAR(15) altitude_high_lat
+        VARCHAR(15) quality_at_high_altitude
+        VARCHAR(15) yield_potential
+        VARCHAR(15) CLR_resistant
+        VARCHAR(15) CBD_resistant
+        VARCHAR(15) nematodes_resistant
+        VARCHAR(15) nutrition_require
+        VARCHAR(3) species_id FK
+    }
+
+    SPECIES_LINK }|--|| COFFEE_MAIN : From
+    SPECIES_LINK{
+        VARCHAR(5) coffee_ID FK
+        VARCHAR(6) species_coffee_id PK
+        VARCHAR(3) species_id FK
+
+    }
+
+    COFFEE_MAIN ||--|{ ORIGIN : Grow_in
+    COFFEE_MAIN {
+        VARCHAR(5) coffee_ID PK
+        VARCHAR(90) coffee_name
+        Date review_date
+        INT coffee_rating
+        INT agtron_WB
+        INT agtron_AG
+        INT aroma
+        INT acidity
+        INT body
+        INT flavor
+        INT aftertaste
+        VARCHAR(3) roast_lv_id FK
+        VARCHAR(4) roaster_ID FK
+        FLOAT price_per_kg_USD
+    }
+
+    ROASTER ||--|{ COFFEE_MAIN : made_by
+    ROASTER{
+        VARCHAR(4) raoster_id PK
+        VARCHAR(40) raoster_name
+        VARCHAR(7) city_id FK
+    }
+
+    CITY }|--|| ROASTER : in
+    CITY{
+        VARCHAR(30) roaster_city 
+        VARCHAR(7) city_ID PK
+        VARCHAR(6) country_id FK
+    }
+
+    ORIGIN ||--|{ COUNTRY : in
+    ORIGIN {
+        VARCHAR(5) coffee_ID FK
+        VARCHAR(5) origin_id PK
+        VARCHAR(6) coffee_origin_country_id FK
+    }
+
+    COUNTRY ||--|{ CITY : in
+    COUNTRY{
+        VARCHAR(6) country_id PK
+        VARCHAR(40) country_name
+    }
+
+    ROAST_LEVEL ||--|{ COFFEE_MAIN : Roasted
+    ROAST_LEVEL{
+        VARCHAR(12) roast_level
+        VARCHAR(3) roast_lv_id PK,FK
+    }
+```
 
 ### Creating Database and Query required information
 
